@@ -1,0 +1,48 @@
+/BuildRelease.sh:
+    - line 16: Changed SBC to WIFI
+
+/CoreN2G:
+    /src
+        /syscalls.cpp:
+            - Commented out CoreAllocCCMRamPermanent calls (no ccmram.cpp)
+        /STM32
+            /ccmram.cpp:
+                - Removed all ccmram (no ccmramend defined in linker script)
+            /variants/STM32F446/ (Added Folder):
+                /ldscript.ld:
+                    - linker script from BTT release
+                /variant.h:
+                    - replaced stm32f407 with stm32f466 pins
+                /variant.cpp (Copied from stm32f407 and BTT clock speeds used... I struggle with cubemx):
+                    - PeriphClkInitStruct
+                    - PLLM and PLLN values changed to 6 and 180 respectively 
+                    - PLLSAI clock info added 
+            /makefiles/STM32F4
+                /makefile
+                    - linker script changed to that of STM32F446
+                    - stm32f40 flags changed to stm32f446
+                    - remove all HWSERIAL flags except 1 and 3
+                /Core
+                    -Moved/replaced stm32f407 flag directory to stm32f446
+                /RepRapFirmware
+                    - removed BOSSA flag
+
+/RepRapFirmware/src
+    /targets/STM32
+        /boards:
+            - All Files but BIQU_SKR.h removed
+            /BIQU_SKR.h:
+                - All pins but octopus removed
+        /Pins_STM32.cpp:
+            - All LPC_Boards arrays removed
+            - Generic pintable changed to octopus pin table
+        /Pins_stm32.h:
+            - Disabled multiple functions to save space (Async moves, dht sensor, track object names, paneldue support)
+            - Disabled multiple kinematics to save space (polar, hangprinter, both scaras, both delta)
+            - Removed STM32H directive in WIFI
+            - Disabled 12864 LCD in ESP8266 WiFi
+        /platform/tasks
+            - Commented out CoreAllocCCMRamUsage
+
+        /NVMEmulations.cpp:
+            - Had to remove functions (replaced with bool entirely)
