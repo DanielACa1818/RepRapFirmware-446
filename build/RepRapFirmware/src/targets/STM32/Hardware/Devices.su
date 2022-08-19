@@ -1,0 +1,3 @@
+RepRapFirmware/src/targets/STM32/Hardware/Devices.cpp:9:6:void DeviceInit()	8	static
+RepRapFirmware/src/targets/STM32/Hardware/Devices.cpp:16:6:void StopAnalogTask()	0	static
+RepRapFirmware/src/targets/STM32/Hardware/Devices.cpp:18:1:cpp)	0	static

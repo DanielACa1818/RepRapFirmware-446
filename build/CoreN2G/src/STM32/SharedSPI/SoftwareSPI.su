@@ -1,0 +1,8 @@
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:30:6:virtual bool SoftwareSPI::waitForTxEmpty()	0	static
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:36:6:virtual void SoftwareSPI::initPins(Pin, Pin, Pin, Pin, NvicPriority)	0	static
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:44:6:virtual void SoftwareSPI::configureDevice(uint32_t, uint32_t, uint32_t)	16	static
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:76:1:SoftwareSPI::SoftwareSPI()	0	static
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:106:9:uint8_t SoftwareSPI::mode01TransferByte(uint8_t)	64	static
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:227:9:uint8_t SoftwareSPI::mode23TransferByte(uint8_t)	64	static
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:82:14:virtual spi_status_t SoftwareSPI::transceivePacket(const uint8_t*, uint8_t*, size_t)	32	static
+CoreN2G/src/STM32/SharedSPI/SoftwareSPI.cpp:337:1:cpp)	8	static

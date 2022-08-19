@@ -1,0 +1,12 @@
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:17:1:NonVolatileMemory::NonVolatileMemory()	0	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:21:6:void NonVolatileMemory::EnsureRead()	16	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:54:6:void NonVolatileMemory::EnsureWritten()	8	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:96:20:SoftwareResetData* NonVolatileMemory::GetLastWrittenResetData(unsigned int&)	16	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:111:20:SoftwareResetData* NonVolatileMemory::AllocateResetDataSlot()	24	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:155:8:int8_t NonVolatileMemory::GetThermistorCalibration(unsigned int, uint8_t*)	16	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:135:8:int8_t NonVolatileMemory::GetThermistorLowCalibration(unsigned int)	0	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:140:8:int8_t NonVolatileMemory::GetThermistorHighCalibration(unsigned int)	0	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:161:6:void NonVolatileMemory::SetThermistorCalibration(unsigned int, int8_t, uint8_t*)	24	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:145:6:void NonVolatileMemory::SetThermistorLowCalibration(unsigned int, int8_t)	0	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:150:6:void NonVolatileMemory::SetThermistorHighCalibration(unsigned int, int8_t)	0	static
+RepRapFirmware/src/Hardware/NonVolatileMemory.cpp:182:1:cpp)	0	static

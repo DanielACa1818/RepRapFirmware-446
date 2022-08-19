@@ -1,0 +1,11 @@
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:24:1:LocalZProbe::~LocalZProbe()	24	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:30:13:virtual GCodeResult LocalZProbe::Configure(GCodeBuffer&, const StringRef&, bool&)	48	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:116:6:virtual bool LocalZProbe::SetProbing(bool)	8	static
+RepRapFirmware/src/Endstops/LocalZProbe.h:53:13:virtual void LocalZProbe::SetIREmitter(bool) const	0	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:147:13:virtual GCodeResult LocalZProbe::SendProgram(const uint32_t*, size_t, const StringRef&)	24	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:127:13:virtual GCodeResult LocalZProbe::AppendPinNames(const StringRef&)	16	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:96:10:virtual uint16_t LocalZProbe::GetRawReading() const	8	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:24:1:virtual LocalZProbe::~LocalZProbe()	8	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:169:6:void LocalZProbe::Interrupt()	16	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:141:17:static void LocalZProbe::TimerInterrupt(CallbackParameter)	0	static
+RepRapFirmware/src/Endstops/LocalZProbe.cpp:226:1:cpp)	0	static

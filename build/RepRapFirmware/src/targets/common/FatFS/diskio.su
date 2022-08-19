@@ -1,0 +1,9 @@
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:31:14:unsigned int DiskioGetAndClearMaxRetryCount()	0	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:38:7:float DiskioGetAndClearLongestReadTime()	0	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:45:7:float DiskioGetAndClearLongestWriteTime()	0	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:54:9:DSTATUS disk_initialize(BYTE)	0	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:60:9:DSTATUS disk_status(BYTE)	0	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:69:9:DRESULT disk_read(BYTE, BYTE*, DWORD, BYTE)	56	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:119:9:DRESULT disk_write(BYTE, const BYTE*, DWORD, BYTE)	56	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:167:9:DRESULT disk_ioctl(BYTE, BYTE, void*)	0	static
+RepRapFirmware/src/targets/common/FatFS/diskio.cpp:171:1:cpp)	0	static

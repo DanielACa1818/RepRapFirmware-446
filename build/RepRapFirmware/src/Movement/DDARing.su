@@ -1,0 +1,40 @@
+RepRapFirmware/src/Movement/DDARing.cpp:33:21:static ExpressionValue DDARing::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:34:18:static ExpressionValue DDARing::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:39:1:virtual const ObjectModelClassDescriptor* DDARing::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Movement/DDARing.h:15:7:DDARing::~DDARing()	0	static
+RepRapFirmware/src/Movement/DDARing.h:15:7:virtual DDARing::~DDARing()	8	static
+RepRapFirmware/src/Movement/DDARing.h:141:13:bool DDARing::StartNextMove(Platform&, uint32_t)	24	static
+RepRapFirmware/src/Movement/DDARing.cpp:41:1:DDARing::DDARing()	8	static
+RepRapFirmware/src/Movement/DDARing.cpp:46:6:void DDARing::Init1(unsigned int)	24	static
+RepRapFirmware/src/Movement/DDARing.cpp:96:6:void DDARing::Exit()	8	static
+RepRapFirmware/src/Movement/DDARing.cpp:115:13:GCodeResult DDARing::ConfigureMovementQueue(GCodeBuffer&, const StringRef&)	48	static
+RepRapFirmware/src/Movement/DDARing.cpp:172:6:void DDARing::RecycleDDAs()	16	static
+RepRapFirmware/src/Movement/DDARing.cpp:197:6:bool DDARing::CanAddMove() const	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:225:6:bool DDARing::AddStandardMove(const RawMove&, bool)	8	static
+RepRapFirmware/src/Movement/DDARing.cpp:237:6:bool DDARing::AddSpecialMove(float, const float*)	8	static
+RepRapFirmware/src/Movement/DDARing.cpp:407:10:uint32_t DDARing::PrepareMoves(DDA*, int32_t, unsigned int, SimulationMode)	32	static
+RepRapFirmware/src/Movement/DDARing.cpp:444:6:bool DDARing::IsIdle() const	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:451:7:float DDARing::PushBabyStepping(size_t, float)	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:576:6:void DDARing::CurrentMoveCompleted()	16	static
+RepRapFirmware/src/Movement/DDARing.cpp:530:6:void DDARing::OnMoveCompleted(DDA*, Platform&)	24	static
+RepRapFirmware/src/Movement/DDARing.cpp:457:6:void DDARing::Interrupt(Platform&)	32	static
+RepRapFirmware/src/Movement/DDARing.cpp:524:17:static void DDARing::TimerCallback(CallbackParameter)	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:266:10:uint32_t DDARing::Spin(SimulationMode, bool, bool)	48	static
+RepRapFirmware/src/Movement/DDARing.cpp:599:6:bool DDARing::SetWaitingToEmpty()	8	static
+RepRapFirmware/src/Movement/DDARing.cpp:611:9:int32_t DDARing::GetAccumulatedMovement(size_t, bool&)	20	static
+RepRapFirmware/src/Movement/DDARing.cpp:623:6:void DDARing::GetCurrentMachinePosition(float*, bool) const	32	static
+RepRapFirmware/src/Movement/DDARing.cpp:641:6:void DDARing::SetPositions(const float*)	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:656:6:void DDARing::AdjustMotorPositions(const float*, size_t)	40	static
+RepRapFirmware/src/Movement/DDARing.cpp:675:6:bool DDARing::LiveCoordinates(float*)	88	static
+RepRapFirmware/src/Movement/DDARing.cpp:718:6:void DDARing::SetLiveCoordinates(const float*)	16	static
+RepRapFirmware/src/Movement/DDARing.cpp:69:6:void DDARing::Init2()	72	static
+RepRapFirmware/src/Movement/DDARing.cpp:730:6:void DDARing::ResetExtruderPositions()	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:741:7:float DDARing::GetRequestedSpeedMmPerSec() const	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:747:7:float DDARing::GetTopSpeedMmPerSec() const	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:753:7:float DDARing::GetAccelerationMmPerSecSquared() const	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:759:7:float DDARing::GetDecelerationMmPerSecSquared() const	0	static
+RepRapFirmware/src/Movement/DDARing.cpp:767:6:bool DDARing::PauseMoves(RestorePoint&)	48	static
+RepRapFirmware/src/Movement/DDARing.cpp:872:6:bool DDARing::LowPowerOrStallPause(RestorePoint&)	40	static
+RepRapFirmware/src/Movement/DDARing.cpp:958:6:void DDARing::Diagnostics(MessageType, const char*)	72	static
+RepRapFirmware/src/Movement/DDARing.cpp:971:10:uint32_t DDARing::ManageLaserPower() const	8	static
+RepRapFirmware/src/Movement/DDARing.cpp:986:1:cpp)	0	static

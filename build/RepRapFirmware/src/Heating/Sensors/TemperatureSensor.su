@@ -1,0 +1,19 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:45:19:static ExpressionValue TemperatureSensor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:46:14:static ExpressionValue TemperatureSensor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:52:1:virtual const ObjectModelClassDescriptor* TemperatureSensor::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:68:18:virtual TemperatureError TemperatureSensor::GetLatestTemperature(float&, uint8_t)	16	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:47:14:static ExpressionValue TemperatureSensor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:57:1:TemperatureSensor::TemperatureSensor(unsigned int, const char*)	16	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:62:1:TemperatureSensor::~TemperatureSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:62:1:virtual TemperatureSensor::~TemperatureSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:80:6:void TemperatureSensor::SetSensorName(const char*)	16	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:122:6:void TemperatureSensor::CopyBasicDetails(const StringRef&) const	48	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:133:6:void TemperatureSensor::TryConfigureSensorName(GCodeBuffer&, bool&)	64	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:96:13:virtual GCodeResult TemperatureSensor::Configure(GCodeBuffer&, const StringRef&, bool&)	24	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:145:6:void TemperatureSensor::SetResult(float, TemperatureError)	16	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:157:6:void TemperatureSensor::SetResult(TemperatureError)	8	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:184:20:static TemperatureSensor* TemperatureSensor::Create(unsigned int, const char*, const StringRef&)	16	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:299:29:static TemperatureError TemperatureSensor::GetPT100Temperature(float&, uint16_t)	16	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.cpp:341:1:cpp)	0	static

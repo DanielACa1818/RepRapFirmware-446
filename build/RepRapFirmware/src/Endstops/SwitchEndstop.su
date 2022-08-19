@@ -1,0 +1,14 @@
+./RepRapFirmware/src/Endstops/Endstop.h:101:15:virtual bool Endstop::ShouldReduceAcceleration() const	0	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:115:13:virtual EndStopType SwitchEndstop::GetEndstopType() const	0	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:134:6:virtual bool SwitchEndstop::Prime(const Kinematics&, const AxisDriversConfig&)	16	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:214:6:virtual bool SwitchEndstop::Acknowledge(EndstopHitDetails)	8	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:121:6:virtual bool SwitchEndstop::Stopped() const	16	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:164:19:virtual EndstopHitDetails SwitchEndstop::CheckTriggered()	32	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:232:6:virtual void SwitchEndstop::AppendDetails(const StringRef&)	24	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:23:1:SwitchEndstop::SwitchEndstop(uint8_t, EndStopPosition)	16	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:34:6:void SwitchEndstop::ReleasePorts()	8	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:28:1:SwitchEndstop::~SwitchEndstop()	16	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:28:1:virtual SwitchEndstop::~SwitchEndstop()	8	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:64:13:GCodeResult SwitchEndstop::Configure(const char*, const StringRef&)	112	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:57:13:GCodeResult SwitchEndstop::Configure(GCodeBuffer&, const StringRef&)	88	static
+RepRapFirmware/src/Endstops/SwitchEndstop.cpp:261:1:cpp)	0	static

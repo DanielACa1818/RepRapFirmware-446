@@ -1,0 +1,34 @@
+RepRapFirmware/src/Platform/Tasks.cpp:241:30:void MainTask(void*)	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:208:41:Task<50>::~Task()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:208:41:Task<1110>::~Task()	8	static
+./CoreN2G/src/syscalls.h:42:19:void* _sbrk(ptrdiff_t)	8	static
+./CoreN2G/src/syscalls.h:62:7:void* CoreAllocPermanent(size_t, std::align_val_t)	8	static
+./CoreN2G/src/syscalls.h:87:16:int link(char*, char*)	0	static
+./CoreN2G/src/syscalls.h:96:16:int _close(int)	0	static
+./CoreN2G/src/syscalls.h:105:16:int _fstat(int, stat*)	0	static
+./CoreN2G/src/syscalls.h:116:16:int _isatty(int)	0	static
+./CoreN2G/src/syscalls.h:125:16:int _lseek(int, int, int)	0	static
+./CoreN2G/src/syscalls.h:134:17:void _exit(int)	0	static
+./CoreN2G/src/syscalls.h:142:17:void _kill(int, int)	0	static
+./CoreN2G/src/syscalls.h:150:16:int _getpid()	0	static
+./CoreN2G/src/syscalls.h:155:16:int _read(int, char*, int)	0	static
+./CoreN2G/src/syscalls.h:161:16:int _write(int, char*, int)	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:67:17:void vApplicationGetIdleTaskMemory(StaticTask_t**, StackType_t**, uint32_t*)	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:94:17:void GetMallocMutex()	8	static
+RepRapFirmware/src/Platform/Tasks.cpp:102:17:void ReleaseMallocMutex()	8	static
+RepRapFirmware/src/Platform/Tasks.cpp:115:7:void* Tasks::GetNVMBuffer(const uint32_t*)	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:136:19:void AppMain()	24	static
+RepRapFirmware/src/Platform/Tasks.cpp:266:11:ptrdiff_t Tasks::GetNeverUsedRam()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:271:13:const char* Tasks::GetHeapTop()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:278:7:void* Tasks::AllocPermanent(size_t, std::align_val_t)	16	static
+RepRapFirmware/src/Platform/Tasks.cpp:287:21:uint32_t TaskResetRunTimeCounter()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:297:6:void Tasks::Diagnostics(MessageType)	120	static
+RepRapFirmware/src/Platform/Tasks.cpp:402:12:TaskBase* Tasks::GetMainTask()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:407:6:void Tasks::TerminateMainTask()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:412:8:Mutex* Tasks::GetI2CMutex()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:418:17:void vApplicationTickHook()	8	static
+RepRapFirmware/src/Platform/Tasks.cpp:425:17:void __tzset()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:426:17:void __tz_lock()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:427:17:void __tz_unlock()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:428:17:void _tzset_unlocked()	0	static
+RepRapFirmware/src/Platform/Tasks.cpp:428:46:cpp)	8	static

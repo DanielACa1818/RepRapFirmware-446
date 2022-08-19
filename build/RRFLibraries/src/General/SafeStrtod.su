@@ -1,0 +1,10 @@
+RRFLibraries/src/General/SafeStrtod.cpp:59:17:uint32_t StrToU32Opt(const char*, const char**, NumericConverter::OptionsType)	56	static
+RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = StrToI32(const char*, const char**)::<lambda()>; Ret = char; Params = {}]	0	static
+RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = StrToU32Opt(const char*, const char**, NumericConverter::OptionsType)::<lambda()>; Ret = char; Params = {}]	0	static
+RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = SafeStrtof(const char*, const char**)::<lambda()>; Ret = char; Params = {}]	0	static
+RRFLibraries/src/General/SafeStrtod.cpp:37:7:float SafeStrtof(const char*, const char**)	56	static
+RRFLibraries/src/General/SafeStrtod.cpp:81:10:uint32_t StrToU32(const char*, const char**)	0	static
+RRFLibraries/src/General/SafeStrtod.cpp:86:10:uint32_t StrOptHexToU32(const char*, const char**)	0	static
+RRFLibraries/src/General/SafeStrtod.cpp:91:10:uint32_t StrHexToU32(const char*, const char**)	0	static
+RRFLibraries/src/General/SafeStrtod.cpp:96:9:int32_t StrToI32(const char*, const char**)	56	static
+RRFLibraries/src/General/SafeStrtod.cpp:120:15:long unsigned int SafeStrtoul(const char*, const char**, int)	4	static

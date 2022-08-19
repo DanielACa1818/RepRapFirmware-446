@@ -1,0 +1,5 @@
+RepRapFirmware/src/libcpp/eh_alloc.cpp:79:3:void __gnu_cxx::__freeres()	0	static
+RepRapFirmware/src/libcpp/eh_alloc.cpp:83:1:void* __cxxabiv1::__cxa_allocate_exception(std::size_t)	8	static
+RepRapFirmware/src/libcpp/eh_alloc.cpp:100:1:void __cxxabiv1::__cxa_free_exception(void*)	0	static
+RepRapFirmware/src/libcpp/eh_alloc.cpp:108:1:__cxxabiv1::__cxa_dependent_exception* __cxxabiv1::__cxa_allocate_dependent_exception()	8	static
+RepRapFirmware/src/libcpp/eh_alloc.cpp:125:1:void __cxxabiv1::__cxa_free_dependent_exception(__cxxabiv1::__cxa_dependent_exception*)	0	static

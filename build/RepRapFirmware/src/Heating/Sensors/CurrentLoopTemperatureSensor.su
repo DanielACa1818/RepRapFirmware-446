@@ -1,0 +1,12 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.h:26:14:virtual const char* CurrentLoopTemperatureSensor::GetShortSensorType() const	0	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.h:15:7:CurrentLoopTemperatureSensor::~CurrentLoopTemperatureSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.h:15:7:virtual CurrentLoopTemperatureSensor::~CurrentLoopTemperatureSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.cpp:28:1:CurrentLoopTemperatureSensor::CurrentLoopTemperatureSensor(unsigned int)	16	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.cpp:109:6:void CurrentLoopTemperatureSensor::CalcDerivedParameters()	0	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.cpp:116:18:TemperatureError CurrentLoopTemperatureSensor::TryGetLinearAdcTemperature(float&)	32	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.cpp:66:13:GCodeResult CurrentLoopTemperatureSensor::FinishConfiguring(bool, const StringRef&)	40	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.cpp:36:13:virtual GCodeResult CurrentLoopTemperatureSensor::Configure(GCodeBuffer&, const StringRef&, bool&)	24	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.cpp:102:6:virtual void CurrentLoopTemperatureSensor::Poll()	16	static
+RepRapFirmware/src/Heating/Sensors/CurrentLoopTemperatureSensor.cpp:162:1:cpp)	0	static

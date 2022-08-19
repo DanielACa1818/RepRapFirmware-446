@@ -1,0 +1,4 @@
+RepRapFirmware/src/GCodes/StraightProbeSettings.cpp:16:6:void StraightProbeSettings::Reset()	0	static
+RepRapFirmware/src/GCodes/StraightProbeSettings.cpp:11:1:StraightProbeSettings::StraightProbeSettings()	8	static
+RepRapFirmware/src/GCodes/StraightProbeSettings.cpp:26:6:void StraightProbeSettings::SetCoordsToTarget(float*) const	0	static
+RepRapFirmware/src/GCodes/StraightProbeSettings.cpp:32:1:cpp)	0	static

@@ -1,0 +1,126 @@
+RepRapFirmware/src/Movement/Move.cpp:68:2:static size_t<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:69:2:static ExpressionValue<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:75:2:static size_t<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:76:2:static ExpressionValue<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:82:2:static constexpr size_t Move::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:91:2:static constexpr size_t Move::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:101:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:102:21:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:103:22:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:104:21:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:105:20:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:106:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:108:20:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:109:27:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:110:28:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:111:17:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:113:19:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:115:18:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:116:21:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:117:27:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:118:21:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:119:24:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:120:24:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:123:18:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:124:18:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:137:17:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:138:18:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:139:21:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:142:20:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:143:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:146:20:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:147:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:150:21:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:152:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:155:23:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:157:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:158:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:161:20:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:162:16:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:165:22:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:166:17:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:167:17:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:168:17:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:172:17:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:173:18:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:194:1:virtual const ObjectModelClassDescriptor* Move::GetObjectModelClassDescriptor() const	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Move::ConfigurePressureAdvance(GCodeBuffer&, const StringRef&)::<lambda(unsigned int)>; Ret = void; Params = {unsigned int}]	0	static
+RepRapFirmware/src/Movement/Move.h:51:7:Move::~Move()	8	static
+RepRapFirmware/src/Movement/Move.cpp:83:2:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Movement/Move.cpp:134:19:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:133:24:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:128:22:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:127:22:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.h:51:7:virtual Move::~Move()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:208:41:Task<450>::~Task()	8	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Move::ComputeHeightCorrection(float*, const Tool*) const::<lambda(unsigned int, unsigned int)>::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	16	static
+RepRapFirmware/src/Movement/Move.cpp:130:19:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Move.cpp:92:2:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+./RRFLibraries/src/General/Bitmap.h:254:31:void Bitmap<BaseType>::Iterate(function_ref<void(unsigned int, unsigned int)>) const [with BaseType = short unsigned int]	32	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Move::ComputeHeightCorrection(float*, const Tool*) const::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	48	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:175:14:static bool TaskBase::Take(uint32_t)	0	static
+RepRapFirmware/src/Movement/Move.cpp:154:19:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:156:20:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:107:21:static ExpressionValue Move::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:202:1:Move::Move()	16	static
+RepRapFirmware/src/Movement/Move.cpp:249:6:void Move::Exit()	16	static
+RepRapFirmware/src/Movement/Move.cpp:394:6:void Move::MoveAvailable()	0	static
+RepRapFirmware/src/Movement/Move.cpp:403:6:bool Move::WaitingForAllMovesFinished()	0	static
+RepRapFirmware/src/Movement/Move.cpp:409:14:unsigned int Move::GetNumProbedProbePoints() const	0	static
+RepRapFirmware/src/Movement/Move.cpp:416:7:float Move::PushBabyStepping(size_t, float)	16	static
+RepRapFirmware/src/Movement/Move.cpp:427:6:bool Move::SetKinematics(KinematicsType)	16	static
+RepRapFirmware/src/Movement/Move.cpp:444:6:bool Move::IsRawMotorMove(uint8_t) const	8	static
+RepRapFirmware/src/Movement/Move.cpp:450:6:bool Move::IsAccessibleProbePoint(float*, AxesBitmap) const	0	static
+RepRapFirmware/src/Movement/Move.cpp:456:6:bool Move::PausePrint(RestorePoint&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:464:6:bool Move::LowPowerOrStallPause(RestorePoint&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:471:6:void Move::Diagnostics(MessageType)	112	static
+RepRapFirmware/src/Movement/Move.cpp:539:9:static int32_t Move::MotorMovementToSteps(size_t, float)	0	static
+RepRapFirmware/src/Movement/Move.cpp:546:6:void Move::MotorStepsToCartesian(const int32_t*, size_t, size_t, float*) const	48	static
+RepRapFirmware/src/Movement/Move.cpp:559:6:bool Move::CartesianToMotorSteps(const float*, int32_t*, bool) const	48	static
+RepRapFirmware/src/Movement/Move.cpp:608:6:void Move::AxisTransform(float*, const Tool*) const	32	static
+RepRapFirmware/src/Movement/Move.cpp:634:6:void Move::InverseAxisTransform(float*, const Tool*) const	32	static
+RepRapFirmware/src/Movement/Move.cpp:660:7:float Move::ComputeHeightCorrection(float*, const Tool*) const	64	static
+RepRapFirmware/src/Movement/Move.cpp:691:6:void Move::BedTransform(float*, const Tool*) const	32	static
+RepRapFirmware/src/Movement/Move.cpp:592:6:void Move::AxisAndBedTransform(float*, const Tool*, bool) const	24	static
+RepRapFirmware/src/Movement/Move.cpp:263:19:void Move::MoveLoop()	112	static
+RepRapFirmware/src/Movement/Move.cpp:197:26:void MoveStart(void*)	8	static
+RepRapFirmware/src/Movement/Move.cpp:528:6:void Move::SetNewPosition(const float*, bool)	72	static
+RepRapFirmware/src/Movement/Move.cpp:705:6:void Move::InverseBedTransform(float*, const Tool*) const	32	static
+RepRapFirmware/src/Movement/Move.cpp:601:6:void Move::InverseAxisAndBedTransform(float*, const Tool*) const	16	static
+RepRapFirmware/src/Movement/Move.cpp:727:6:void Move::SetZeroHeightError(const float*)	56	static
+RepRapFirmware/src/Movement/Move.cpp:743:6:void Move::SetIdentityTransform()	24	static
+RepRapFirmware/src/Movement/Move.cpp:220:6:void Move::Init()	32	static
+RepRapFirmware/src/Movement/Move.cpp:756:6:bool Move::LoadHeightMapFromFile(FileStore*, const char*, const StringRef&)	24	static
+RepRapFirmware/src/Movement/Move.cpp:774:6:bool Move::SaveHeightMapToFile(FileStore*, const char*)	0	static
+RepRapFirmware/src/Movement/Move.cpp:781:6:void Move::SetTaperHeight(float)	0	static
+RepRapFirmware/src/Movement/Move.cpp:793:6:bool Move::UseMesh(bool)	8	static
+RepRapFirmware/src/Movement/Move.cpp:800:7:float Move::AxisCompensation(unsigned int) const	0	static
+RepRapFirmware/src/Movement/Move.cpp:805:6:void Move::SetAxisCompensation(unsigned int, float)	0	static
+RepRapFirmware/src/Movement/Move.cpp:814:6:bool Move::IsXYCompensated() const	0	static
+RepRapFirmware/src/Movement/Move.cpp:819:6:void Move::SetXYCompensation(bool)	0	static
+RepRapFirmware/src/Movement/Move.cpp:828:6:bool Move::FinishedBedProbing(int, const StringRef&)	32	static
+RepRapFirmware/src/Movement/Move.cpp:877:18:static float Move::MotorStepsToMovement(size_t, int32_t)	0	static
+RepRapFirmware/src/Movement/Move.cpp:883:6:void Move::GetCurrentUserPosition(float*, uint8_t, const Tool*) const	24	static
+RepRapFirmware/src/Movement/Move.cpp:892:6:void Move::SetXYBedProbePoint(size_t, float, float)	0	static
+RepRapFirmware/src/Movement/Move.cpp:904:6:void Move::SetZBedProbePoint(size_t, float, bool, bool)	0	static
+RepRapFirmware/src/Movement/Move.cpp:919:7:float Move::GetProbeCoordinates(int, float&, float&, bool) const	24	static
+RepRapFirmware/src/Movement/Move.cpp:936:6:void Move::Simulate(SimulationMode)	0	static
+RepRapFirmware/src/Movement/Move.cpp:947:6:void Move::AdjustLeadscrews(const floatc_t*)	12	static
+RepRapFirmware/src/Movement/Move.cpp:959:7:float Move::IdleTimeout() const	0	static
+RepRapFirmware/src/Movement/Move.cpp:965:6:void Move::SetIdleTimeout(float)	8	static
+RepRapFirmware/src/Movement/Move.cpp:976:6:bool Move::WriteResumeSettings(FileStore*) const	16	static
+RepRapFirmware/src/Movement/Move.cpp:984:13:GCodeResult Move::ConfigureAccelerations(GCodeBuffer&, const StringRef&)	48	static
+RepRapFirmware/src/Movement/Move.cpp:1016:13:GCodeResult Move::ConfigureMovementQueue(GCodeBuffer&, const StringRef&)	16	static
+RepRapFirmware/src/Movement/Move.cpp:1023:13:GCodeResult Move::ConfigurePressureAdvance(GCodeBuffer&, const StringRef&)	88	static
+RepRapFirmware/src/Movement/Move.cpp:1147:7:float Move::LiveCoordinate(unsigned int, const Tool*)	24	static
+RepRapFirmware/src/Movement/Move.cpp:1157:6:void Move::SetLatestCalibrationDeviation(const Deviation&, uint8_t)	8	static
+RepRapFirmware/src/Movement/Move.cpp:1164:6:void Move::SetInitialCalibrationDeviation(const Deviation&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:1171:6:void Move::SetLatestMeshDeviation(const Deviation&)	0	static
+RepRapFirmware/src/Movement/Move.cpp:1176:13:const char* Move::GetCompensationTypeString() const	0	static
+RepRapFirmware/src/Movement/Move.cpp:1181:6:static void Move::WakeMoveTaskFromISR()	0	static
+RepRapFirmware/src/Movement/Move.cpp:1201:6:static void Move::CreateLaserTask()	32	static
+RepRapFirmware/src/Movement/Move.cpp:1212:6:static void Move::WakeLaserTask()	0	static
+RepRapFirmware/src/Movement/Move.cpp:1221:6:static void Move::WakeLaserTaskFromISR()	0	static
+RepRapFirmware/src/Movement/Move.cpp:1229:6:void Move::LaserTaskRun()	8	static
+RepRapFirmware/src/Movement/Move.cpp:1195:30:void LaserTaskStart(void*)	8	static
+RepRapFirmware/src/Movement/Move.cpp:1259:1:cpp)	0	static

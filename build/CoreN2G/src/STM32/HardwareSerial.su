@@ -1,0 +1,25 @@
+CoreN2G/src/STM32/HardwareSerial.cpp:329:5:virtual int HardwareSerial::available()	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:334:5:virtual int HardwareSerial::peek()	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:343:5:virtual int HardwareSerial::read()	0	static
+CoreN2G/src/STM32/HardwareSerial.h:62:7:HardwareSerial::~HardwareSerial()	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:366:6:virtual void HardwareSerial::flush()	8	static
+CoreN2G/src/STM32/HardwareSerial.cpp:377:8:virtual size_t HardwareSerial::write(uint8_t)	8	static
+CoreN2G/src/STM32/HardwareSerial.h:62:7:virtual HardwareSerial::~HardwareSerial()	8	static
+CoreN2G/src/STM32/HardwareSerial.cpp:231:6:void HardwareSerial::init()	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:109:1:HardwareSerial::HardwareSerial(uint32_t, uint32_t)	8	static
+CoreN2G/src/STM32/HardwareSerial.cpp:116:1:HardwareSerial::HardwareSerial(PinName, PinName)	8	static
+CoreN2G/src/STM32/HardwareSerial.cpp:123:1:HardwareSerial::HardwareSerial(void*)	16	static
+CoreN2G/src/STM32/HardwareSerial.cpp:241:6:void HardwareSerial::configForLowPower()	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:254:6:void HardwareSerial::begin(long unsigned int, uint8_t)	40	static
+CoreN2G/src/STM32/HardwareSerial.cpp:317:6:void HardwareSerial::end()	8	static
+CoreN2G/src/STM32/HardwareSerial.cpp:355:5:int HardwareSerial::availableForWrite()	0	static
+CoreN2G/src/STM32/HardwareSerial.h:83:19:virtual size_t HardwareSerial::canWrite()	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:396:8:size_t HardwareSerial::writeBlock(const uint8_t*, size_t)	32	static
+CoreN2G/src/STM32/HardwareSerial.cpp:428:8:virtual size_t HardwareSerial::write(const uint8_t*, size_t)	24	static
+CoreN2G/src/STM32/HardwareSerial.cpp:443:6:void HardwareSerial::setRx(uint32_t)	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:448:6:void HardwareSerial::setTx(uint32_t)	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:453:6:void HardwareSerial::setRx(PinName)	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:458:6:void HardwareSerial::setTx(PinName)	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:463:6:void HardwareSerial::setInterruptPriority(uint32_t)	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:468:10:uint32_t HardwareSerial::getInterruptPriority()	0	static
+CoreN2G/src/STM32/HardwareSerial.cpp:472:1:cpp)	16	static

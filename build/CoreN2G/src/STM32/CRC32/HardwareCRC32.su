@@ -1,0 +1,4 @@
+CoreN2G/src/STM32/CRC32/HardwareCRC32.cpp:80:1:HardwareCRC32::HardwareCRC32(CRC_TypeDef*)	8	static
+CoreN2G/src/STM32/CRC32/HardwareCRC32.cpp:95:10:uint32_t HardwareCRC32::CalcCRC32(uint8_t, uint32_t)	0	static
+CoreN2G/src/STM32/CRC32/HardwareCRC32.cpp:101:10:uint32_t HardwareCRC32::CalcCRC32(const uint8_t*, size_t, uint32_t)	20	static
+CoreN2G/src/STM32/CRC32/HardwareCRC32.cpp:131:1:cpp)	0	static

@@ -1,0 +1,24 @@
+CoreN2G/src/STM32/USBSerial.h:37:20:virtual size_t USBSerial::canWrite()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:58:8:virtual size_t USBSerial::write(uint8_t)	16	static
+CoreN2G/src/STM32/USBSerial.cpp:121:5:virtual int USBSerial::peek()	0	static
+CoreN2G/src/STM32/USBSerial.h:28:7:USBSerial::~USBSerial()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:52:5:virtual int USBSerial::availableForWrite()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:64:8:virtual size_t USBSerial::write(const uint8_t*, size_t)	24	static
+CoreN2G/src/STM32/USBSerial.cpp:87:5:virtual int USBSerial::available()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:93:5:virtual int USBSerial::read()	16	static
+CoreN2G/src/STM32/USBSerial.cpp:103:8:virtual size_t USBSerial::readBytes(char*, size_t)	0	static
+CoreN2G/src/STM32/USBSerial.cpp:127:6:virtual void USBSerial::flush()	8	static
+CoreN2G/src/STM32/USBSerial.h:28:7:virtual USBSerial::~USBSerial()	8	static
+CoreN2G/src/STM32/USBSerial.cpp:30:6:void USBSerial::begin()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:35:6:void USBSerial::begin(uint32_t)	0	static
+CoreN2G/src/STM32/USBSerial.cpp:41:6:void USBSerial::begin(uint32_t, uint8_t)	0	static
+CoreN2G/src/STM32/USBSerial.cpp:47:6:void USBSerial::end()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:134:10:uint32_t USBSerial::baud()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:139:9:uint8_t USBSerial::stopbits()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:144:9:uint8_t USBSerial::paritytype()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:149:9:uint8_t USBSerial::numbits()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:154:6:bool USBSerial::dtr()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:159:6:bool USBSerial::rts()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:164:1:USBSerial::operator bool()	8	static
+CoreN2G/src/STM32/USBSerial.cpp:174:6:bool USBSerial::IsConnected()	0	static
+CoreN2G/src/STM32/USBSerial.cpp:177:1:cpp)	0	static

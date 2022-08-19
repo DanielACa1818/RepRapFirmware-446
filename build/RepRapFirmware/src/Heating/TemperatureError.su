@@ -1,0 +1,1 @@
+RepRapFirmware/src/Heating/TemperatureError.cpp:10:13:const char* TemperatureErrorString(TemperatureError)	0	static

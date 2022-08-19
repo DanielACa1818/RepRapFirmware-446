@@ -1,0 +1,21 @@
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:166:5:virtual int ConfigurableUART::read()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:186:5:virtual int ConfigurableUART::available()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:205:8:virtual size_t ConfigurableUART::canWrite()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:214:8:virtual size_t ConfigurableUART::write(uint8_t)	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:225:8:virtual size_t ConfigurableUART::write(const uint8_t*, size_t)	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:235:6:virtual void ConfigurableUART::flush()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.h:15:7:ConfigurableUART::~ConfigurableUART()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.h:15:7:virtual ConfigurableUART::~ConfigurableUART()	8	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:22:1:ConfigurableUART::ConfigurableUART()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:28:8:int8_t ConfigurableUART::GetUARTPortNumber()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:67:6:bool ConfigurableUART::Configure(Pin, Pin)	24	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:150:6:void ConfigurableUART::begin(uint32_t)	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:158:6:void ConfigurableUART::end()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:176:5:int ConfigurableUART::peek()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:195:5:int ConfigurableUART::availableForWrite()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:244:6:void ConfigurableUART::setInterruptPriority(uint32_t)	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:252:10:uint32_t ConfigurableUART::getInterruptPriority()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:264:6:bool ConfigurableUART::IsConnected()	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:272:39:void (* ConfigurableUART::SetInterruptCallback(ConfigurableUART::InterruptCallbackFn))(ConfigurableUART*) noexcept	0	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:280:26:ConfigurableUART::Errors ConfigurableUART::GetAndClearErrors()	16	static
+CoreN2G/src/STM32/ConfigurableUART/ConfigurableUART.cpp:297:1:cpp)	8	static

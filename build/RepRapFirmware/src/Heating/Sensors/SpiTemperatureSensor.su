@@ -1,0 +1,7 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/SpiTemperatureSensor.cpp:15:1:SpiTemperatureSensor::SpiTemperatureSensor(unsigned int, const char*, SpiMode, uint32_t)	24	static
+RepRapFirmware/src/Heating/Sensors/SpiTemperatureSensor.cpp:28:6:bool SpiTemperatureSensor::ConfigurePort(GCodeBuffer&, const StringRef&, bool&)	24	static
+RepRapFirmware/src/Heating/Sensors/SpiTemperatureSensor.cpp:46:6:void SpiTemperatureSensor::InitSpi()	8	static
+RepRapFirmware/src/Heating/Sensors/SpiTemperatureSensor.cpp:52:18:TemperatureError SpiTemperatureSensor::DoSpiTransaction(const uint8_t*, size_t, uint32_t&) const	40	static
+RepRapFirmware/src/Heating/Sensors/SpiTemperatureSensor.cpp:80:1:cpp)	0	static

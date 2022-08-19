@@ -1,0 +1,11 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.h:27:14:virtual const char* RtdSensor31865::GetShortSensorType() const	0	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.h:15:7:RtdSensor31865::~RtdSensor31865()	8	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.h:15:7:virtual RtdSensor31865::~RtdSensor31865()	8	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.cpp:45:1:RtdSensor31865::RtdSensor31865(unsigned int)	16	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.cpp:181:18:TemperatureError RtdSensor31865::TryInitRtd() const	16	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.cpp:144:13:GCodeResult RtdSensor31865::FinishConfiguring(bool, const StringRef&)	32	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.cpp:52:13:virtual GCodeResult RtdSensor31865::Configure(GCodeBuffer&, const StringRef&, bool&)	24	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.cpp:203:6:virtual void RtdSensor31865::Poll()	16	static
+RepRapFirmware/src/Heating/Sensors/RtdSensor31865.cpp:242:1:cpp)	0	static

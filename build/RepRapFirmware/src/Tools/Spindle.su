@@ -1,0 +1,16 @@
+RepRapFirmware/src/Tools/Spindle.cpp:26:16:static ExpressionValue Spindle::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:27:19:static ExpressionValue Spindle::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:28:16:static ExpressionValue Spindle::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:29:18:static ExpressionValue Spindle::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:30:13:static ExpressionValue Spindle::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:31:13:static ExpressionValue Spindle::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:37:1:virtual const ObjectModelClassDescriptor* Spindle::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Tools/Spindle.h:18:7:Spindle::~Spindle()	8	static
+RepRapFirmware/src/Tools/Spindle.h:18:7:virtual Spindle::~Spindle()	8	static
+RepRapFirmware/src/Tools/Spindle.cpp:32:15:static ExpressionValue Spindle::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:41:1:Spindle::Spindle()	8	static
+RepRapFirmware/src/Tools/Spindle.cpp:51:13:GCodeResult Spindle::Configure(GCodeBuffer&, const StringRef&)	56	static
+RepRapFirmware/src/Tools/Spindle.cpp:108:6:void Spindle::SetRpm(uint32_t)	16	static
+RepRapFirmware/src/Tools/Spindle.cpp:98:6:void Spindle::SetConfiguredRpm(uint32_t, bool)	8	static
+RepRapFirmware/src/Tools/Spindle.cpp:134:6:void Spindle::SetState(SpindleState)	0	static
+RepRapFirmware/src/Tools/Spindle.cpp:140:1:cpp)	0	static

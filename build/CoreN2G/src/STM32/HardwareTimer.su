@@ -1,0 +1,44 @@
+CoreN2G/src/STM32/HardwareTimer.cpp:127:6:void HardwareTimer::pause()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:165:5:int HardwareTimer::getChannel(uint32_t)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:193:6:void HardwareTimer::resumeChannel(uint32_t)	24	static
+CoreN2G/src/STM32/HardwareTimer.cpp:137:6:void HardwareTimer::resume()	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:262:10:uint32_t HardwareTimer::getPrescaleFactor()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:273:6:void HardwareTimer::setPrescaleFactor(uint32_t)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:412:6:void HardwareTimer::setMode(uint32_t, TimerModes_t, uint32_t)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:424:6:void HardwareTimer::setMode(uint32_t, TimerModes_t, PinName)	24	static
+CoreN2G/src/STM32/HardwareTimer.cpp:633:6:void HardwareTimer::setPWM(uint32_t, uint32_t, uint32_t, uint32_t, void (*)(HardwareTimer*), void (*)(HardwareTimer*))	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:669:6:void HardwareTimer::attachInterrupt(void (*)(HardwareTimer*))	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:678:6:void HardwareTimer::detachInterrupt()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:689:6:void HardwareTimer::attachInterrupt(uint32_t, void (*)(HardwareTimer*))	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:703:6:void HardwareTimer::detachInterrupt(uint32_t)	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:718:6:void HardwareTimer::refresh()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:728:6:static void HardwareTimer::updateCallback(TIM_HandleTypeDef*)	8	static
+CoreN2G/src/STM32/HardwareTimer.cpp:747:6:static void HardwareTimer::captureCompareCallback(TIM_HandleTypeDef*)	8	static
+CoreN2G/src/STM32/HardwareTimer.cpp:800:15:timer_index_t get_timer_index(TIM_TypeDef*)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:69:1:HardwareTimer::HardwareTimer(TIM_TypeDef*)	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:787:1:HardwareTimer::~HardwareTimer()	8	static
+CoreN2G/src/STM32/HardwareTimer.cpp:922:10:uint32_t HardwareTimer::getTimerClkFreq()	136	static
+CoreN2G/src/STM32/HardwareTimer.cpp:288:10:uint32_t HardwareTimer::getOverflow(TimerFormat_t)	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:318:6:void HardwareTimer::setOverflow(uint32_t, TimerFormat_t)	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:357:10:uint32_t HardwareTimer::getCount(TimerFormat_t)	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:386:6:void HardwareTimer::setCount(uint32_t, TimerFormat_t)	16	static
+CoreN2G/src/STM32/HardwareTimer.cpp:542:6:void HardwareTimer::setCaptureCompare(uint32_t, uint32_t, TimerCompareFormat_t)	32	static
+CoreN2G/src/STM32/HardwareTimer.cpp:650:6:void HardwareTimer::setPWM(uint32_t, PinName, uint32_t, uint32_t, void (*)(HardwareTimer*), void (*)(HardwareTimer*))	32	static
+CoreN2G/src/STM32/HardwareTimer.cpp:587:10:uint32_t HardwareTimer::getCaptureCompare(uint32_t, TimerCompareFormat_t)	24	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1044:21:HardwareTimerObj_t* get_timer_obj(TIM_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1056:6:void HardwareTimer::timerHandleDeinit()	8	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1067:8:void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1072:8:void HAL_TIM_OC_DelayElapsedCallback(TIM_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1077:8:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1088:8:void TIM1_UP_TIM10_IRQHandler()	8	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1113:8:void TIM1_CC_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1128:8:void TIM2_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1142:8:void TIM3_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1156:8:void TIM4_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1188:8:void TIM6_DAC_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1220:8:void TIM8_UP_TIM13_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1235:8:void TIM8_CC_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1249:8:void TIM1_BRK_TIM9_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1279:8:void TIM1_TRG_COM_TIM11_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1293:8:void TIM8_BRK_TIM12_IRQHandler()	0	static
+CoreN2G/src/STM32/HardwareTimer.cpp:1323:8:void TIM8_TRG_COM_TIM14_IRQHandler()	0	static

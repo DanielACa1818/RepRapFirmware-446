@@ -1,0 +1,8 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/SensorWithPort.cpp:15:1:SensorWithPort::SensorWithPort(unsigned int, const char*)	8	static
+RepRapFirmware/src/Heating/Sensors/SensorWithPort.cpp:20:1:SensorWithPort::~SensorWithPort()	16	static
+RepRapFirmware/src/Heating/Sensors/SensorWithPort.cpp:20:1:virtual SensorWithPort::~SensorWithPort()	8	static
+RepRapFirmware/src/Heating/Sensors/SensorWithPort.cpp:26:6:bool SensorWithPort::ConfigurePort(GCodeBuffer&, const StringRef&, PinAccess, bool&)	32	static
+RepRapFirmware/src/Heating/Sensors/SensorWithPort.cpp:63:6:void SensorWithPort::CopyBasicDetails(const StringRef&) const	32	static
+RepRapFirmware/src/Heating/Sensors/SensorWithPort.cpp:73:1:cpp)	0	static

@@ -1,0 +1,19 @@
+RepRapFirmware/src/Fans/LocalFan.h:20:7:virtual bool LocalFan::IsEnabled() const	0	static
+RepRapFirmware/src/Fans/LocalFan.h:22:8:virtual float LocalFan::GetPwm() const	0	static
+RepRapFirmware/src/Fans/LocalFan.h:23:15:virtual PwmFrequency LocalFan::GetPwmFrequency() const	0	static
+RepRapFirmware/src/Fans/LocalFan.cpp:50:13:virtual GCodeResult LocalFan::SetPwmFrequency(PwmFrequency, const StringRef&)	0	static
+RepRapFirmware/src/Fans/LocalFan.cpp:31:1:LocalFan::~LocalFan()	24	static
+RepRapFirmware/src/Fans/LocalFan.cpp:31:1:virtual LocalFan::~LocalFan()	8	static
+RepRapFirmware/src/Fans/LocalFan.cpp:38:13:virtual GCodeResult LocalFan::ReportPortDetails(const StringRef&) const	16	static
+RepRapFirmware/src/Fans/LocalFan.cpp:191:9:virtual int32_t LocalFan::GetRPM() const	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = LocalFan::InternalRefresh(bool)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	24	static
+RepRapFirmware/src/Fans/LocalFan.cpp:22:1:LocalFan::LocalFan(unsigned int)	8	static
+RepRapFirmware/src/Fans/LocalFan.cpp:58:6:void LocalFan::SetHardwarePwm(float)	0	static
+RepRapFirmware/src/Fans/LocalFan.cpp:70:6:void LocalFan::InternalRefresh(bool)	48	static
+RepRapFirmware/src/Fans/LocalFan.cpp:147:13:virtual GCodeResult LocalFan::Refresh(const StringRef&)	8	static
+RepRapFirmware/src/Fans/LocalFan.cpp:153:6:virtual bool LocalFan::UpdateFanConfiguration(const StringRef&)	8	static
+RepRapFirmware/src/Fans/LocalFan.cpp:161:6:virtual bool LocalFan::Check(bool)	8	static
+RepRapFirmware/src/Fans/LocalFan.cpp:167:6:bool LocalFan::AssignPorts(const char*, const StringRef&)	64	static
+RepRapFirmware/src/Fans/LocalFan.cpp:203:6:void LocalFan::Interrupt()	0	static
+RepRapFirmware/src/Fans/LocalFan.cpp:17:6:void FanInterrupt(CallbackParameter)	0	static
+RepRapFirmware/src/Fans/LocalFan.cpp:213:1:cpp)	0	static

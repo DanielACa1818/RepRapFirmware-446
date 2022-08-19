@@ -1,0 +1,11 @@
+CoreN2G/src/STM32/interrupt.cpp:112:6:bool stm32_interrupt_enable(GPIO_TypeDef*, uint16_t, StandardCallbackFunction, uint32_t, CallbackParameter)	48	static
+CoreN2G/src/STM32/interrupt.cpp:201:6:void stm32_interrupt_disable(GPIO_TypeDef*, uint16_t)	0	static
+CoreN2G/src/STM32/interrupt.cpp:222:6:void HAL_GPIO_EXTI_Callback(uint16_t)	0	static
+CoreN2G/src/STM32/interrupt.cpp:309:6:void EXTI0_IRQHandler()	0	static
+CoreN2G/src/STM32/interrupt.cpp:319:6:void EXTI1_IRQHandler()	0	static
+CoreN2G/src/STM32/interrupt.cpp:329:6:void EXTI2_IRQHandler()	0	static
+CoreN2G/src/STM32/interrupt.cpp:339:6:void EXTI3_IRQHandler()	0	static
+CoreN2G/src/STM32/interrupt.cpp:349:6:void EXTI4_IRQHandler()	0	static
+CoreN2G/src/STM32/interrupt.cpp:360:6:void EXTI9_5_IRQHandler()	16	static
+CoreN2G/src/STM32/interrupt.cpp:373:6:void EXTI15_10_IRQHandler()	16	static
+CoreN2G/src/STM32/interrupt.cpp:382:1:cpp)	8	static

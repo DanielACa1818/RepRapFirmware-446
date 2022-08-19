@@ -1,0 +1,1 @@
+CoreN2G/src/Stream.cpp:11:8:virtual size_t Stream::readBytes(char*, size_t)	24	static

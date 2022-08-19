@@ -1,0 +1,8 @@
+RRFLibraries/src/General/StringFunctions.cpp:19:6:bool StringEqualsIgnoreCase(const char*, const char*)	24	static
+RRFLibraries/src/General/StringFunctions.cpp:12:6:bool StringEndsWithIgnoreCase(const char*, const char*)	16	static
+RRFLibraries/src/General/StringFunctions.cpp:34:6:bool ReducedStringEquals(const char*, const char*)	24	static
+RRFLibraries/src/General/StringFunctions.cpp:60:6:bool StringStartsWith(const char*, const char*)	16	static
+RRFLibraries/src/General/StringFunctions.cpp:80:6:bool StringStartsWithIgnoreCase(const char*, const char*)	24	static
+RRFLibraries/src/General/StringFunctions.cpp:100:5:int StringContains(const char*, const char*)	16	static
+RRFLibraries/src/General/StringFunctions.cpp:125:6:void SafeStrncpy(char*, const char*, size_t)	16	static
+RRFLibraries/src/General/StringFunctions.cpp:132:6:void SafeStrncat(char*, const char*, size_t)	32	static

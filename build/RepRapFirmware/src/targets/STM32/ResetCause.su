@@ -1,0 +1,3 @@
+RepRapFirmware/src/targets/STM32/ResetCause.cpp:8:6:void InitResetCause()	0	static
+RepRapFirmware/src/targets/STM32/ResetCause.cpp:64:14:ResetCause_t GetResetCause()	0	static
+RepRapFirmware/src/targets/STM32/ResetCause.cpp:67:1:cpp)	0	static

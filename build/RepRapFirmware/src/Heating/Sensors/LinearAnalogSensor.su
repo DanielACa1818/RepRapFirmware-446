@@ -1,0 +1,10 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.h:20:14:virtual const char* LinearAnalogSensor::GetShortSensorType() const	0	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.cpp:71:6:virtual void LinearAnalogSensor::Poll()	8	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.h:13:7:LinearAnalogSensor::~LinearAnalogSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.h:13:7:virtual LinearAnalogSensor::~LinearAnalogSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.cpp:92:6:void LinearAnalogSensor::CalcDerivedParameters()	8	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.cpp:27:1:LinearAnalogSensor::LinearAnalogSensor(unsigned int)	8	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.cpp:33:13:virtual GCodeResult LinearAnalogSensor::Configure(GCodeBuffer&, const StringRef&, bool&)	48	static
+RepRapFirmware/src/Heating/Sensors/LinearAnalogSensor.cpp:100:1:cpp)	0	static

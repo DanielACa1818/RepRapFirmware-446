@@ -1,0 +1,11 @@
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:82:13:void SetupPins()	0	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:188:13:void NeoWriteZeroByte()	16	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:197:13:bool NeoAddToBuffer(uint32_t)	48	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:364:13:void NeoSetupBitTiming(uint32_t*, uint32_t)	8	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:214:13:void DmaInterrupt(DMA_HandleTypeDef*)	16	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:284:6:bool TMCSoftUARTTransfer(Pin, volatile uint8_t*, uint32_t, volatile uint8_t*, uint32_t, uint32_t)	48	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:318:6:void DMABitIOInit()	24	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:358:6:void DMABitIOShutdown()	8	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:378:6:bool NeopixelDMAWrite(Pin, uint32_t, uint8_t*, uint32_t, uint32_t, uint32_t, uint32_t)	40	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:420:17:void DMA2_Stream5_IRQHandler()	0	static
+RepRapFirmware/src/targets/STM32/Hardware/DMABitIO.cpp:423:1:cpp)	8	static

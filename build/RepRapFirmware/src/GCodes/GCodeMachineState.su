@@ -1,0 +1,20 @@
+./RepRapFirmware/src/Storage/FileData.h:63:7:bool FileData::Close()	8	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:14:1:GCodeMachineState::GCodeMachineState()	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:35:1:GCodeMachineState::GCodeMachineState(GCodeMachineState&, bool)	24	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:71:1:GCodeMachineState::~GCodeMachineState()	16	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:79:6:bool GCodeMachineState::CanRestartMacro() const	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:115:6:bool GCodeMachineState::DoingFile() const	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:131:6:void GCodeMachineState::CloseFile()	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:158:6:void GCodeMachineState::WaitForAcknowledgement()	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:170:6:void GCodeMachineState::CopyStateFrom(const GCodeMachineState&)	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:181:6:void GCodeMachineState::SetError(const char*)	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:190:6:void GCodeMachineState::SetWarning(const char*)	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:200:6:void GCodeMachineState::RetrieveStateMachineResult(GCodeResult&, const StringRef&) const	4	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:212:20:GCodeMachineState* GCodeMachineState::Pop() const	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:223:6:void GCodeMachineState::SetState(GCodeState)	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:233:32:GCodeMachineState::BlockState& GCodeMachineState::CurrentBlockState()	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:238:38:const GCodeMachineState::BlockState& GCodeMachineState::CurrentBlockState() const	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:244:9:int32_t GCodeMachineState::GetIterations() const	8	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:262:6:bool GCodeMachineState::CreateBlock(uint16_t)	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:274:6:void GCodeMachineState::EndBlock()	0	static
+RepRapFirmware/src/GCodes/GCodeMachineState.cpp:281:1:cpp)	0	static

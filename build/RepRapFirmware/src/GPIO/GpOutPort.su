@@ -1,0 +1,8 @@
+RepRapFirmware/src/GPIO/GpOutPort.cpp:36:11:static ExpressionValue GpOutputPort::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GPIO/GpOutPort.cpp:41:1:virtual const ObjectModelClassDescriptor* GpOutputPort::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/GPIO/GpOutPort.h:17:7:GpOutputPort::~GpOutputPort()	8	static
+RepRapFirmware/src/GPIO/GpOutPort.h:17:7:virtual GpOutputPort::~GpOutputPort()	8	static
+RepRapFirmware/src/GPIO/GpOutPort.cpp:46:6:bool GpOutputPort::IsUnused() const	0	static
+RepRapFirmware/src/GPIO/GpOutPort.cpp:55:13:GCodeResult GpOutputPort::Configure(uint32_t, bool, GCodeBuffer&, const StringRef&)	112	static
+RepRapFirmware/src/GPIO/GpOutPort.cpp:162:13:GCodeResult GpOutputPort::WriteAnalog(uint32_t, bool, float, const GCodeBuffer&, const StringRef&)	8	static
+RepRapFirmware/src/GPIO/GpOutPort.cpp:173:1:cpp)	0	static

@@ -1,0 +1,4 @@
+CoreN2G/src/Print.cpp:10:8:virtual size_t Print::write(const uint8_t*, size_t)	24	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Print::vprintf(const char*, va_list)::<lambda(char)>; Ret = bool; Params = {char}]	8	static
+CoreN2G/src/Print.cpp:20:5:)	12	static
+CoreN2G/src/Print.cpp:29:5:int Print::vprintf(const char*, va_list)	24	static

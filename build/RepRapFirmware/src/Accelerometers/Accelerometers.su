@@ -1,0 +1,14 @@
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:83:13:void AddLocalAccelerometerRun(unsigned int)	0	static
+./RepRapFirmware/src/Hardware/IoPorts.h:21:2:IoPort::~IoPort()	8	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:234:13:bool TranslateOrientation(uint32_t)	20	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:267:13:GCodeResult Accelerometers::ConfigureAccelerometer(GCodeBuffer&, const StringRef&)	80	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:538:6:bool Accelerometers::HasLocalAccelerometer()	0	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:543:14:unsigned int Accelerometers::GetLocalAccelerometerDataPoints()	0	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:548:14:unsigned int Accelerometers::GetLocalAccelerometerRuns()	0	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:553:6:void Accelerometers::Exit()	8	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 50]	20	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 50]	20	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:103:19:void AccelerometerTaskCode(void*)	112	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 100]	20	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:394:13:GCodeResult Accelerometers::StartAccelerometer(GCodeBuffer&, const StringRef&)	240	static
+RepRapFirmware/src/Accelerometers/Accelerometers.cpp:560:1:cpp)	8	static

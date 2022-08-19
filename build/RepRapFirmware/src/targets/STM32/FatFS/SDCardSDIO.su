@@ -1,0 +1,11 @@
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.h:17:5:SDCardSDIO::~SDCardSDIO()	0	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:42:6:virtual void SDCardSDIO::set_max_frequency(uint32_t)	0	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:47:6:virtual void SDCardSDIO::unmount()	0	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:90:9:virtual uint8_t SDCardSDIO::disk_status()	0	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:59:9:virtual uint8_t SDCardSDIO::disk_initialize()	40	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:158:9:virtual DRESULT SDCardSDIO::disk_ioctl(uint8_t, void*)	48	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.h:17:5:virtual SDCardSDIO::~SDCardSDIO()	8	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:103:9:virtual DRESULT SDCardSDIO::disk_read(uint8_t*, uint32_t, uint32_t)	24	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:127:9:virtual DRESULT SDCardSDIO::disk_write(const uint8_t*, uint32_t, uint32_t)	24	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:33:1:SDCardSDIO::SDCardSDIO()	0	static
+RepRapFirmware/src/targets/STM32/FatFS/SDCardSDIO.cpp:195:1:cpp)	0	static

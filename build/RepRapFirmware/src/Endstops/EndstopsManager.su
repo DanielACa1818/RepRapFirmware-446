@@ -1,0 +1,61 @@
+RepRapFirmware/src/Endstops/ZProbe.h:111:2:MotorStallZProbe::~MotorStallZProbe()	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:113:7:virtual void MotorStallZProbe::SetIREmitter(bool) const	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:114:11:virtual uint16_t MotorStallZProbe::GetRawReading() const	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:115:7:virtual bool MotorStallZProbe::SetProbing(bool)	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:116:14:virtual GCodeResult MotorStallZProbe::AppendPinNames(const StringRef&)	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:128:2:DummyZProbe::~DummyZProbe()	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:130:7:virtual void DummyZProbe::SetIREmitter(bool) const	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:131:11:virtual uint16_t DummyZProbe::GetRawReading() const	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:132:7:virtual bool DummyZProbe::SetProbing(bool)	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:133:14:virtual GCodeResult DummyZProbe::AppendPinNames(const StringRef&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:53:2:static size_t EndstopsManager::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:88:17:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:89:18:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:90:24:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:91:15:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:92:17:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:97:1:virtual const ObjectModelClassDescriptor* EndstopsManager::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.h:24:7:EndstopsManager::~EndstopsManager()	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:46:2:static size_t EndstopsManager::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:61:2:static size_t EndstopsManager::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:68:2:static size_t EndstopsManager::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.h:24:7:virtual EndstopsManager::~EndstopsManager()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:304:14:bool RTOSIface::LeaveTaskCriticalSection()	0	static
+RepRapFirmware/src/Endstops/ZProbe.h:128:2:virtual DummyZProbe::~DummyZProbe()	8	static
+RepRapFirmware/src/Endstops/ZProbe.h:111:2:virtual MotorStallZProbe::~MotorStallZProbe()	8	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:62:2:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:69:2:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:47:2:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:439:2:WriteLocker::~WriteLocker()	8	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:101:1:EndstopsManager::EndstopsManager()	16	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:145:28:ReadLockedPointer<Endstop> EndstopsManager::FindEndstop(size_t) const	16	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:54:2:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:151:27:ReadLockedPointer<ZProbe> EndstopsManager::GetZProbe(size_t) const	16	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:80:2:static ExpressionValue EndstopsManager::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:158:27:ReadLockedPointer<ZProbe> EndstopsManager::GetZProbeOrDefault(size_t) const	16	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:167:9:ZProbe& EndstopsManager::GetDefaultZProbeFromISR() const	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:175:6:void EndstopsManager::AddToActive(EndstopOrZProbe&)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:182:6:bool EndstopsManager::EnableAxisEndstops(AxesBitmap, bool, bool&)	32	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:211:6:bool EndstopsManager::EnableZProbe(size_t, bool)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:265:19:EndstopHitDetails EndstopsManager::CheckEndstops()	64	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:484:17:EndStopPosition EndstopsManager::GetEndStopPosition(size_t) const	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:492:6:bool EndstopsManager::HomingZWithProbe() const	16	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:497:6:bool EndstopsManager::Stopped(size_t) const	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:502:6:void EndstopsManager::GetM119report(const StringRef&)	40	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:515:13:static const char* EndstopsManager::TranslateEndStopResult(bool, bool)	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:535:13:GCodeResult EndstopsManager::ProgramZProbe(GCodeBuffer&, const StringRef&)	64	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:570:6:bool EndstopsManager::WriteZProbeParameters(FileStore*, bool) const	32	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:715:13:GCodeResult EndstopsManager::HandleG31(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:731:8:size_t EndstopsManager::GetNumProbesToReport() const	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:79:2:static size_t EndstopsManager::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+./RepRapFirmware/src/RepRapFirmware.h:449:41:void ReplaceObject(T*&, T2*) [with T = Endstop; T2 = StallDetectionEndstop]	0	static
+./RepRapFirmware/src/RepRapFirmware.h:441:28:void DeleteObject(T*&) [with T = ZProbe]	0	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:525:6:void EndstopsManager::SetZProbeDefaults()	16	static
+./RRFLibraries/src/General/FreelistManager.h:33:28:static void* FreelistManager::Freelist<Sz>::AllocateItem() [with unsigned int Sz = 24]	8	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:224:6:bool EndstopsManager::EnableExtruderEndstops(ExtrudersBitmap)	16	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:323:13:GCodeResult EndstopsManager::HandleM574(GCodeBuffer&, const StringRef&, OutputBuffer*&)	48	static
+./RRFLibraries/src/General/FreelistManager.h:33:28:static void* FreelistManager::Freelist<Sz>::AllocateItem() [with unsigned int Sz = 104]	8	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:118:6:void EndstopsManager::Init()	16	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:603:13:GCodeResult EndstopsManager::HandleM558(GCodeBuffer&, const StringRef&)	64	static
+RepRapFirmware/src/Endstops/EndstopsManager.cpp:739:1:cpp)	0	static

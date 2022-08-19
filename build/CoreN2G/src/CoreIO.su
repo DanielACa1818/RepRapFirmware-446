@@ -1,0 +1,22 @@
+CoreN2G/src/CoreIO.cpp:42:6:void SetPinMode(Pin, PinMode, uint32_t)	16	static
+CoreN2G/src/CoreIO.cpp:89:6:void SetPullup(Pin, bool)	0	static
+CoreN2G/src/CoreIO.cpp:99:6:void EnablePullup(Pin)	0	static
+CoreN2G/src/CoreIO.cpp:106:6:void DisablePullup(Pin)	0	static
+CoreN2G/src/CoreIO.cpp:486:17:void pinMode(Pin, PinMode)	0	static
+CoreN2G/src/CoreIO.cpp:492:17:bool digitalRead(Pin)	0	static
+CoreN2G/src/CoreIO.cpp:498:17:void digitalWrite(Pin, bool)	0	static
+CoreN2G/src/CoreIO.cpp:516:10:uint32_t millis()	0	static
+CoreN2G/src/CoreIO.cpp:521:10:uint64_t millis64()	0	static
+CoreN2G/src/CoreIO.cpp:529:6:void delay(uint32_t)	0	static
+CoreN2G/src/CoreIO.cpp:539:6:void CoreSysTick()	8	static
+CoreN2G/src/CoreIO.cpp:553:6:void MicrosecondsTimer::Reset()	16	static
+CoreN2G/src/CoreIO.cpp:548:1:MicrosecondsTimer::MicrosecondsTimer()	8	static
+CoreN2G/src/CoreIO.cpp:569:10:uint32_t MicrosecondsTimer::Read()	16	static
+CoreN2G/src/CoreIO.cpp:594:76:void memcpyu32(uint32_t*, const uint32_t*, size_t)	20	static
+CoreN2G/src/CoreIO.cpp:618:76:void memmoveu32(uint32_t*, const uint32_t*, size_t)	12	static
+CoreN2G/src/CoreIO.cpp:668:6:void CoreInit()	0	static
+CoreN2G/src/CoreIO.cpp:683:6:void WatchdogInit()	0	static
+CoreN2G/src/CoreIO.cpp:719:6:void WatchdogReset()	0	static
+CoreN2G/src/CoreIO.cpp:746:6:void ResetProcessor()	0	static
+CoreN2G/src/CoreIO.cpp:875:21:AnalogChannelNumber PinToAdcChannel(Pin)	0	static
+CoreN2G/src/CoreIO.cpp:900:21:uint32_t random32()	8	static

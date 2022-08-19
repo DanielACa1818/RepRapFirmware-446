@@ -1,0 +1,8 @@
+RepRapFirmware/src/GPIO/GpInPort.cpp:37:1:virtual const ObjectModelClassDescriptor* GpInputPort::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/GPIO/GpInPort.h:19:7:GpInputPort::~GpInputPort()	8	static
+RepRapFirmware/src/GPIO/GpInPort.h:19:7:virtual GpInputPort::~GpInputPort()	8	static
+RepRapFirmware/src/GPIO/GpInPort.cpp:32:13:static ExpressionValue GpInputPort::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/GPIO/GpInPort.cpp:41:6:bool GpInputPort::GetState() const	0	static
+RepRapFirmware/src/GPIO/GpInPort.cpp:54:6:bool GpInputPort::IsUnused() const	0	static
+RepRapFirmware/src/GPIO/GpInPort.cpp:63:13:GCodeResult GpInputPort::Configure(uint32_t, GCodeBuffer&, const StringRef&)	104	static
+RepRapFirmware/src/GPIO/GpInPort.cpp:144:1:cpp)	0	static

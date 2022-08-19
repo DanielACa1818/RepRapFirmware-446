@@ -1,0 +1,9 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+RepRapFirmware/src/Heating/Sensors/AdditionalOutputSensor.cpp:23:13:virtual GCodeResult AdditionalOutputSensor::Configure(GCodeBuffer&, const StringRef&, bool&)	64	static
+RepRapFirmware/src/Heating/Sensors/AdditionalOutputSensor.cpp:96:6:virtual void AdditionalOutputSensor::Poll()	32	static
+RepRapFirmware/src/Heating/Sensors/AdditionalOutputSensor.cpp:14:1:AdditionalOutputSensor::AdditionalOutputSensor(unsigned int, const char*, bool)	16	static
+RepRapFirmware/src/Heating/Sensors/AdditionalOutputSensor.cpp:19:1:AdditionalOutputSensor::~AdditionalOutputSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/AdditionalOutputSensor.cpp:19:1:virtual AdditionalOutputSensor::~AdditionalOutputSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/AdditionalOutputSensor.cpp:120:1:cpp)	0	static

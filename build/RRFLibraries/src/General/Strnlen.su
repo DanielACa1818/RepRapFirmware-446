@@ -1,0 +1,1 @@
+RRFLibraries/src/General/Strnlen.cpp:11:8:size_t Strnlen(const char*, size_t)	0	static

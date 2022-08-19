@@ -1,0 +1,24 @@
+./CoreN2G/src/STM32/system/CMSIS/CMSIS/Core/Include/core_cm4.h:1807:22:void __NVIC_SetPriority(IRQn_Type, uint32_t)	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:215:6:virtual bool HardwareSPI::waitForTxEmpty()	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:222:6:void transferComplete(HardwareSPI*)	16	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:79:17:void HAL_SPI_TxCpltCallback(SPI_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:87:17:void HAL_SPI_TxRxCpltCallback(SPI_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:95:17:void HAL_SPI_RxCpltCallback(SPI_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:115:17:void DMA1_Stream3_IRQHandler()	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:120:17:void DMA1_Stream4_IRQHandler()	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:125:17:void DMA1_Stream0_IRQHandler()	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:130:17:void DMA1_Stream5_IRQHandler()	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:195:6:void HardwareSPI::flushRx()	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:201:6:void HardwareSPI::disable()	16	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:243:6:void HardwareSPI::configureDmaStream(DMA_HandleTypeDef&, DMA_Stream_TypeDef*, uint32_t, uint32_t, uint32_t)	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:264:6:void HardwareSPI::initDma(NvicPriority)	32	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:230:6:virtual void HardwareSPI::initPins(Pin, Pin, Pin, Pin, NvicPriority)	16	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:282:6:void HardwareSPI::configureDevice(uint32_t, uint32_t, uint32_t, uint32_t, bool)	40	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:304:6:virtual void HardwareSPI::configureDevice(uint32_t, uint32_t, uint32_t)	16	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:309:1:HardwareSPI::HardwareSPI(SPI_TypeDef*, IRQn_Type, DMA_Stream_TypeDef*, uint32_t, IRQn_Type, DMA_Stream_TypeDef*, uint32_t, IRQn_Type)	12	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:320:1:HardwareSPI::HardwareSPI(SPI_TypeDef*)	0	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:327:6:void HardwareSPI::startTransfer(const uint8_t*, uint8_t*, size_t, SPICallbackFunction)	32	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:373:6:void HardwareSPI::stopTransfer()	16	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:396:6:void HardwareSPI::startTransferAndWait(const uint8_t*, uint8_t*, size_t)	32	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:411:14:virtual spi_status_t HardwareSPI::transceivePacket(const uint8_t*, uint8_t*, size_t)	32	static
+CoreN2G/src/STM32/SharedSPI/HardwareSPI.cpp:449:1:cpp)	32	static

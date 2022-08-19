@@ -1,0 +1,11 @@
+CoreN2G/src/STM32/AnalogIn.cpp:198:17:uint32_t AddActiveChannels(ADC_HandleTypeDef&, uint32_t, int32_t*, uint32_t, uint32_t)	56	static
+CoreN2G/src/STM32/AnalogIn.cpp:93:17:void DMA2_Stream4_IRQHandler()	0	static
+CoreN2G/src/STM32/AnalogIn.cpp:97:17:void DMA2_Stream0_IRQHandler()	0	static
+CoreN2G/src/STM32/AnalogIn.cpp:301:10:void LegacyAnalogIn::AnalogInInit()	48	static
+CoreN2G/src/STM32/AnalogIn.cpp:320:10:void LegacyAnalogIn::AnalogInEnableChannel(AnalogChannelNumber, bool)	40	static
+CoreN2G/src/STM32/AnalogIn.cpp:342:14:uint16_t LegacyAnalogIn::AnalogInReadChannel(AnalogChannelNumber)	8	static
+CoreN2G/src/STM32/AnalogIn.cpp:371:10:void LegacyAnalogIn::AnalogInStartConversion(uint32_t)	0	static
+CoreN2G/src/STM32/AnalogIn.cpp:377:10:bool LegacyAnalogIn::AnalogInCheckReady(uint32_t)	0	static
+CoreN2G/src/STM32/AnalogIn.cpp:383:25:AnalogChannelNumber LegacyAnalogIn::PinToAdcChannel(uint32_t)	16	static
+CoreN2G/src/STM32/AnalogIn.cpp:389:25:AnalogChannelNumber LegacyAnalogIn::GetTemperatureAdcChannel()	0	static
+CoreN2G/src/STM32/AnalogIn.cpp:395:25:AnalogChannelNumber LegacyAnalogIn::GetVREFAdcChannel()	0	static

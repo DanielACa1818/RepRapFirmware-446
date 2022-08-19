@@ -1,0 +1,7 @@
+RepRapFirmware/src/Endstops/Endstop.h:101:15:virtual bool Endstop::ShouldReduceAcceleration() const	0	static
+RepRapFirmware/src/Endstops/Endstop.cpp:28:15:static ExpressionValue Endstop::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Endstops/Endstop.cpp:35:1:virtual const ObjectModelClassDescriptor* Endstop::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Endstops/Endstop.cpp:29:17:static ExpressionValue Endstop::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Endstops/Endstop.cpp:30:13:static ExpressionValue Endstop::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Endstops/Endstop.cpp:39:1:Endstop::Endstop(uint8_t, EndStopPosition)	16	static
+RepRapFirmware/src/Endstops/Endstop.cpp:41:1:cpp)	0	static

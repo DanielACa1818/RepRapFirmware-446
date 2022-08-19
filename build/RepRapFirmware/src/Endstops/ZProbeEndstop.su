@@ -1,0 +1,11 @@
+RepRapFirmware/src/Endstops/Endstop.h:101:15:virtual bool Endstop::ShouldReduceAcceleration() const	0	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.h:20:14:virtual EndStopType ZProbeEndstop::GetEndstopType() const	0	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.cpp:28:6:virtual bool ZProbeEndstop::Prime(const Kinematics&, const AxisDriversConfig&)	8	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.cpp:62:6:virtual bool ZProbeEndstop::Acknowledge(EndstopHitDetails)	8	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.h:13:7:ZProbeEndstop::~ZProbeEndstop()	0	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.cpp:21:6:virtual bool ZProbeEndstop::Stopped() const	16	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.cpp:41:19:virtual EndstopHitDetails ZProbeEndstop::CheckTriggered()	16	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.cpp:67:6:virtual void ZProbeEndstop::AppendDetails(const StringRef&)	0	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.h:13:7:virtual ZProbeEndstop::~ZProbeEndstop()	8	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.cpp:16:1:ZProbeEndstop::ZProbeEndstop(uint8_t, EndStopPosition)	8	static
+RepRapFirmware/src/Endstops/ZProbeEndstop.cpp:70:1:cpp)	0	static

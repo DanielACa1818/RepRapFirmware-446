@@ -1,0 +1,2 @@
+CoreN2G/src/STM32/dwt.c:28:10:dwt_init	0	static
+CoreN2G/src/STM32/dwt.c:54:6:dwt_access	0	static

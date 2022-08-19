@@ -1,0 +1,7 @@
+./RRFLibraries/src/General/String.h:36:7:bool String<Len>::cat(const char*) [with unsigned int Len = 256]	16	static
+RepRapFirmware/src/Hardware/SoftwareReset.cpp:40:6:bool SoftwareResetData::IsVacant() const	0	static
+RepRapFirmware/src/Hardware/SoftwareReset.cpp:61:6:void SoftwareResetData::Clear()	0	static
+RepRapFirmware/src/Hardware/SoftwareReset.cpp:67:6:void SoftwareResetData::Populate(uint16_t, const uint32_t*)	16	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 256]	20	static
+RepRapFirmware/src/Hardware/SoftwareReset.cpp:131:6:void SoftwareResetData::Printit(MessageType, unsigned int) const	384	static
+RepRapFirmware/src/Hardware/SoftwareReset.cpp:202:1:cpp)	0	static

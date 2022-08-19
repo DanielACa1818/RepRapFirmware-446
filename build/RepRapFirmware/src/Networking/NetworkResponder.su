@@ -1,0 +1,7 @@
+RepRapFirmware/src/Networking/NetworkResponder.cpp:41:6:virtual void NetworkResponder::SendData()	24	static
+RepRapFirmware/src/Networking/NetworkResponder.cpp:162:6:virtual void NetworkResponder::ConnectionLost()	8	static
+RepRapFirmware/src/Networking/NetworkResponder.cpp:14:1:NetworkResponder::NetworkResponder(NetworkResponder*)	0	static
+RepRapFirmware/src/Networking/NetworkResponder.cpp:25:6:void NetworkResponder::Commit(NetworkResponder::ResponderState, bool)	0	static
+RepRapFirmware/src/Networking/NetworkResponder.cpp:190:11:IPAddress NetworkResponder::GetRemoteIP() const	0	static
+RepRapFirmware/src/Networking/NetworkResponder.cpp:195:6:void NetworkResponder::ReportOutputBufferExhaustion(const char*, int)	0	static
+RepRapFirmware/src/Networking/NetworkResponder.cpp:201:1:cpp)	0	static

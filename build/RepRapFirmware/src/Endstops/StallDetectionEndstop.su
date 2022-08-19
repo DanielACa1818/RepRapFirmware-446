@@ -1,0 +1,13 @@
+RepRapFirmware/src/Endstops/StallDetectionEndstop.h:24:14:virtual EndStopType StallDetectionEndstop::GetEndstopType() const	0	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.h:30:7:virtual bool StallDetectionEndstop::ShouldReduceAcceleration() const	0	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:99:6:virtual bool StallDetectionEndstop::Acknowledge(EndstopHitDetails)	8	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.h:16:7:StallDetectionEndstop::~StallDetectionEndstop()	0	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:27:6:virtual bool StallDetectionEndstop::Stopped() const	8	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:33:6:virtual bool StallDetectionEndstop::Prime(const Kinematics&, const AxisDriversConfig&)	16	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:117:6:virtual void StallDetectionEndstop::AppendDetails(const StringRef&)	0	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.h:16:7:virtual StallDetectionEndstop::~StallDetectionEndstop()	8	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:49:19:virtual EndstopHitDetails StallDetectionEndstop::CheckTriggered()	24	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:16:1:StallDetectionEndstop::StallDetectionEndstop(uint8_t, EndStopPosition, bool)	16	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:21:1:StallDetectionEndstop::StallDetectionEndstop()	8	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:122:6:void StallDetectionEndstop::SetDrivers(DriversBitmap)	0	static
+RepRapFirmware/src/Endstops/StallDetectionEndstop.cpp:126:1:cpp)	0	static

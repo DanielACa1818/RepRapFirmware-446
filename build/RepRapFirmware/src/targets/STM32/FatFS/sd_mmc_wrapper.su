@@ -1,0 +1,9 @@
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:23:6:void sd_mmc_init(const Pin*, const Pin*)	0	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:28:6:void sd_mmc_reinit_slot(uint8_t, Pin, uint32_t)	0	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:36:6:void sd_mmc_setSSPChannel(uint8_t, SSPChannel, Pin)	24	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:68:6:void sd_mmc_unmount(uint8_t)	0	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:77:14:sd_mmc_err_t sd_mmc_check(uint8_t)	8	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:90:10:uint32_t sd_mmc_get_capacity(uint8_t)	0	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:104:13:card_type_t sd_mmc_get_type(uint8_t)	0	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:121:10:uint32_t sd_mmc_get_interface_speed(uint8_t)	0	static
+RepRapFirmware/src/targets/STM32/FatFS/sd_mmc_wrapper.cpp:130:1:cpp)	0	static

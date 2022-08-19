@@ -1,0 +1,6 @@
+RepRapFirmware/src/Hardware/SharedSpi/SharedSpiClient.cpp:19:6:void SharedSpiClient::InitCsPin() const	0	static
+RepRapFirmware/src/Hardware/SharedSpi/SharedSpiClient.cpp:13:1:SharedSpiClient::SharedSpiClient(SharedSpiDevice&, uint32_t, SpiMode, Pin, bool)	8	static
+RepRapFirmware/src/Hardware/SharedSpi/SharedSpiClient.cpp:28:6:bool SharedSpiClient::Select(uint32_t) const	16	static
+RepRapFirmware/src/Hardware/SharedSpi/SharedSpiClient.cpp:41:6:void SharedSpiClient::Deselect() const	8	static
+RepRapFirmware/src/Hardware/SharedSpi/SharedSpiClient.cpp:49:6:bool SharedSpiClient::TransceivePacket(const uint8_t*, uint8_t*, size_t) const	0	static
+RepRapFirmware/src/Hardware/SharedSpi/SharedSpiClient.cpp:52:1:cpp)	0	static

@@ -1,0 +1,4 @@
+./CoreN2G/src/STM32/system/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:485:22:LL_GPIO_SetPinPull	12	static
+CoreN2G/src/STM32/spi_com.c:55:10:spi_getClkFreqInst	8	static
+CoreN2G/src/STM32/spi_com.c:176:6:spi_init	48	static
+CoreN2G/src/STM32/spi_com.c:324:6:spi_deinit	8	static

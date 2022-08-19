@@ -1,0 +1,65 @@
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:44:2:static constexpr size_t PrintMonitor::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:62:2:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:73:15:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:75:26:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:83:19:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:87:18:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:88:18:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:89:20:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:90:17:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:92:20:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:93:19:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:94:19:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:95:22:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:96:15:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:97:20:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:115:1:virtual const ObjectModelClassDescriptor* PrintMonitor::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.h:34:7:PrintMonitor::~PrintMonitor()	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:104:16:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:101:17:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:103:15:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:102:17:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:74:21:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.h:34:7:virtual PrintMonitor::~PrintMonitor()	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:91:21:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:82:21:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:79:16:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:77:21:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:76:21:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:53:2:static constexpr size_t PrintMonitor::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:46:2:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+./RepRapFirmware/src/GCodes/GCodeFileInfo.h:14:8:GCodeFileInfo& GCodeFileInfo::operator=(const GCodeFileInfo&)	12	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:100:17:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:109:17:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:439:2:WriteLocker::~WriteLocker()	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:124:1:PrintMonitor::PrintMonitor(Platform&, GCodes&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:135:6:void PrintMonitor::Reset()	24	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:128:6:void PrintMonitor::Init()	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:149:6:void PrintMonitor::UpdatePrintingFileInfo()	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:160:6:bool PrintMonitor::GetPrintingFileInfo(GCodeFileInfo&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:177:6:void PrintMonitor::SetPrintingFileInfo(const char*, GCodeFileInfo&)	40	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:198:6:void PrintMonitor::SetSlicerTimeLeft(float)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:188:13:GCodeResult PrintMonitor::ProcessM73(GCodeBuffer&, const StringRef&)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:302:7:float PrintMonitor::GetWarmUpDuration() const	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:84:23:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:308:7:float PrintMonitor::GetPauseDuration() const	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:81:22:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:314:6:void PrintMonitor::StartingPrint(const char*)	40	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:346:6:void PrintMonitor::StoppedPrint()	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:354:6:void PrintMonitor::SetLayerNumber(uint32_t)	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:339:6:void PrintMonitor::StartedPrint()	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:366:6:void PrintMonitor::SetLayerZ(float)	0	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:372:6:void PrintMonitor::LayerChange()	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:379:7:float PrintMonitor::FractionOfFilePrinted() const	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:204:6:void PrintMonitor::Spin()	48	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:391:7:float PrintMonitor::EstimateTimeLeft(PrintEstimationMethod) const	24	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:455:17:ExpressionValue PrintMonitor::EstimateTimeLeftAsExpression(PrintEstimationMethod) const	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:110:17:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:108:15:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:107:18:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:464:7:float PrintMonitor::GetPrintDuration() const	16	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:117:9:int32_t PrintMonitor::GetPrintOrSimulatedDuration() const	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:72:18:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:478:7:float PrintMonitor::GetCurrentLayerTime() const	24	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:80:19:static ExpressionValue PrintMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/PrintMonitor/PrintMonitor.cpp:481:1:cpp)	0	static

@@ -1,0 +1,15 @@
+./CoreN2G/src/STM32/system/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:414:22:LL_GPIO_SetPinSpeed	12	static
+./CoreN2G/src/STM32/system/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:485:22:LL_GPIO_SetPinPull	12	static
+CoreN2G/src/STM32/pinmap.c:45:6:pin_in_pinmap	0	static
+CoreN2G/src/STM32/pinmap.c:61:10:pin_get_function	16	static
+CoreN2G/src/STM32/pinmap.c:107:6:pin_function	24	static
+CoreN2G/src/STM32/pinmap.c:192:6:pin_speed	16	static
+CoreN2G/src/STM32/pinmap.c:208:6:pinmap_pinout	0	static
+CoreN2G/src/STM32/pinmap.c:224:6:pinmap_pinout2	8	static
+CoreN2G/src/STM32/pinmap.c:240:7:pinmap_find_peripheral	0	static
+CoreN2G/src/STM32/pinmap.c:251:7:pinmap_peripheral	0	static
+CoreN2G/src/STM32/pinmap.c:261:9:pinmap_find_pin	0	static
+CoreN2G/src/STM32/pinmap.c:272:9:pinmap_pin	0	static
+CoreN2G/src/STM32/pinmap.c:282:10:pinmap_find_function	0	static
+CoreN2G/src/STM32/pinmap.c:293:10:pinmap_function	0	static
+CoreN2G/src/STM32/pinmap.c:304:7:pinmap_merge_peripheral	0	static

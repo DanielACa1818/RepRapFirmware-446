@@ -1,0 +1,64 @@
+./RepRapFirmware/src/Networking/NetworkInterface.h:32:15:virtual bool NetworkInterface::IsProtocolEnabled(NetworkProtocol)	0	static
+./RepRapFirmware/src/Networking/NetworkInterface.h:33:18:virtual TcpPort NetworkInterface::GetProtocolPort(NetworkProtocol)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.h:58:7:virtual bool WiFiInterface::IsWiFiInterface() const	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.h:61:12:virtual IPAddress WiFiInterface::GetIPAddress() const	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.h:64:20:virtual const MacAddress& WiFiInterface::GetMacAddress() const	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:283:18:static ExpressionValue WiFiInterface::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:284:23:static ExpressionValue WiFiInterface::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:285:17:static ExpressionValue WiFiInterface::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:287:16:static ExpressionValue WiFiInterface::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:288:17:static ExpressionValue WiFiInterface::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:289:15:static ExpressionValue WiFiInterface::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:294:1:virtual const ObjectModelClassDescriptor* WiFiInterface::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1018:5:virtual int WiFiInterface::EnableState() const	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1049:6:virtual void WiFiInterface::SetIPAddress(IPAddress, IPAddress, IPAddress)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.h:36:7:WiFiInterface::~WiFiInterface()	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:286:14:static ExpressionValue WiFiInterface::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1307:13:virtual GCodeResult WiFiInterface::SetMacAddress(const MacAddress&, const StringRef&)	8	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:9:20:void DisableSpi()	8	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:19:20:void spi_dma_disable()	8	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.h:36:7:virtual WiFiInterface::~WiFiInterface()	8	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:26:13:bool spi_dma_check_rx_complete()	8	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:222:13:void EspTransferRequestIsr(CallbackParameter)	0	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:48:6:void WiFiInterface::spi_slave_dma_setup(uint32_t, uint32_t)	32	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:58:6:void WiFiInterface::SpiInterrupt()	16	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:42:6:void ESP_SPI_HANDLER(HardwareSPI*)	0	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:69:13:void SpiCSInterrupt(CallbackParameter)	8	static
+./RepRapFirmware/src/targets/STM32/Networking/ESP8266WiFi/WiFiInterface.hpp:79:6:void WiFiInterface::SetupSpi()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:240:1:WiFiInterface::WiFiInterface(Platform&)	24	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:433:6:void WiFiInterface::ReportOneProtocol(NetworkProtocol, const StringRef&) const	4	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:424:13:virtual GCodeResult WiFiInterface::ReportProtocols(const StringRef&) const	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:445:17:NetworkProtocol WiFiInterface::GetProtocolByLocalPort(TcpPort) const	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:589:6:void WiFiInterface::Stop()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:495:6:virtual void WiFiInterface::Exit()	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:878:13:static const char* WiFiInterface::TranslateEspResetReason(uint32_t)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1028:24:static const char* WiFiInterface::TranslateWiFiState(WiFiState)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:501:13:virtual GCodeResult WiFiInterface::GetNetworkState(const StringRef&)	32	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1043:6:void WiFiInterface::EspRequestsTransfer()	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1325:6:void WiFiInterface::TerminateSockets()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1333:6:void WiFiInterface::TerminateSockets(TcpPort)	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1345:6:void WiFiInterface::UpdateSocketStatus(uint16_t, uint16_t)	8	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1991:24:static const char* WiFiInterface::TranslateWiFiResponse(int32_t)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1764:9:int32_t WiFiInterface::SendCommand(NetworkCommand, SocketNumber, uint8_t, uint32_t, const void*, size_t, void*, size_t)	48	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1951:6:void WiFiInterface::SendListenCommand(TcpPort, NetworkProtocol, unsigned int)	48	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:369:6:void WiFiInterface::StartProtocol(NetworkProtocol)	24	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1313:6:void WiFiInterface::InitSockets()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1357:6:virtual void WiFiInterface::OpenDataPort(TcpPort)	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1962:6:void WiFiInterface::StopListening(TcpPort)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:392:6:void WiFiInterface::ShutdownProtocol(NetworkProtocol)	24	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:315:13:virtual GCodeResult WiFiInterface::EnableProtocol(NetworkProtocol, int, int, const StringRef&)	40	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:350:13:virtual GCodeResult WiFiInterface::DisableProtocol(NetworkProtocol, const StringRef&)	24	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1374:6:virtual void WiFiInterface::TerminateDataPort()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:900:6:virtual void WiFiInterface::Diagnostics(MessageType)	232	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1294:6:virtual void WiFiInterface::UpdateHostname(const char*)	32	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1968:6:void WiFiInterface::GetNewStatus()	144	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:1056:13:GCodeResult WiFiInterface::HandleWiFiCode(int, GCodeBuffer&, const StringRef&, OutputBuffer*&)	1208	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:2075:6:void WiFiInterface::StartWiFi()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:537:6:void WiFiInterface::Start()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:465:6:virtual void WiFiInterface::Activate()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:964:13:virtual GCodeResult WiFiInterface::EnableInterface(int, const StringRef&, const StringRef&)	24	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:2101:6:void WiFiInterface::ResetWiFi()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:298:6:virtual void WiFiInterface::Init()	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:2128:6:void WiFiInterface::ResetWiFiForUpload(bool)	16	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:2187:1:cpp)	0	static
+RepRapFirmware/src/Networking/ESP8266WiFi/WiFiInterface.cpp:615:6:virtual void WiFiInterface::Spin()	224	static

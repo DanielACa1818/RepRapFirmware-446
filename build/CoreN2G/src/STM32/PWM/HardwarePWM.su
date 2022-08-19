@@ -1,0 +1,6 @@
+CoreN2G/src/STM32/PWM/HardwarePWM.cpp:34:6:virtual void HardwarePWM::free()	8	static
+CoreN2G/src/STM32/PWM/HardwarePWM.cpp:96:6:virtual void HardwarePWM::setValue(float)	0	static
+CoreN2G/src/STM32/PWM/HardwarePWM.cpp:101:6:virtual void HardwarePWM::appendStatus(const StringRef&)	16	static
+CoreN2G/src/STM32/PWM/HardwarePWM.cpp:30:1:HardwarePWM::HardwarePWM()	8	static
+CoreN2G/src/STM32/PWM/HardwarePWM.cpp:47:16:static HybridPWMBase* HardwarePWM::allocate(Pin, uint32_t, float)	40	static
+CoreN2G/src/STM32/PWM/HardwarePWM.cpp:107:1:cpp)	16	static

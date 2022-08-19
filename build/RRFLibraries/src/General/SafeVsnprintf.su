@@ -1,0 +1,16 @@
+RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = SafeVsnprintf(char*, size_t, const char*, va_list)::<lambda(char)>; Ret = bool; Params = {char}]	8	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:95:1:FormattedPrinter::FormattedPrinter(const PutcFunc_t&)	0	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:101:6:void FormattedPrinter::Init()	0	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:108:6:bool FormattedPrinter::PutChar(char)	16	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:121:6:bool FormattedPrinter::PutString(const char*)	24	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:205:6:bool FormattedPrinter::PutJson(const char*)	16	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:254:6:bool FormattedPrinter::PutStringWithSign(char*, bool)	16	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:280:6:bool FormattedPrinter::DoPrefix()	8	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:298:6:bool FormattedPrinter::PrintLL(long long int)	56	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:338:6:bool FormattedPrinter::PrintI(int)	32	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:416:6:bool FormattedPrinter::PrintFloat(double, char)	120	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:546:5:int FormattedPrinter::Print(const char*, va_list)	32	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:752:5:int vuprintf(PutcFunc_t, const char*, va_list)	64	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:758:5:)	48	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:768:5:int SafeVsnprintf(char*, size_t, const char*, va_list)	72	static
+RRFLibraries/src/General/SafeVsnprintf.cpp:787:5:)	16	static

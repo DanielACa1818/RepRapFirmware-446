@@ -1,0 +1,46 @@
+./RRFLibraries/src/RTOSIface/RTOSIface.h:304:14:bool RTOSIface::LeaveTaskCriticalSection()	8	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:20:6:void OutputBuffer::Append(OutputBuffer*)	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:41:6:void OutputBuffer::IncreaseReferences(size_t)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:55:8:size_t OutputBuffer::Length() const	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:65:6:char OutputBuffer::operator[](size_t) const	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:79:13:const char* OutputBuffer::Read(size_t)	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:97:6:void OutputBuffer::UpdateWhenQueued()	8	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:117:8:size_t OutputBuffer::vcatf(const char*, va_list)	24	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:126:8:)	12	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:325:6:bool OutputBuffer::WriteToFile(FileData&) const	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:352:17:static void OutputBuffer::Init()	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:362:17:static bool OutputBuffer::Allocate(OutputBuffer*&)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:214:8:size_t OutputBuffer::cat(const char*, size_t)	32	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:204:8:size_t OutputBuffer::cat(const char*)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:261:8:size_t OutputBuffer::cat(StringRef&)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:395:19:static size_t OutputBuffer::GetBytesLeft(const OutputBuffer*)	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:447:27:static OutputBuffer* OutputBuffer::Release(OutputBuffer*)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:468:18:static void OutputBuffer::ReleaseAll(OutputBuffer* volatile&)	8	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:87:6:void OutputBuffer::Clear()	8	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:102:8:size_t OutputBuffer::vprintf(const char*, va_list)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:108:8:)	12	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:154:8:size_t OutputBuffer::copy(char)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:173:8:size_t OutputBuffer::cat(char)	24	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = OutputBuffer::vcatf(const char*, va_list)::<lambda(char)>; Ret = bool; Params = {char}]	8	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:135:8:)	20	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:267:8:size_t OutputBuffer::EncodeChar(char)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:304:8:size_t OutputBuffer::EncodeReply(OutputBuffer*)	32	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:246:8:size_t OutputBuffer::lcat(const char*, size_t)	24	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:209:8:size_t OutputBuffer::lcat(const char*)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:167:8:size_t OutputBuffer::copy(const char*, size_t)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:162:8:size_t OutputBuffer::copy(const char*)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:411:20:static size_t OutputBuffer::Truncate(OutputBuffer*, size_t)	24	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:476:17:static void OutputBuffer::Diagnostics(MessageType)	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:486:6:bool OutputStack::Push(OutputBuffer*, MessageType) volatile	24	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:509:15:OutputBuffer* OutputStack::Pop() volatile	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:530:15:OutputBuffer* OutputStack::GetFirstItem() const volatile	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:536:13:MessageType OutputStack::GetFirstItemType() const volatile	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:563:6:void OutputStack::ReleaseFirstItem() volatile	8	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:580:6:bool OutputStack::ApplyTimeout(uint32_t) volatile	24	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:601:15:OutputBuffer* OutputStack::GetLastItem() const volatile	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:607:13:MessageType OutputStack::GetLastItemType() const volatile	0	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:613:8:size_t OutputStack::DataLength() const volatile	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:631:6:void OutputStack::Append(volatile OutputStack&) volatile	24	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:650:6:void OutputStack::IncreaseReferences(size_t) volatile	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:663:6:void OutputStack::ReleaseAll() volatile	16	static
+RepRapFirmware/src/Platform/OutputMemory.cpp:670:1:cpp)	0	static

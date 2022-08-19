@@ -1,0 +1,4 @@
+RepRapFirmware/src/targets/STM32/NVMEmulation.cpp:17:6:void NVMEmulationRead(void*, uint32_t)	0	static
+RepRapFirmware/src/targets/STM32/NVMEmulation.cpp:21:6:bool NVMEmulationErase()	0	static
+RepRapFirmware/src/targets/STM32/NVMEmulation.cpp:26:6:bool NVMEmulationWrite(const void*, uint32_t)	0	static
+RepRapFirmware/src/targets/STM32/NVMEmulation.cpp:29:1:cpp)	0	static

@@ -1,0 +1,211 @@
+RepRapFirmware/src/Platform/Platform.cpp:219:2:static constexpr size_t Platform::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:242:21:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:243:24:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:244:21:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:245:23:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:250:22:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:252:20:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:253:19:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:255:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:261:29:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:262:29:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:267:29:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:275:14:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:286:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:295:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:302:22:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:313:24:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:322:22:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:323:19:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:397:1:virtual const ObjectModelClassDescriptor* Platform::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:211:2:static size_t Platform::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:337:20:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:336:13:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:335:13:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:310:20:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:318:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:300:14:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:303:14:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:304:19:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:301:19:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:357:15:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:356:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.h:320:7:Platform::~Platform()	24	static
+RepRapFirmware/src/Platform/Platform.h:320:7:virtual Platform::~Platform()	8	static
+RepRapFirmware/src/Platform/Platform.cpp:1945:17:uint32_t TimedSqrt(uint64_t, uint32_t&)	16	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::ConfigureStallDetection(GCodeBuffer&, const StringRef&, OutputBuffer*&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::ConfigureStallDetection(GCodeBuffer&, const StringRef&, OutputBuffer*&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::ConfigureStallDetection(GCodeBuffer&, const StringRef&, OutputBuffer*&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	0	static
+./RepRapFirmware/src/targets/STM32/Pins_STM32.h:481:28:uint32_t StepPins::CalcDriverBitmap(size_t)	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::ConfigureStallDetection(GCodeBuffer&, const StringRef&, OutputBuffer*&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	16	static
+RepRapFirmware/src/Platform/Platform.cpp:352:16:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:351:21:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:348:16:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:347:21:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:332:20:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:331:16:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:330:20:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:329:23:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:328:18:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:321:15:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:320:18:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:319:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:317:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:316:21:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:312:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:311:21:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:309:16:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:326:26:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:299:23:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:298:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:297:15:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:296:16:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:294:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:293:18:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:292:21:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:269:18:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:234:22:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:220:2:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:212:2:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::ConfigureStallDetection(GCodeBuffer&, const StringRef&, OutputBuffer*&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::ConfigureStallDetection(GCodeBuffer&, const StringRef&, OutputBuffer*&)::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	0	static
+CANLib/src/RRF3Common.h:124:1:const char* LogLevel::ToString() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:307:26:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+./RRFLibraries/src/General/Bitmap.h:254:31:void Bitmap<BaseType>::Iterate(function_ref<void(unsigned int, unsigned int)>) const [with BaseType = long unsigned int]	32	static
+RepRapFirmware/src/Platform/Platform.h:1059:13:void Platform::SetDriverDirection(uint8_t, bool)	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::SetDirection(size_t, bool)::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	8	static
+RepRapFirmware/src/Platform/Platform.cpp:180:15:DriversBitmap AxisDriversConfig::GetDriversBitmap() const	12	static
+RepRapFirmware/src/Platform/Platform.cpp:399:8:size_t Platform::GetNumGpInputsToReport() const	16	static
+RepRapFirmware/src/Platform/Platform.cpp:409:8:size_t Platform::GetNumGpOutputsToReport() const	16	static
+RepRapFirmware/src/Platform/Platform.cpp:920:6:void Platform::ResetVoltageMonitors()	0	static
+RepRapFirmware/src/Platform/Platform.cpp:939:6:void Platform::SendPanelDueMessage(size_t, const char*)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:975:6:void Platform::SetIPAddress(IPAddress)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:981:6:void Platform::SetGateWay(IPAddress)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:987:6:void Platform::SetNetMask(IPAddress)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1489:6:bool Platform::HasVinPower() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1502:6:void Platform::DisableAutoSave()	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1507:6:bool Platform::IsPowerOk() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1518:6:void Platform::EnableAutoSave(float, float)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1525:6:bool Platform::GetAutoSaveSettings(float&, float&)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1539:7:float Platform::GetCpuTemperature() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1586:6:void Platform::InitialiseInterrupts()	0	static
+RepRapFirmware/src/Platform/Platform.cpp:2508:5:int Platform::GetAveragingFilterIndex(const IoPort&) const	16	static
+RepRapFirmware/src/Platform/Platform.cpp:2604:6:void Platform::IterateDrivers(size_t, function_ref<void(unsigned char)>)	40	static
+RepRapFirmware/src/Platform/Platform.cpp:2625:6:void Platform::SetDirection(size_t, bool)	40	static
+RepRapFirmware/src/Platform/Platform.cpp:2693:6:void Platform::DisableOneLocalDriver(size_t)	16	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::DisableDrivers(size_t)::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	0	static
+RepRapFirmware/src/Platform/Platform.cpp:2718:6:void Platform::EnableDrivers(size_t, bool)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:2740:6:void Platform::DisableDrivers(size_t)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:2772:6:void Platform::DisableAllDrivers()	16	static
+RepRapFirmware/src/Platform/Platform.cpp:2782:6:void Platform::SetDriversIdle()	40	static
+RepRapFirmware/src/Platform/Platform.cpp:2815:13:GCodeResult Platform::ConfigureDriverBrakePort(GCodeBuffer&, const StringRef&, size_t)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:2827:13:GCodeResult Platform::SetMotorCurrent(size_t, float, int, const StringRef&)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:2956:6:void Platform::UpdateMotorCurrent(size_t, float)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:2655:6:void Platform::EnableOneLocalDriver(size_t, float)	16	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::EnableDrivers(size_t, bool)::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	0	static
+RepRapFirmware/src/Platform/Platform.cpp:2760:6:void Platform::EmergencyDisableDrivers()	24	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::SetDriversIdle()::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::SetMotorCurrent(size_t, float, int, const StringRef&)::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	8	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::SetIdleCurrentFactor(float)::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3030:5:int Platform::GetMotorCurrent(size_t, int) const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:305:23:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:324:23:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:3057:6:void Platform::SetIdleCurrentFactor(float)	40	static
+RepRapFirmware/src/Platform/Platform.cpp:3084:6:void Platform::SetDriveStepsPerUnit(size_t, float, uint32_t)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3099:6:bool Platform::SetDriverMicrostepping(size_t, unsigned int, int)	4	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::SetMicrostepping(size_t, int, bool, const StringRef&)::<lambda(uint8_t)>; Ret = void; Params = {unsigned char}]	16	static
+RepRapFirmware/src/Platform/Platform.cpp:3128:6:bool Platform::SetMicrostepping(size_t, int, bool, const StringRef&)	56	static
+RepRapFirmware/src/Platform/Platform.cpp:3152:14:unsigned int Platform::GetMicrostepping(size_t, bool&) const	8	static
+RepRapFirmware/src/Platform/Platform.cpp:3158:6:void Platform::SetEnableValue(size_t, int8_t)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:3195:6:void Platform::SetAxisDriversConfig(size_t, size_t, const DriverId*)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:3216:6:void Platform::SetAxisType(size_t, AxisWrapType, bool)	8	static
+RepRapFirmware/src/Platform/Platform.cpp:3244:6:void Platform::SetExtruderDriver(size_t, DriverId)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:3260:6:void Platform::SetDriverStepTiming(size_t, const float*)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:3292:6:bool Platform::GetDriverStepTiming(size_t, float*) const	16	static
+RepRapFirmware/src/Platform/Platform.cpp:3313:6:void Platform::AppendUsbReply(OutputBuffer*)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:3334:6:bool Platform::IsAuxEnabled(size_t) const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3343:6:void Platform::EnableAux(size_t)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3353:6:bool Platform::IsAuxRaw(size_t) const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3362:6:void Platform::SetAuxRaw(size_t, bool)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3382:6:void Platform::AppendAuxReply(size_t, const char*, bool)	4	static
+RepRapFirmware/src/Platform/Platform.cpp:3397:6:void Platform::AppendAuxReply(size_t, OutputBuffer*, bool)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:3499:6:void Platform::Message(MessageType, OutputBuffer*)	56	static
+RepRapFirmware/src/Platform/Platform.cpp:3664:6:void Platform::DebugMessage(const char*, va_list)	40	static
+RepRapFirmware/src/Platform/Platform.cpp:3770:29:const char* Platform::GetLogFileName() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3777:24:const char* Platform::GetLogLevel() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3788:6:void Platform::StopLogging()	0	static
+RepRapFirmware/src/Platform/Platform.cpp:950:6:void Platform::Exit()	8	static
+RepRapFirmware/src/Platform/Platform.cpp:3723:13:GCodeResult Platform::ConfigureLogging(GCodeBuffer&, const StringRef&)	144	static
+RepRapFirmware/src/Platform/Platform.cpp:3798:6:bool Platform::GetAtxPowerState() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3808:13:GCodeResult Platform::HandleM80(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:3873:6:void Platform::AtxPowerOff()	24	static
+RepRapFirmware/src/Platform/Platform.cpp:3843:13:GCodeResult Platform::HandleM81(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:3904:6:void Platform::SetNonlinearExtrusion(size_t, float, float, float)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3916:6:void Platform::SetBaudRate(size_t, uint32_t)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3924:10:uint32_t Platform::GetBaudRate(size_t) const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3929:6:void Platform::SetCommsProperties(size_t, uint32_t)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3937:10:uint32_t Platform::GetCommsProperties(size_t) const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:3943:6:void Platform::ResetChannel(size_t)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:3966:6:void Platform::SetBoardType(BoardType)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4058:24:const char* Platform::GetElectronicsString() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4103:24:const char* Platform::GetBoardString() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4181:6:bool Platform::Delete(const char*, const char*) const	120	static
+RepRapFirmware/src/Platform/Platform.cpp:4198:12:FileStore* Platform::OpenFile(const char*, const char*, OpenMode, uint32_t) const	128	static
+RepRapFirmware/src/Platform/Platform.cpp:4206:6:bool Platform::FileExists(const char*, const char*) const	120	static
+RepRapFirmware/src/Platform/Platform.cpp:4213:24:const char* Platform::InternalGetSysDir() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4242:31:ReadLockedPointer<const char> Platform::GetSysDir() const	16	static
+RepRapFirmware/src/Platform/Platform.cpp:4232:6:bool Platform::MakeSysFileName(const StringRef&, const char*) const	24	static
+RepRapFirmware/src/Platform/Platform.cpp:4187:6:bool Platform::DeleteSysFile(const char*) const	120	static
+RepRapFirmware/src/Platform/Platform.cpp:4218:6:bool Platform::SysFileExists(const char*) const	120	static
+RepRapFirmware/src/Platform/Platform.cpp:4224:12:FileStore* Platform::OpenSysFile(const char*, OpenMode) const	128	static
+RepRapFirmware/src/Platform/Platform.cpp:4237:6:void Platform::AppendSysDir(const StringRef&) const	16	static
+RepRapFirmware/src/Platform/Platform.cpp:4285:6:void Platform::SetLaserPwm(Pwm_t)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4292:7:float Platform::GetLaserPwm() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4297:6:bool Platform::AssignLaserPin(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:4318:6:void Platform::ReleaseLaserPin()	8	static
+RepRapFirmware/src/Platform/Platform.cpp:4324:6:void Platform::SetLaserPwmFrequency(PwmFrequency)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4332:6:void Platform::SetAxisMaximum(size_t, float, bool)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4342:6:void Platform::SetAxisMinimum(size_t, float, bool)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4406:11:MinCurMax Platform::GetMcuTemperatures() const	40	static
+RepRapFirmware/src/Platform/Platform.cpp:281:14:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:280:14:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:279:17:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:4420:11:MinCurMax Platform::GetPowerVoltages() const	32	static
+RepRapFirmware/src/Platform/Platform.cpp:288:14:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:287:14:static ExpressionValue Platform::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Platform/Platform.cpp:4429:7:float Platform::GetCurrentPowerVoltage() const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4457:7:float Platform::GetTmcDriversTemperature(unsigned int) const	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4486:13:GCodeResult Platform::ConfigureStallDetection(GCodeBuffer&, const StringRef&, OutputBuffer*&)	88	static
+RepRapFirmware/src/Platform/Platform.cpp:4680:13:GCodeResult Platform::ConfigurePort(GCodeBuffer&, const StringRef&)	40	static
+RepRapFirmware/src/Platform/Platform.cpp:4790:13:GCodeResult Platform::GetSetAncillaryPwm(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/Platform/Platform.cpp:4820:10:uint32_t Platform::Random()	8	static
+RepRapFirmware/src/Platform/Platform.cpp:5399:6:void Platform::Tick()	24	static
+RepRapFirmware/src/Platform/Platform.h:222:7:void AveragingFilter<numAveraged>::Init(uint16_t) volatile [with unsigned int numAveraged = 16]	0	static
+RepRapFirmware/src/Platform/Platform.cpp:450:6:void Platform::Init()	64	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 100]	20	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 100]	20	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::WriteAxisLimits(FileStore*, AxesBitmap, const float*, int)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	24	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::ReportDrivers(MessageType, DriversBitmap&, const char*, bool&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	8	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 256]	20	static
+./RRFLibraries/src/General/String.h:38:7:bool String<Len>::cat(char) [with unsigned int Len = 100]	16	static
+RepRapFirmware/src/Platform/Platform.cpp:2551:6:static bool Platform::WriteAxisLimits(FileStore*, AxesBitmap, const float*, int)	144	static
+RepRapFirmware/src/Platform/Platform.cpp:2523:6:bool Platform::WritePlatformParameters(FileStore*, bool) const	16	static
+RepRapFirmware/src/Platform/Platform.cpp:4253:13:GCodeResult Platform::SetSysDir(const char*, const StringRef&)	144	static
+RepRapFirmware/src/Platform/Platform.h:222:7:void AveragingFilter<numAveraged>::Init(uint16_t) volatile [with unsigned int numAveraged = 8]	0	static
+RepRapFirmware/src/Platform/Platform.cpp:4352:6:void Platform::InitZProbeFilters()	8	static
+RepRapFirmware/src/Platform/Platform.cpp:423:1:Platform::Platform()	32	static
+RepRapFirmware/src/Platform/Platform.cpp:5555:1:cpp)	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Platform::DebugMessage(const char*, va_list)::<lambda(char)>; Ret = bool; Params = {char}]	24	static
+RepRapFirmware/src/Platform/Platform.cpp:994:6:bool Platform::FlushMessages()	48	static
+RepRapFirmware/src/Platform/Platform.cpp:3418:6:void Platform::RawMessage(MessageType, const char*)	48	static
+RepRapFirmware/src/Platform/Platform.cpp:3582:6:void Platform::MessageV(MessageType, const char*, va_list)	304	static
+RepRapFirmware/src/Platform/Platform.cpp:3615:6:)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:933:6:void Platform::PanelDueBeep(int, int)	16	static
+RepRapFirmware/src/Platform/Platform.cpp:1961:13:GCodeResult Platform::DiagnosticTest(GCodeBuffer&, const StringRef&, OutputBuffer*&, unsigned int)	136	static
+RepRapFirmware/src/Platform/Platform.cpp:4663:6:bool Platform::SetDateTime(time_t)	72	static
+RepRapFirmware/src/Platform/Platform.cpp:1472:6:void Platform::ReportDrivers(MessageType, DriversBitmap&, const char*, bool&)	144	static
+RepRapFirmware/src/Platform/Platform.cpp:3623:6:0(MessageType, const char*)	296	static
+RepRapFirmware/src/Platform/Platform.cpp:1047:6:void Platform::Spin()	56	static
+RepRapFirmware/src/Platform/Platform.cpp:3623:6:void Platform::Message(MessageType, const char*)	0	static
+RepRapFirmware/src/Platform/Platform.cpp:1718:6:void Platform::Diagnostics(MessageType)	648	static
+RepRapFirmware/src/Platform/Platform.cpp:3692:6:void Platform::SendAlert(MessageType, const char*, const char*, int, float, AxesBitmap)	40	static

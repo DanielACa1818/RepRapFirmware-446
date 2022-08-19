@@ -1,0 +1,49 @@
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:125:15:virtual void Kinematics::SetCalibrationDefaults()	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:130:15:virtual bool Kinematics::WriteCalibrationParameters(FileStore*) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:135:16:virtual float Kinematics::GetTiltCorrection(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:150:21:virtual AxesBitmap Kinematics::AxesToHomeBeforeProbing() const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:156:21:virtual MotionType Kinematics::GetMotionType(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:177:21:virtual AxesBitmap Kinematics::AxesAssumedHomed(AxesBitmap) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:181:21:virtual AxesBitmap Kinematics::MustBeHomedAxes(AxesBitmap, bool) const	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.h:26:13:virtual HomingMode CoreKinematics::GetHomingMode() const	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:27:2:static size_t CoreKinematics::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:35:2:static size_t CoreKinematics::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:44:2:static ExpressionValue CoreKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:51:2:static ExpressionValue CoreKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:58:22:static ExpressionValue CoreKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:59:22:static ExpressionValue CoreKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:65:1:virtual const ObjectModelClassDescriptor* CoreKinematics::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:237:13:virtual const char* CoreKinematics::GetName(bool) const	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:364:6:virtual void CoreKinematics::MotorStepsToCartesian(const int32_t*, const float*, size_t, size_t, float*) const	28	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:385:6:virtual bool CoreKinematics::QueryTerminateHomingMove(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:454:12:virtual AxesBitmap CoreKinematics::GetConnectedAxes(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:461:12:virtual AxesBitmap CoreKinematics::GetLinearAxes() const	0	static
+./RRFLibraries/src/Math/Matrix.h:40:11:const T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) const [with T = float; unsigned int ROWS = 10; unsigned int COLS = 10]	0	static
+./RRFLibraries/src/Math/Matrix.h:33:5:T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) [with T = float; unsigned int ROWS = 10; unsigned int COLS = 20]	0	static
+./RRFLibraries/src/Math/Matrix.h:33:5:T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) [with T = float; unsigned int ROWS = 10; unsigned int COLS = 10]	0	static
+./RRFLibraries/src/Math/Matrix.h:26:51:FixedMatrix<float, 10, 20>::~FixedMatrix()	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.h:14:7:CoreKinematics::~CoreKinematics()	0	static
+./RRFLibraries/src/Math/Matrix.h:26:51:FixedMatrix<float, 10, 10>::~FixedMatrix()	0	static
+./RRFLibraries/src/Math/Matrix.h:29:9:size_t FixedMatrix<T, ROWS, COLS>::rows() const [with T = float; unsigned int ROWS = 10; unsigned int COLS = 20]	0	static
+./RRFLibraries/src/Math/Matrix.h:30:9:size_t FixedMatrix<T, ROWS, COLS>::cols() const [with T = float; unsigned int ROWS = 10; unsigned int COLS = 20]	0	static
+./RRFLibraries/src/Math/Matrix.h:40:11:const T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) const [with T = float; unsigned int ROWS = 10; unsigned int COLS = 20]	0	static
+./RRFLibraries/src/Math/Matrix.h:29:9:size_t FixedMatrix<T, ROWS, COLS>::rows() const [with T = float; unsigned int ROWS = 10; unsigned int COLS = 10]	0	static
+./RRFLibraries/src/Math/Matrix.h:30:9:size_t FixedMatrix<T, ROWS, COLS>::cols() const [with T = float; unsigned int ROWS = 10; unsigned int COLS = 10]	0	static
+./RRFLibraries/src/Math/Matrix.h:26:51:virtual FixedMatrix<float, 10, 20>::~FixedMatrix()	8	static
+./RRFLibraries/src/Math/Matrix.h:26:51:virtual FixedMatrix<float, 10, 10>::~FixedMatrix()	8	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.h:14:7:virtual CoreKinematics::~CoreKinematics()	8	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:341:6:virtual bool CoreKinematics::CartesianToMotorSteps(const float*, const float*, size_t, size_t, int32_t*, bool) const	40	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:392:6:virtual void CoreKinematics::OnHomingSwitchTriggered(size_t, bool, const float*, DDA&) const	80	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:414:6:virtual void CoreKinematics::LimitSpeedAndAcceleration(DDA&, const float*, size_t, bool) const	64	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:60:15:static ExpressionValue CoreKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:36:2:static ExpressionValue CoreKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:28:2:static ExpressionValue CoreKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	24	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:50:2:static size_t CoreKinematics::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:43:2:static size_t CoreKinematics::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+./RRFLibraries/src/Math/Matrix.h:90:50:bool FixedMatrix<T, ROWS, COLS>::GaussJordan(size_t, size_t) [with T = float; unsigned int ROWS = 10; unsigned int COLS = 20]	48	static
+./RRFLibraries/src/Math/Matrix.h:148:49:void FixedMatrix<T, ROWS, COLS>::Fill(T) [with T = float; unsigned int ROWS = 10; unsigned int COLS = 10]	0	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 100]	20	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:70:6:void CoreKinematics::Recalc()	864	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:180:1:CoreKinematics::CoreKinematics(KinematicsType)	16	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:269:6:virtual bool CoreKinematics::Configure(unsigned int, GCodeBuffer&, const StringRef&, bool&)	120	static
+RepRapFirmware/src/Movement/Kinematics/CoreKinematics.cpp:464:1:cpp)	0	static

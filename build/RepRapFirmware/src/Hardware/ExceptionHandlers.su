@@ -1,0 +1,19 @@
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:108:6:void HardFault_Handler()	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:162:6:void WWDG_IRQHandler()	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:195:6:void OtherFault_Handler()	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:227:6:void vApplicationStackOverflowHook(TaskHandle_t, char*)	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:247:6:void vAssertCalled(uint32_t, const char*)	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:288:20:void std::__throw_bad_function_call()	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:310:1:cpp)	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:27:19:void SoftwareReset(SoftwareResetReason, const uint32_t*)	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:93:19:void OutOfMemoryHandler()	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:101:30:void hardFaultDispatcher(const uint32_t*)	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:149:30:void wdtFaultDispatcher(const uint32_t*)	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:187:30:void otherFaultDispatcher(const uint32_t*)	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:216:17:void NMI_Handler()	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:217:17:void UsageFault_Handler()	0	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:221:30:void stackOverflowDispatcher(const uint32_t*, char*)	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:241:30:void assertCalledDispatcher(const uint32_t*)	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:292:19:void Terminate()	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:302:30:void __cxa_pure_virtual()	8	static
+RepRapFirmware/src/Hardware/ExceptionHandlers.cpp:307:30:void __cxa_deleted_virtual()	8	static

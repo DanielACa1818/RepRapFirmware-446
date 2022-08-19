@@ -1,0 +1,4 @@
+CoreN2G/src/STM32/Startup.cpp:31:6:void initVariant()	0	static
+CoreN2G/src/STM32/Startup.cpp:36:6:void AppPreInit()	0	static
+CoreN2G/src/STM32/Startup.cpp:40:40:void premain()	8	static
+CoreN2G/src/STM32/Startup.cpp:75:5:int main()	8	static

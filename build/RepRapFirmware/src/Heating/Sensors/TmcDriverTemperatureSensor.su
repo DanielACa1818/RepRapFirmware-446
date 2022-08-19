@@ -1,0 +1,8 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TmcDriverTemperatureSensor.h:20:6:virtual int TmcDriverTemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/TmcDriverTemperatureSensor.cpp:19:13:virtual const char* TmcDriverTemperatureSensor::GetShortSensorType() const	0	static
+RepRapFirmware/src/Heating/Sensors/TmcDriverTemperatureSensor.cpp:28:6:virtual void TmcDriverTemperatureSensor::Poll()	8	static
+RepRapFirmware/src/Heating/Sensors/TmcDriverTemperatureSensor.h:15:7:TmcDriverTemperatureSensor::~TmcDriverTemperatureSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/TmcDriverTemperatureSensor.h:15:7:virtual TmcDriverTemperatureSensor::~TmcDriverTemperatureSensor()	8	static
+RepRapFirmware/src/Heating/Sensors/TmcDriverTemperatureSensor.cpp:14:1:TmcDriverTemperatureSensor::TmcDriverTemperatureSensor(unsigned int, unsigned int)	16	static
+RepRapFirmware/src/Heating/Sensors/TmcDriverTemperatureSensor.cpp:31:1:cpp)	0	static

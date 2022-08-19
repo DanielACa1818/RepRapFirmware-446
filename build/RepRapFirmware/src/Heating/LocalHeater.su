@@ -1,0 +1,28 @@
+RepRapFirmware/src/Heating/LocalHeater.h:57:13:virtual HeaterMode LocalHeater::GetMode() const	0	static
+RepRapFirmware/src/Heating/LocalHeater.h:60:14:virtual GCodeResult LocalHeater::UpdateFaultDetectionParameters(const StringRef&)	0	static
+RepRapFirmware/src/Heating/LocalHeater.h:61:14:virtual GCodeResult LocalHeater::UpdateHeaterMonitors(const StringRef&)	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:66:7:virtual float LocalHeater::GetTemperature() const	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:71:7:virtual float LocalHeater::GetAccumulator() const	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:84:6:virtual void LocalHeater::ResetHeater()	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:134:13:virtual GCodeResult LocalHeater::SetPwmFrequency(PwmFrequency, const StringRef&)	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:235:13:virtual GCodeResult LocalHeater::UpdateModel(const StringRef&)	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:508:7:virtual float LocalHeater::GetAveragePWM() const	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:573:6:virtual void LocalHeater::SetExtrusionFeedForward(float)	0	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:97:13:virtual GCodeResult LocalHeater::ConfigurePortAndSensor(const char*, PwmFrequency, unsigned int, const StringRef&)	48	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:143:13:virtual GCodeResult LocalHeater::ReportDetails(const StringRef&) const	16	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:497:13:virtual GCodeResult LocalHeater::ResetFault(const StringRef&)	8	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:556:6:virtual void LocalHeater::FeedForwardAdjustment(float, float)	16	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:522:13:virtual GCodeResult LocalHeater::StartAutoTune(const StringRef&, bool, float)	24	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:178:13:virtual GCodeResult LocalHeater::SwitchOn(const StringRef&)	16	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:76:13:void LocalHeater::SetHeater(float) const	16	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:47:1:LocalHeater::LocalHeater(unsigned int)	8	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:217:6:virtual void LocalHeater::SwitchOff()	8	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:57:1:LocalHeater::~LocalHeater()	24	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:57:1:virtual LocalHeater::~LocalHeater()	8	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:901:6:virtual void LocalHeater::Suspend(bool)	32	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:170:18:TemperatureError LocalHeater::ReadTemperature()	16	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:514:7:float LocalHeater::GetExpectedHeatingRate() const	16	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:615:6:void LocalHeater::DoTuningStep()	48	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:919:6:)	32	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:241:6:virtual void LocalHeater::Spin()	56	static
+RepRapFirmware/src/Heating/LocalHeater.cpp:943:1:cpp)	0	static

@@ -1,0 +1,4 @@
+CoreN2G/src/STM32/Interrupts.cpp:25:6:void initInterruptPins()	0	static
+CoreN2G/src/STM32/Interrupts.cpp:31:6:bool attachInterrupt(Pin, StandardCallbackFunction, InterruptMode, CallbackParameter)	48	static
+CoreN2G/src/STM32/Interrupts.cpp:77:6:void detachInterrupt(Pin)	16	static
+CoreN2G/src/STM32/Interrupts.cpp:95:5:Pin getAttachedPin(uint32_t)	0	static

@@ -1,0 +1,7 @@
+./RepRapFirmware/src/targets/STM32/Hardware/SharedSpi/SharedSpiDevice.hpp:21:1:SharedSpiDevice::SharedSpiDevice(SSPChannel)	8	static
+./RepRapFirmware/src/targets/STM32/Hardware/SharedSpi/SharedSpiDevice.hpp:29:6:void SharedSpiDevice::Disable() const	0	static
+./RepRapFirmware/src/targets/STM32/Hardware/SharedSpi/SharedSpiDevice.hpp:34:6:void SharedSpiDevice::Enable() const	0	static
+./RepRapFirmware/src/targets/STM32/Hardware/SharedSpi/SharedSpiDevice.hpp:57:6:void SharedSpiDevice::SetClockFrequencyAndMode(uint32_t, SpiMode) const	4	static
+./RepRapFirmware/src/targets/STM32/Hardware/SharedSpi/SharedSpiDevice.hpp:63:6:bool SharedSpiDevice::TransceivePacket(const uint8_t*, uint8_t*, size_t) const	16	static
+./RepRapFirmware/src/targets/STM32/Hardware/SharedSpi/SharedSpiDevice.hpp:79:6:static void SharedSpiDevice::Init()	16	static
+./RepRapFirmware/src/targets/STM32/Hardware/SharedSpi/SharedSpiDevice.hpp:84:1:hpp)	0	static

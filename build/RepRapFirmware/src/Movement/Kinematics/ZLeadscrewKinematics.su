@@ -1,0 +1,43 @@
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:125:15:virtual void Kinematics::SetCalibrationDefaults()	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:130:15:virtual bool Kinematics::WriteCalibrationParameters(FileStore*) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:135:16:virtual float Kinematics::GetTiltCorrection(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:150:21:virtual AxesBitmap Kinematics::AxesToHomeBeforeProbing() const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:156:21:virtual MotionType Kinematics::GetMotionType(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:177:21:virtual AxesBitmap Kinematics::AxesAssumedHomed(AxesBitmap) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:181:21:virtual AxesBitmap Kinematics::MustBeHomedAxes(AxesBitmap, bool) const	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:29:2:static constexpr size_t ZLeadscrewKinematics::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:54:23:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:57:24:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:58:23:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:59:22:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:60:20:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:61:17:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:62:17:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:67:1:virtual const ObjectModelClassDescriptor* ZLeadscrewKinematics::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:149:6:virtual bool ZLeadscrewKinematics::SupportsAutoCalibration() const	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:427:6:virtual bool ZLeadscrewKinematics::WriteResumeSettings(FileStore*) const	0	static
+./RRFLibraries/src/Math/Matrix.h:33:5:T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) [with T = float; unsigned int ROWS = 32; unsigned int COLS = 4]	0	static
+./RRFLibraries/src/Math/Matrix.h:33:5:T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) [with T = float; unsigned int ROWS = 4; unsigned int COLS = 5]	0	static
+./RRFLibraries/src/Math/Matrix.h:26:51:FixedMatrix<float, 4, 5>::~FixedMatrix()	0	static
+./RRFLibraries/src/Math/Matrix.h:26:51:FixedMatrix<float, 32, 4>::~FixedMatrix()	0	static
+./RRFLibraries/src/Math/Matrix.h:29:9:size_t FixedMatrix<T, ROWS, COLS>::rows() const [with T = float; unsigned int ROWS = 4; unsigned int COLS = 5]	0	static
+./RRFLibraries/src/Math/Matrix.h:30:9:size_t FixedMatrix<T, ROWS, COLS>::cols() const [with T = float; unsigned int ROWS = 4; unsigned int COLS = 5]	0	static
+./RRFLibraries/src/Math/Matrix.h:40:11:const T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) const [with T = float; unsigned int ROWS = 4; unsigned int COLS = 5]	0	static
+./RRFLibraries/src/Math/Matrix.h:29:9:size_t FixedMatrix<T, ROWS, COLS>::rows() const [with T = float; unsigned int ROWS = 32; unsigned int COLS = 4]	0	static
+./RRFLibraries/src/Math/Matrix.h:30:9:size_t FixedMatrix<T, ROWS, COLS>::cols() const [with T = float; unsigned int ROWS = 32; unsigned int COLS = 4]	0	static
+./RRFLibraries/src/Math/Matrix.h:40:11:const T& FixedMatrix<T, ROWS, COLS>::operator()(size_t, size_t) const [with T = float; unsigned int ROWS = 32; unsigned int COLS = 4]	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:30:2:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:38:2:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:46:2:static ExpressionValue ZLeadscrewKinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+./RRFLibraries/src/Math/Matrix.h:26:51:virtual FixedMatrix<float, 32, 4>::~FixedMatrix()	8	static
+./RRFLibraries/src/Math/Matrix.h:26:51:virtual FixedMatrix<float, 4, 5>::~FixedMatrix()	8	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:45:2:static constexpr size_t ZLeadscrewKinematics::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:37:2:static constexpr size_t ZLeadscrewKinematics::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:71:1:ZLeadscrewKinematics::ZLeadscrewKinematics(KinematicsType)	16	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:76:1:ZLeadscrewKinematics::ZLeadscrewKinematics(KinematicsType, SegmentationType)	8	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:416:6:void ZLeadscrewKinematics::AppendCorrections(const floatc_t*, const StringRef&) const	24	static
+./RRFLibraries/src/Math/Matrix.h:90:50:bool FixedMatrix<T, ROWS, COLS>::GaussJordan(size_t, size_t) [with T = float; unsigned int ROWS = 4; unsigned int COLS = 5]	48	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:155:6:0(size_t, const RandomProbePointSet&, const StringRef&)	904	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:155:6:virtual bool ZLeadscrewKinematics::DoAutoCalibration(size_t, const RandomProbePointSet&, const StringRef&)	32	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:431:1:cpp)	0	static
+RepRapFirmware/src/Movement/Kinematics/ZLeadscrewKinematics.cpp:82:6:virtual bool ZLeadscrewKinematics::Configure(unsigned int, GCodeBuffer&, const StringRef&, bool&)	72	static

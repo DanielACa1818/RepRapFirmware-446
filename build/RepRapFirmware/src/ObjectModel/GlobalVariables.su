@@ -1,0 +1,8 @@
+RepRapFirmware/src/ObjectModel/GlobalVariables.cpp:12:35:virtual const ObjectModelClassDescriptor* GlobalVariables::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/ObjectModel/GlobalVariables.cpp:17:6:virtual void GlobalVariables::ReportAsJson(OutputBuffer*, ObjectExplorationContext&, const ObjectModelClassDescriptor*, uint8_t, const char*) const	64	static
+RepRapFirmware/src/ObjectModel/GlobalVariables.h:15:7:GlobalVariables::~GlobalVariables()	8	static
+RepRapFirmware/src/ObjectModel/GlobalVariables.h:15:7:virtual GlobalVariables::~GlobalVariables()	8	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = GlobalVariables::ReportAsJson(OutputBuffer*, ObjectExplorationContext&, const ObjectModelClassDescriptor*, uint8_t, const char*) const::<lambda(unsigned int, const Variable&)>; Ret = bool; Params = {unsigned int, const Variable&}]	48	static
+RepRapFirmware/src/ObjectModel/GlobalVariables.cpp:38:38:ReadLockedPointer<const VariableSet> GlobalVariables::GetForReading()	16	static
+RepRapFirmware/src/ObjectModel/GlobalVariables.cpp:44:33:WriteLockedPointer<VariableSet> GlobalVariables::GetForWriting()	16	static
+RepRapFirmware/src/ObjectModel/GlobalVariables.cpp:48:1:cpp)	0	static

@@ -1,0 +1,113 @@
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:53:21:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:56:23:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:57:18:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:58:17:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:60:24:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:64:20:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:69:1:virtual const ObjectModelClassDescriptor* GCodeBuffer::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.h:41:7:GCodeBuffer::~GCodeBuffer()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.h:41:7:virtual GCodeBuffer::~GCodeBuffer()	8	static
+./RRFLibraries/src/General/String.h:36:7:bool String<Len>::cat(const char*) [with unsigned int Len = 256]	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:54:22:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+./RepRapFirmware/src/GCodes/GCodeChannel.h:20:1:const char* GCodeChannel::ToString() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:61:15:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:71:13:const char* GCodeBuffer::GetStateText() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:63:16:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:137:6:void GCodeBuffer::Init()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:147:6:void GCodeBuffer::StartTimer()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:154:6:bool GCodeBuffer::DoDwellTime(uint32_t)	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:175:6:bool GCodeBuffer::IsReportDue()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:236:6:bool GCodeBuffer::Put(char)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:246:6:void GCodeBuffer::DecodeCommand()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:252:6:bool GCodeBuffer::CheckMetaCommand(const StringRef&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:272:6:void GCodeBuffer::PutAndDecode(const char*, size_t)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:282:6:void GCodeBuffer::PutAndDecode(const char*)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:291:6:void GCodeBuffer::StartNewFile()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:301:6:bool GCodeBuffer::FileEnded()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:306:6:char GCodeBuffer::GetCommandLetter() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:311:6:bool GCodeBuffer::HasCommandNumber() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:316:5:int GCodeBuffer::GetCommandNumber() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:321:6:void GCodeBuffer::GetCompleteParameters(const StringRef&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:326:8:int8_t GCodeBuffer::GetCommandFraction() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:333:6:bool GCodeBuffer::IsLastCommand() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:338:6:bool GCodeBuffer::ContainsExpression() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:344:6:bool GCodeBuffer::Seen(char)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:350:6:bool GCodeBuffer::SeenAny(Bitmap<long unsigned int>) const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:373:7:float GCodeBuffer::GetFValue()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:406:7:float GCodeBuffer::GetSpeedFromMm(bool)	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:412:7:float GCodeBuffer::GetAcceleration()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:418:9:int32_t GCodeBuffer::GetIValue()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:440:10:uint32_t GCodeBuffer::GetUIValue()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:462:6:void GCodeBuffer::GetIPAddress(IPAddress&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:468:6:void GCodeBuffer::GetMacAddress(MacAddress&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:474:6:void GCodeBuffer::GetUnprecedentedString(const StringRef&, bool)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:480:6:void GCodeBuffer::GetQuotedString(const StringRef&, bool)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:486:6:void GCodeBuffer::GetPossiblyQuotedString(const StringRef&, bool)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:491:6:void GCodeBuffer::GetReducedString(const StringRef&)	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:509:6:void GCodeBuffer::GetFloatArray(float*, size_t&, bool)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:524:6:void GCodeBuffer::GetIntArray(int32_t*, size_t&, bool)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:539:6:void GCodeBuffer::GetUnsignedArray(uint32_t*, size_t&, bool)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:554:6:void GCodeBuffer::GetDriverIdArray(DriverId*, size_t&)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:560:6:bool GCodeBuffer::TryGetFValue(char, float&, bool&)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:572:6:bool GCodeBuffer::TryGetIValue(char, int32_t&, bool&)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:602:6:bool GCodeBuffer::TryGetUIValue(char, uint32_t&, bool&)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:625:6:bool GCodeBuffer::TryGetBValue(char, bool&, bool&)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:639:6:bool GCodeBuffer::TryGetUIArray(char, size_t, uint32_t*, const StringRef&, bool&, bool)	32	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:661:6:bool GCodeBuffer::TryGetFloatArray(char, size_t, float*, const StringRef&, bool&, bool)	32	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:682:6:bool GCodeBuffer::TryGetQuotedString(char, const StringRef&, bool&, bool)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:695:6:bool GCodeBuffer::TryGetPossiblyQuotedString(char, const StringRef&, bool&)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:707:14:PwmFrequency GCodeBuffer::GetPwmFrequency()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:713:7:float GCodeBuffer::GetPwmValue()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:724:10:DriverId GCodeBuffer::GetDriverId()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:729:6:bool GCodeBuffer::IsIdle() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:734:6:bool GCodeBuffer::IsCompletelyIdle() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:739:6:void GCodeBuffer::SetFinished(bool)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:755:6:void GCodeBuffer::SetCommsProperties(uint32_t)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:761:20:GCodeMachineState& GCodeBuffer::OriginalMachineState() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:771:20:GCodeMachineState& GCodeBuffer::CurrentFileMachineState() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.h:69:10:int32_t GCodeBuffer::GetLineNumber() const	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:59:20:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:356:6:void GCodeBuffer::MustSee(char)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:365:6:char GCodeBuffer::MustSee(char, char)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:378:7:float GCodeBuffer::GetLimitedFValue(char, float, float)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:424:9:int32_t GCodeBuffer::GetLimitedIValue(char, int32_t, int32_t)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:446:10:uint32_t GCodeBuffer::GetLimitedUIValue(char, uint32_t, uint32_t)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:584:6:bool GCodeBuffer::TryGetLimitedIValue(char, int32_t&, bool&, int32_t, int32_t)	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:614:6:bool GCodeBuffer::TryGetLimitedUIValue(char, uint32_t&, bool&, uint32_t)	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:782:7:float GCodeBuffer::ConvertDistance(float) const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:394:7:float GCodeBuffer::GetDistance()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:788:7:float GCodeBuffer::InverseConvertDistance(float) const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:794:7:float GCodeBuffer::ConvertSpeed(float) const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:400:7:float GCodeBuffer::GetSpeed()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:800:7:float GCodeBuffer::InverseConvertSpeed(float) const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:805:13:const char* GCodeBuffer::GetDistanceUnits() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:55:21:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:811:14:unsigned int GCodeBuffer::GetStackDepth() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:62:20:static ExpressionValue GCodeBuffer::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:836:6:bool GCodeBuffer::PopState()	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:115:6:void GCodeBuffer::Reset()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:855:6:void GCodeBuffer::AbortFile(bool, bool)	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1008:6:void GCodeBuffer::MessageAcknowledged(bool)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1025:13:MessageType GCodeBuffer::GetResponseMessageType() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1036:14:FilePosition GCodeBuffer::GetFilePosition() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1041:6:void GCodeBuffer::WaitForAcknowledgement()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1054:6:bool GCodeBuffer::OpenFileToWrite(const char*, const char*, FilePosition, bool, uint32_t)	4	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1059:6:bool GCodeBuffer::IsWritingFile() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1064:6:void GCodeBuffer::WriteToFile()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1069:6:bool GCodeBuffer::IsWritingBinary() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1074:6:bool GCodeBuffer::WriteBinaryToFile(char)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1079:6:void GCodeBuffer::FinishWritingBinary()	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1086:6:void GCodeBuffer::RestartFrom(FilePosition)	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1095:13:const char* GCodeBuffer::DataStart() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1102:8:size_t GCodeBuffer::DataLength() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1107:6:void GCodeBuffer::PrintCommand(const StringRef&) const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1112:6:void GCodeBuffer::AppendFullCommand(const StringRef&) const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1117:6:void GCodeBuffer::AddParameters(VariableSet&, int)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1122:14:VariableSet& GCodeBuffer::GetVariables() const	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1134:6:bool GCodeBuffer::DoingCoordinateRotation() const	0	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 256]	20	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:189:6:void GCodeBuffer::Diagnostics(MessageType)	296	static
+./RRFLibraries/src/General/FreelistManager.h:33:28:static void* FreelistManager::Freelist<Sz>::AllocateItem() [with unsigned int Sz = 200]	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:822:6:bool GCodeBuffer::PushState(bool)	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:90:1:GCodeBuffer::GCodeBuffer(GCodeChannel::RawType, GCodeInput*, FileGCodeInput*, MessageType, Compatibility::RawType)	24	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.cpp:1137:1:cpp)	0	static

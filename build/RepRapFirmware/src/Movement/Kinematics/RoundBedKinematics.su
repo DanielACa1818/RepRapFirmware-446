@@ -1,0 +1,14 @@
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:116:15:virtual bool Kinematics::SupportsAutoCalibration() const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:120:15:virtual bool Kinematics::DoAutoCalibration(size_t, const RandomProbePointSet&, const StringRef&)	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:125:15:virtual void Kinematics::SetCalibrationDefaults()	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:130:15:virtual bool Kinematics::WriteCalibrationParameters(FileStore*) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:135:16:virtual float Kinematics::GetTiltCorrection(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:150:21:virtual AxesBitmap Kinematics::AxesToHomeBeforeProbing() const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:156:21:virtual MotionType Kinematics::GetMotionType(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:177:21:virtual AxesBitmap Kinematics::AxesAssumedHomed(AxesBitmap) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:181:21:virtual AxesBitmap Kinematics::MustBeHomedAxes(AxesBitmap, bool) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:185:15:virtual bool Kinematics::WriteResumeSettings(FileStore*) const	0	static
+RepRapFirmware/src/Movement/Kinematics/RoundBedKinematics.cpp:32:12:virtual AxesBitmap RoundBedKinematics::GetLinearAxes() const	0	static
+RepRapFirmware/src/Movement/Kinematics/RoundBedKinematics.cpp:12:1:RoundBedKinematics::RoundBedKinematics(KinematicsType, SegmentationType)	8	static
+RepRapFirmware/src/Movement/Kinematics/RoundBedKinematics.cpp:35:1:cpp)	0	static
+RepRapFirmware/src/Movement/Kinematics/RoundBedKinematics.cpp:19:6:virtual bool RoundBedKinematics::IsReachable(float*, AxesBitmap) const	0	static

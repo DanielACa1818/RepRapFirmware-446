@@ -1,0 +1,9 @@
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:108:14:void LedStripDriver::StartNeoPixelStartFrame()	8	static
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:121:21:GCodeResult LedStripDriver::BitBangNeoPixelData(uint8_t, uint8_t, uint8_t, uint8_t, uint32_t, bool, bool)	56	static
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:189:21:GCodeResult LedStripDriver::DmaNeoPixelData(uint8_t, uint8_t, uint8_t, uint8_t, uint32_t, bool, bool)	64	static
+./RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.h:257:35:static constexpr uint32_t GCodeBuffer::ParametersToBitmap(const char*)	8	static
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:218:6:void LedStripDriver::Init()	40	static
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:235:6:bool LedStripDriver::MustStopMovement(GCodeBuffer&)	16	static
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:254:13:GCodeResult LedStripDriver::Configure(GCodeBuffer&, const StringRef&)	48	static
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:316:13:GCodeResult LedStripDriver::SetColours(GCodeBuffer&, const StringRef&)	72	static
+RepRapFirmware/src/targets/common/Fans/LedStripDriver.cpp:455:1:cpp)	0	static

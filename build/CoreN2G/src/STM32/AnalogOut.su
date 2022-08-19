@@ -1,0 +1,3 @@
+CoreN2G/src/STM32/AnalogOut.cpp:24:13:void AnalogOut::Init()	0	static
+CoreN2G/src/STM32/AnalogOut.cpp:32:6:void AnalogOut::Write(Pin, float, PwmFrequency)	24	static
+CoreN2G/src/STM32/AnalogOut.cpp:45:6:void AnalogOut::ReleasePWMPin(Pin)	16	static

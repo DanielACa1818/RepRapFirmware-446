@@ -1,0 +1,2 @@
+RepRapFirmware/src/targets/common/FatFS/fattime_rtc.cpp:66:21:uint32_t get_fattime()	56	static
+RepRapFirmware/src/targets/common/FatFS/fattime_rtc.cpp:87:1:cpp)	0	static

@@ -1,0 +1,41 @@
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:284:11:virtual uint32_t Tmc51xxDriverState::GetAxisNumber() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:485:13:virtual void Tmc51xxDriverState::SetAxisNumber(size_t)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:496:7:virtual float Tmc51xxDriverState::GetStandstillCurrentPercent() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:521:14:virtual unsigned int Tmc51xxDriverState::GetMicrostepping(bool&) const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:564:10:virtual uint32_t Tmc51xxDriverState::GetRegister(SmartDriverRegister) const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:734:7:virtual float Tmc51xxDriverState::GetSenseResistor() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:739:6:virtual void Tmc51xxDriverState::SetSenseResistor(float)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:746:7:virtual float Tmc51xxDriverState::GetMaxCurrent() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:751:6:virtual void Tmc51xxDriverState::SetMaxCurrent(float)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:823:6:virtual void Tmc51xxDriverState::SetStallDetectThreshold(int)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:830:6:virtual void Tmc51xxDriverState::SetStallDetectFilter(bool)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:843:6:virtual void Tmc51xxDriverState::SetStallMinimumStepsPerSecond(unsigned int)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:850:6:virtual void Tmc51xxDriverState::AppendStallConfig(const StringRef&) const	88	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:208:41:Task<200>::~Task()	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:664:12:virtual DriverMode Tmc51xxDriverState::GetDriverMode() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:799:6:virtual void Tmc51xxDriverState::AppendDriverStatus(const StringRef&)	24	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:628:6:virtual bool Tmc51xxDriverState::SetDriverMode(unsigned int)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:760:22:virtual StandardDriverStatus Tmc51xxDriverState::ReadStatus(bool, bool)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:420:1:Tmc51xxDriverState::Tmc51xxDriverState()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:427:6:void Tmc51xxDriverState::Init(uint32_t)	24	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:473:6:void Tmc51xxDriverState::UpdateRegister(size_t, uint32_t)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:480:6:void Tmc51xxDriverState::UpdateChopConfRegister()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:508:6:virtual bool Tmc51xxDriverState::SetMicrostepping(uint32_t, bool)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:725:6:virtual void Tmc51xxDriverState::Enable(bool)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:608:6:bool Tmc51xxDriverState::SetChopConf(uint32_t)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:527:6:virtual bool Tmc51xxDriverState::SetRegister(SmartDriverRegister, uint32_t)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:681:6:void Tmc51xxDriverState::UpdateCurrent()	64	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:501:6:virtual void Tmc51xxDriverState::SetStandstillCurrentPercent(float)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:675:6:virtual void Tmc51xxDriverState::SetCurrent(float)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:869:6:void Tmc51xxDriverState::GetSpiCommand(uint8_t*)	16	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:899:6:void Tmc51xxDriverState::TransferSucceeded(const uint8_t*)	32	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:993:6:void Tmc51xxDriverState::TransferFailed()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1005:14:DriversState Tmc51xxDriverState::SetupDriver(bool)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1045:30:void TmcLoop(void*)	16	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1122:6:void Tmc51xxDriver::Init(size_t, size_t)	56	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1186:6:void Tmc51xxDriver::TurnDriversOff()	24	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1154:6:void Tmc51xxDriver::Exit()	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1166:6:void Tmc51xxDriver::Spin(bool)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1196:6:bool Tmc51xxDriver::IsReady()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1202:17:TmcDriverState* Tmc51xxDriver::GetDrive(size_t)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC51xx.cpp:1205:1:cpp)	0	static

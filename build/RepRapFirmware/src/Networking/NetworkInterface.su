@@ -1,0 +1,2 @@
+RepRapFirmware/src/Networking/NetworkInterface.cpp:11:6:void NetworkInterface::SetState(NetworkState::RawType)	0	static
+RepRapFirmware/src/Networking/NetworkInterface.cpp:15:1:cpp)	0	static

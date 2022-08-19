@@ -1,0 +1,14 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.h:33:14:virtual const char* Thermistor::GetShortSensorType() const	0	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.h:21:7:Thermistor::~Thermistor()	8	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.h:21:7:virtual Thermistor::~Thermistor()	8	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:54:9:int32_t Thermistor::GetRawReading(bool&) const	8	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:361:6:virtual void Thermistor::Poll()	24	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:70:6:bool Thermistor::ConfigureHParam(int, const StringRef&)	8	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:131:6:bool Thermistor::ConfigureLParam(int, const StringRef&)	8	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:182:6:void Thermistor::InitPort()	16	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:462:6:void Thermistor::CalcDerivedParameters()	8	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:45:1:Thermistor::Thermistor(unsigned int, bool)	16	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:203:13:virtual GCodeResult Thermistor::Configure(GCodeBuffer&, const StringRef&, bool&)	64	static
+RepRapFirmware/src/Heating/Sensors/Thermistor.cpp:467:1:cpp)	0	static

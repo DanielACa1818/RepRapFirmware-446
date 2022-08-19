@@ -1,0 +1,1 @@
+CoreN2G/src/STM32/SharedSPI/SPI.cpp:9:6:static SPI* SPI::getSSPDevice(SSPChannel)	0	static

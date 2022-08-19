@@ -1,0 +1,23 @@
+RRFLibraries/src/General/StringRef.cpp:18:8:size_t StringRef::strlen() const	0	static
+RRFLibraries/src/General/StringRef.cpp:23:5:) const	12	static
+RRFLibraries/src/General/StringRef.cpp:32:5:int StringRef::vprintf(const char*, va_list) const	0	static
+RRFLibraries/src/General/StringRef.cpp:37:5:) const	20	static
+RRFLibraries/src/General/StringRef.cpp:74:5:int StringRef::vcatf(const char*, va_list) const	24	static
+RRFLibraries/src/General/StringRef.cpp:86:6:bool StringRef::copy(const char*) const	24	static
+RRFLibraries/src/General/StringRef.cpp:97:6:bool StringRef::copy(const char*, size_t) const	24	static
+RRFLibraries/src/General/StringRef.cpp:108:6:bool StringRef::cat(const char*) const	24	static
+RRFLibraries/src/General/StringRef.cpp:133:6:bool StringRef::catn(const char*, size_t) const	32	static
+RRFLibraries/src/General/StringRef.cpp:158:6:bool StringRef::cat(char) const	16	static
+RRFLibraries/src/General/StringRef.cpp:52:5:) const	20	static
+RRFLibraries/src/General/StringRef.cpp:120:6:bool StringRef::lcat(const char*) const	16	static
+RRFLibraries/src/General/StringRef.cpp:145:6:bool StringRef::lcatn(const char*, size_t) const	24	static
+RRFLibraries/src/General/StringRef.cpp:171:8:size_t StringRef::StripTrailingSpaces() const	16	static
+RRFLibraries/src/General/StringRef.cpp:182:6:bool StringRef::Prepend(const char*) const	16	static
+RRFLibraries/src/General/StringRef.cpp:195:6:void StringRef::Truncate(size_t) const	0	static
+RRFLibraries/src/General/StringRef.cpp:203:6:void StringRef::Erase(size_t, size_t) const	16	static
+RRFLibraries/src/General/StringRef.cpp:218:6:bool StringRef::Insert(size_t, char) const	24	static
+RRFLibraries/src/General/StringRef.cpp:244:6:bool StringRef::Insert(size_t, const char*) const	24	static
+RRFLibraries/src/General/StringRef.cpp:280:5:int StringRef::Contains(const char*) const	8	static
+RRFLibraries/src/General/StringRef.cpp:286:5:int StringRef::Contains(char) const	8	static
+RRFLibraries/src/General/StringRef.cpp:293:6:bool StringRef::Replace(char, char) const	16	static
+RRFLibraries/src/General/StringRef.cpp:307:14:unsigned int StringRef::ReplaceAll(char, char) const	16	static

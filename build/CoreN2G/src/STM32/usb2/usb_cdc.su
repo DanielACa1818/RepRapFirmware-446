@@ -1,0 +1,16 @@
+CoreN2G/src/STM32/usb2/usb_cdc.c:377:1:usb_do_stall	8	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:24:1:usb_irq_disable	0	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:30:1:usb_irq_enable	0	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:43:1:usb_notify_bulk_in	24	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:74:1:usb_write	32	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:99:1:usb_available_for_write	0	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:105:1:usb_is_write_empty	0	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:119:1:usb_notify_bulk_out	24	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:144:1:usb_read	24	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:171:1:usb_available_for_read	0	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:336:1:usb_fill_serial	12	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:357:1:usbserial_get_serialid	8	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:494:1:usb_is_connected	0	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:552:1:usb_notify_ep0	24	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:385:1:usb_do_xfer	24	static
+CoreN2G/src/STM32/usb2/usb_cdc.c:561:1:usb_shutdown	8	static

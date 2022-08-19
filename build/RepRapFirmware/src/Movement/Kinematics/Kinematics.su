@@ -1,0 +1,32 @@
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:116:15:virtual bool Kinematics::SupportsAutoCalibration() const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:120:15:virtual bool Kinematics::DoAutoCalibration(size_t, const RandomProbePointSet&, const StringRef&)	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:125:15:virtual void Kinematics::SetCalibrationDefaults()	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:130:15:virtual bool Kinematics::WriteCalibrationParameters(FileStore*) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:135:16:virtual float Kinematics::GetTiltCorrection(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:150:21:virtual AxesBitmap Kinematics::AxesToHomeBeforeProbing() const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:156:21:virtual MotionType Kinematics::GetMotionType(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:177:21:virtual AxesBitmap Kinematics::AxesAssumedHomed(AxesBitmap) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:181:21:virtual AxesBitmap Kinematics::MustBeHomedAxes(AxesBitmap, bool) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:185:15:virtual bool Kinematics::WriteResumeSettings(FileStore*) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:42:21:static ExpressionValue Kinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:43:23:static ExpressionValue Kinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:48:1:virtual const ObjectModelClassDescriptor* Kinematics::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:156:6:virtual void Kinematics::GetAssumedInitialPosition(size_t, float*) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:208:12:virtual AxesBitmap Kinematics::GetConnectedAxes(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:214:6:virtual bool Kinematics::IsContinuousRotationAxis(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:105:6:virtual bool Kinematics::IsReachable(float*, AxesBitmap) const	32	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:168:12:virtual AxesBitmap Kinematics::GetHomingFileName(AxesBitmap, AxesBitmap, size_t, const StringRef&) const	32	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:223:6:virtual void Kinematics::LimitSpeedAndAcceleration(DDA&, const float*, size_t, bool) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:61:6:virtual bool Kinematics::Configure(unsigned int, GCodeBuffer&, const StringRef&, bool&)	32	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Kinematics::IsReachable(float*, AxesBitmap) const::<lambda(unsigned int, unsigned int)>; Ret = bool; Params = {unsigned int, unsigned int}]	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:39:21:static ExpressionValue Kinematics::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:53:1:Kinematics::Kinematics(KinematicsType, SegmentationType)	16	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:87:6:bool Kinematics::TryConfigureSegmentation(GCodeBuffer&)	24	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:127:6:bool Kinematics::LimitPositionFromAxis(float*, size_t, size_t, AxesBitmap) const	16	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:119:21:virtual LimitPositionResult Kinematics::LimitPosition(float*, const float*, size_t, AxesBitmap, bool, bool) const	4	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:235:24:static Kinematics* Kinematics::Create(KinematicsType)	16	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:282:17:static void Kinematics::PrintMatrix(const char*, const MathMatrix<float>&, size_t, size_t)	40	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:303:17:static void Kinematics::PrintMatrix(const char*, const MathMatrix<double>&, size_t, size_t)	40	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:324:17:static void Kinematics::PrintVector(const char*, const float*, size_t)	24	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:334:17:static void Kinematics::PrintVector(const char*, const double*, size_t)	24	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.cpp:342:1:cpp)	0	static

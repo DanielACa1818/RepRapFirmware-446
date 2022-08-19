@@ -1,0 +1,5 @@
+RepRapFirmware/src/Libraries/sha1/sha1.c:71:6:SHA1Reset	0	static
+RepRapFirmware/src/Libraries/sha1/sha1.c:205:6:SHA1ProcessMessageBlock	368	static
+RepRapFirmware/src/Libraries/sha1/sha1.c:143:6:SHA1Input	16	static
+RepRapFirmware/src/Libraries/sha1/sha1.c:324:6:SHA1PadMessage	8	static
+RepRapFirmware/src/Libraries/sha1/sha1.c:104:6:SHA1Result	8	static

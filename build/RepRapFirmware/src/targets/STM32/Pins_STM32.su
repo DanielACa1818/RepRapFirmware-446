@@ -1,0 +1,9 @@
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:143:13:void SetDefaultPinArray(const Pin*, Pin*, size_t)	8	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:152:13:void InitPinArray(Pin*, size_t)	0	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:132:6:void BOD_IRQHandler()	0	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:158:6:void ClearPinArrays()	16	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:177:6:bool SetBoard(const char*)	24	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:217:6:void PrintBoards(MessageType)	56	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:239:6:bool LookupPinName(const char*, LogicalPin&, bool&)	64	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:303:13:const char* GetPinNames(LogicalPin)	12	static
+RepRapFirmware/src/targets/STM32/Pins_STM32.cpp:327:1:cpp)	0	static

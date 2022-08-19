@@ -1,0 +1,14 @@
+RepRapFirmware/src/GCodes/RestorePoint.cpp:25:2:static size_t RestorePoint::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:34:17:static ExpressionValue RestorePoint::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:35:20:static ExpressionValue RestorePoint::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:36:17:static ExpressionValue RestorePoint::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:37:19:static ExpressionValue RestorePoint::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:46:20:static ExpressionValue RestorePoint::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:51:1:virtual const ObjectModelClassDescriptor* RestorePoint::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/GCodes/RestorePoint.h:14:7:RestorePoint::~RestorePoint()	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:26:2:static ExpressionValue RestorePoint::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/GCodes/RestorePoint.h:14:7:virtual RestorePoint::~RestorePoint()	8	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:43:18:static ExpressionValue RestorePoint::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:60:6:void RestorePoint::Init()	8	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:55:1:RestorePoint::RestorePoint()	8	static
+RepRapFirmware/src/GCodes/RestorePoint.cpp:78:1:cpp)	0	static

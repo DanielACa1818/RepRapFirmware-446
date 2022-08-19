@@ -1,0 +1,4 @@
+RepRapFirmware/src/Storage/CRC16.cpp:49:1:CRC16::CRC16()	0	static
+RepRapFirmware/src/Storage/CRC16.cpp:54:6:void CRC16::Update(char)	0	static
+RepRapFirmware/src/Storage/CRC16.cpp:59:6:void CRC16::Update(const char*, size_t)	12	static
+RepRapFirmware/src/Storage/CRC16.cpp:68:1:cpp)	0	static

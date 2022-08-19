@@ -1,0 +1,130 @@
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = GCodes::AppendAxes(const StringRef&, AxesBitmap) const::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	0	static
+./RRFLibraries/src/General/String.h:36:7:bool String<Len>::cat(const char*) [with unsigned int Len = 256]	16	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.h:353:13:void GCodeBuffer::SetState(GCodeState)	0	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.h:325:13:bool GCodeBuffer::IsDoingFileMacro() const	0	static
+./RepRapFirmware/src/Storage/FileData.h:63:7:bool FileData::Close()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:304:14:bool RTOSIface::LeaveTaskCriticalSection()	0	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:58:6:static void GCodes::CommandEmergencyStop(AsyncSerial*)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:64:1:GCodes::GCodes(Platform&)	48	static
+RepRapFirmware/src/GCodes/GCodes.cpp:153:6:void GCodes::Exit()	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:324:6:bool GCodes::DoingFileMacro() const	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:337:6:bool GCodes::WaitingForAcknowledgement() const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:351:14:FilePosition GCodes::GetFilePosition(bool) const	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:384:6:bool GCodes::IsTriggerBusy() const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:390:6:void GCodes::CheckFinishedRunningConfigFile(GCodeBuffer&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:411:6:void GCodes::InitialiseTaps(bool)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:998:6:void GCodes::CheckForDeferredPause(GCodeBuffer&)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1010:6:bool GCodes::IsReallyPrinting() const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1022:6:bool GCodes::IsReallyPrintingOrResuming() const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1028:6:bool GCodes::IsHeatingUp() const	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1173:6:bool GCodes::LowVoltageResume()	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1395:6:void GCodes::Diagnostics(MessageType)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1468:6:void GCodes::Pop(GCodeBuffer&)	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1483:14:const char* GCodes::LoadExtrusionAndFeedrateFromGCode(GCodeBuffer&, bool)	80	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1646:6:bool GCodes::CheckEnoughAxesHomed(AxesBitmap)	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2566:6:void GCodes::ClearMove()	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2454:6:bool GCodes::ReadMove(RawMove&)	48	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2583:6:void GCodes::NewMoveAvailable(unsigned int)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2593:6:void GCodes::NewMoveAvailable()	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2385:6:void GCodes::FinaliseMove(GCodeBuffer&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2757:6:bool GCodes::GetMacroRestarted() const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2763:6:void GCodes::FileMacroCyclesReturn(GCodeBuffer&)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2911:27:ReadLockedPointer<ZProbe> GCodes::SetZProbeNumber(GCodeBuffer&, char)	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2846:13:GCodeResult GCodes::ExecuteG30(GCodeBuffer&, const StringRef&)	56	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2924:13:MessageType GCodes::GetMessageBoxDevice(GCodeBuffer&) const	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3025:6:bool GCodes::TrySaveHeightMap(const char*, const StringRef&) const	136	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3054:13:GCodeResult GCodes::SaveHeightMap(GCodeBuffer&, const StringRef&) const	136	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3123:6:bool GCodes::QueueFileToPrint(const char*, const StringRef&)	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3232:25:ReadLockedPointer<Tool> GCodes::GetSpecifiedOrCurrentTool(GCodeBuffer&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3554:6:bool GCodes::ChangeMicrostepping(size_t, unsigned int, bool, const StringRef&) const	48	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3568:6:void GCodes::SetMappedFanSpeed(float)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3583:6:bool GCodes::IsMappedFan(unsigned int)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3601:6:void GCodes::HandleReplyPreserveResult(GCodeBuffer&, GCodeResult, const char*)	40	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3593:6:void GCodes::HandleReply(GCodeBuffer&, GCodeResult, const char*)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3705:6:void GCodes::HandleReply(GCodeBuffer&, OutputBuffer*)	40	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3800:6:void GCodes::SetToolHeaters(Tool*, float, bool)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3978:7:float GCodes::GetRawExtruderTotalByDrive(size_t) const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3984:6:bool GCodes::IsCodeQueueIdle() const	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4126:6:bool GCodes::ToolHeatersAtSetTemperatures(const Tool*, bool, float) const	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4156:6:void GCodes::SavePosition(RestorePoint&, const GCodeBuffer&) const	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4175:6:void GCodes::RestorePosition(const RestorePoint&, GCodeBuffer*)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4198:6:void GCodes::ToolOffsetTransform(const float*, float*, AxesBitmap) const	48	static
+RepRapFirmware/src/GCodes/GCodes.cpp:803:6:void GCodes::EndSimulation(GCodeBuffer*)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4232:6:void GCodes::ToolOffsetInverseTransform(const float*, float*) const	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3069:6:void GCodes::ClearBedMapping()	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4142:6:void GCodes::UpdateCurrentUserPosition(const GCodeBuffer&)	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:207:6:void GCodes::Reset()	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:861:6:void GCodes::DoEmergencyStop()	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4277:7:float GCodes::GetCurrentToolOffset(size_t) const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4284:7:float GCodes::GetUserCoordinate(size_t) const	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3078:6:void GCodes::GetCurrentCoordinates(const StringRef&) const	88	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4292:6:bool GCodes::StartHash(const char*)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4306:13:GCodeResult GCodes::AdvanceHash(const StringRef&)	152	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4342:6:bool GCodes::AllAxesAreHomed() const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2953:13:GCodeResult GCodes::ProbeGrid(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4349:6:void GCodes::SetAxisIsHomed(unsigned int)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4360:6:void GCodes::SetAxisNotHomed(unsigned int)	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4375:6:void GCodes::SetAllAxesNotHomed()	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:158:6:void GCodes::Init()	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3548:6:void GCodes::DisableDrives()	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4496:6:void GCodes::GenerateTemperatureReport(const StringRef&) const	64	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4579:15:OutputBuffer* GCodes::GenerateJsonStatusResponse(int, int, ResponseSource) const	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4540:6:void GCodes::CheckReportDue(GCodeBuffer&, const StringRef&) const	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4614:6:void GCodes::StartToolChange(GCodeBuffer&, int, uint8_t)	4	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4622:6:void GCodes::SetMoveBufferDefaults()	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4631:6:bool GCodes::LockResource(const GCodeBuffer&, GCodes::Resource)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4649:6:void GCodes::GrabResource(const GCodeBuffer&, GCodes::Resource)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4662:6:bool GCodes::LockFileSystem(const GCodeBuffer&)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4668:6:bool GCodes::LockMovement(const GCodeBuffer&)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1415:6:bool GCodes::LockMovementAndWaitForStandstill(GCodeBuffer&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2436:6:bool GCodes::TravelToStartPoint(GCodeBuffer&)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2790:13:GCodeResult GCodes::DoHome(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3818:13:GCodeResult GCodes::RetractFilament(GCodeBuffer&, bool)	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3257:13:GCodeResult GCodes::SetOrReportOffsets(GCodeBuffer&, const StringRef&, int)	208	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4674:6:void GCodes::GrabMovement(const GCodeBuffer&)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1039:6:bool GCodes::DoEmergencyPause()	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1122:6:bool GCodes::LowVoltagePause()	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4686:6:void GCodes::UnlockResource(const GCodeBuffer&, GCodes::Resource)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4680:6:void GCodes::UnlockMovement(const GCodeBuffer&)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4699:6:void GCodes::UnlockAll(const GCodeBuffer&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3188:13:GCodeResult GCodes::DoDwell(GCodeBuffer&)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3991:6:void GCodes::StopPrint(StopPrintReason)	64	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2602:6:void GCodes::AbortPrint(GCodeBuffer&)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1456:6:bool GCodes::Push(GCodeBuffer&, bool)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2644:6:bool GCodes::DoFileMacro(GCodeBuffer&, const char*, bool, int, VariableSet&)	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2627:6:bool GCodes::DoFileMacro(GCodeBuffer&, const char*, bool, int)	48	static
+RepRapFirmware/src/GCodes/GCodes.cpp:377:6:bool GCodes::RunConfigFile(const char*)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3138:6:void GCodes::StartPrinting(bool)	40	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2935:6:void GCodes::DoManualProbe(GCodeBuffer&, const char*, const char*, AxesBitmap)	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2946:6:void GCodes::DoManualBedProbe(GCodeBuffer&)	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2612:6:void GCodes::EmergencyStop()	16	static
+RepRapFirmware/src/GCodes/GCodes.cpp:629:6:bool GCodes::DoFilePrint(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:543:6:bool GCodes::StartNextGCode(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:491:6:bool GCodes::SpinGCodeBuffer(GCodeBuffer&)	304	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1656:6:bool GCodes::DoStraightMove(GCodeBuffer&, bool, const char*&)	168	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4721:6:void GCodes::AppendAxes(const StringRef&, AxesBitmap) const	32	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4727:13:const char* GCodes::GetMachineModeString() const	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4743:7:float GCodes::GetExtrusionFactor(size_t)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4748:8:size_t GCodes::GetAxisNumberForLetter(char) const	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4760:7:Pwm_t GCodes::ConvertLaserPwm(float) const	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2032:6:bool GCodes::DoArcMove(GCodeBuffer&, bool, const char*&)	160	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4765:6:void GCodes::ActivateHeightmap(bool)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:2983:13:GCodeResult GCodes::LoadHeightMap(GCodeBuffer&, const StringRef&)	264	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4779:6:bool GCodes::CheckNetworkCommandAllowed(GCodeBuffer&, const StringRef&, GCodeResult&)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4802:13:GCodeResult GCodes::StartSDTiming(GCodeBuffer&, const StringRef&)	32	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 20]	20	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 256]	20	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3953:13:GCodeResult GCodes::UnloadFilament(GCodeBuffer&, const StringRef&)	288	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3896:13:GCodeResult GCodes::LoadFilament(GCodeBuffer&, const StringRef&)	328	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 256]	20	static
+RepRapFirmware/src/GCodes/GCodes.cpp:1190:6:void GCodes::SaveResumeInfo(bool)	392	static
+RepRapFirmware/src/GCodes/GCodes.cpp:870:6:void GCodes::DoPause(GCodeBuffer&, PrintPausedReason, GCodeState)	24	static
+RepRapFirmware/src/GCodes/GCodes.cpp:815:6:void GCodes::CheckTriggers()	56	static
+./RRFLibraries/src/General/Bitmap.h:286:43:static Bitmap<BaseType> Bitmap<BaseType>::MakeFromArray(const uint32_t*, size_t) [with BaseType = short unsigned int]	8	static
+RepRapFirmware/src/GCodes/GCodes.cpp:3408:13:GCodeResult GCodes::ManageTool(GCodeBuffer&, const StringRef&)	264	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 100]	20	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4474:6:bool GCodes::WriteConfigOverrideHeader(FileStore*) const	184	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4389:13:GCodeResult GCodes::WriteConfigOverrideFile(GCodeBuffer&, const StringRef&) const	48	static
+RepRapFirmware/src/GCodes/GCodes.cpp:4820:1:cpp)	0	static
+RepRapFirmware/src/GCodes/GCodes.cpp:418:6:void GCodes::Spin()	16	static

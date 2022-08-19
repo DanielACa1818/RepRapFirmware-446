@@ -1,0 +1,17 @@
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:27:17:void HAL_SD_TxCpltCallback(SD_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:35:17:void HAL_SD_RxCpltCallback(SD_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:53:17:void DMA2_Stream3_IRQHandler()	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:58:17:void DMA2_Stream6_IRQHandler()	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:63:17:void HAL_SD_AbortCallback(SD_HandleTypeDef*)	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:66:17:void SDIO_IRQHandler()	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:71:6:void HardwareSDIO::initDmaStream(DMA_HandleTypeDef&, DMA_Stream_TypeDef*, uint32_t, IRQn_Type, NvicPriority, uint32_t, uint32_t)	8	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:99:1:HardwareSDIO::HardwareSDIO()	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:103:9:uint8_t HardwareSDIO::tryInit(bool)	48	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:172:6:void HardwareSDIO::InitPins(NvicPriority)	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:181:9:uint8_t HardwareSDIO::Init()	56	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:236:9:uint8_t HardwareSDIO::ReadBlocks(uint32_t*, uint32_t, uint32_t, uint32_t)	40	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:289:9:uint8_t HardwareSDIO::WriteBlocks(uint32_t*, uint32_t, uint32_t, uint32_t)	32	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:343:9:uint8_t HardwareSDIO::Erase(uint32_t, uint32_t)	8	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:362:9:uint8_t HardwareSDIO::GetCardState()	8	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:373:6:void HardwareSDIO::GetCardInfo(HAL_SD_CardInfoTypeDef*)	0	static
+CoreN2G/src/STM32/SDIO/HardwareSDIO.cpp:385:9:uint8_t HardwareSDIO::IsDetected()	8	static

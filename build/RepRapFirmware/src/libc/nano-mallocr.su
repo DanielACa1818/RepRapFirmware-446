@@ -1,0 +1,7 @@
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\malloc.h:37:14:malloc	16	static
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\malloc.h:45:13:free	8	static
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\malloc.h:166:13:cfree	0	static
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\malloc.h:61:14:calloc	16	static
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\malloc.h:77:24:mallinfo	16	static
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\malloc.h:69:14:memalign	16	static
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\malloc.h:42:14:_malloc_r	0	static

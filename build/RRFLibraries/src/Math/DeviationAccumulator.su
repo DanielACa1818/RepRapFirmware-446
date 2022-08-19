@@ -1,0 +1,5 @@
+RRFLibraries/src/Math/DeviationAccumulator.cpp:11:1:DeviationAccumulator::DeviationAccumulator()	0	static
+RRFLibraries/src/Math/DeviationAccumulator.cpp:15:6:void DeviationAccumulator::Clear()	0	static
+RRFLibraries/src/Math/DeviationAccumulator.cpp:21:6:void DeviationAccumulator::Add(float)	0	static
+RRFLibraries/src/Math/DeviationAccumulator.cpp:28:7:float DeviationAccumulator::GetDeviation() const	0	static
+RRFLibraries/src/Math/DeviationAccumulator.cpp:40:6:bool DeviationAccumulator::DeviationFractionWithin(float) const	8	static

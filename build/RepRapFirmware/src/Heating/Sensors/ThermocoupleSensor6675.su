@@ -1,0 +1,9 @@
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:26:24:virtual const uint8_t TemperatureSensor::GetNumAdditionalOutputs() const	0	static
+RepRapFirmware/src/Heating/Sensors/TemperatureSensor.h:75:14:virtual int TemperatureSensor::GetSmartDriversChannel() const	0	static
+RepRapFirmware/src/Heating/Sensors/ThermocoupleSensor6675.h:19:14:virtual const char* ThermocoupleSensor6675::GetShortSensorType() const	0	static
+RepRapFirmware/src/Heating/Sensors/ThermocoupleSensor6675.cpp:44:13:virtual GCodeResult ThermocoupleSensor6675::Configure(GCodeBuffer&, const StringRef&, bool&)	24	static
+RepRapFirmware/src/Heating/Sensors/ThermocoupleSensor6675.cpp:66:6:virtual void ThermocoupleSensor6675::Poll()	16	static
+RepRapFirmware/src/Heating/Sensors/ThermocoupleSensor6675.h:13:7:ThermocoupleSensor6675::~ThermocoupleSensor6675()	8	static
+RepRapFirmware/src/Heating/Sensors/ThermocoupleSensor6675.h:13:7:virtual ThermocoupleSensor6675::~ThermocoupleSensor6675()	8	static
+RepRapFirmware/src/Heating/Sensors/ThermocoupleSensor6675.cpp:38:1:ThermocoupleSensor6675::ThermocoupleSensor6675(unsigned int)	16	static
+RepRapFirmware/src/Heating/Sensors/ThermocoupleSensor6675.cpp:93:1:cpp)	0	static

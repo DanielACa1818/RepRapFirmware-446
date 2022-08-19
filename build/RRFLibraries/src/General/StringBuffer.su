@@ -1,0 +1,3 @@
+RRFLibraries/src/General/StringBuffer.cpp:11:6:bool StringBuffer::Fix()	16	static
+RRFLibraries/src/General/StringBuffer.cpp:25:6:bool StringBuffer::Concat(const char*, const char*)	40	static
+RRFLibraries/src/General/StringBuffer.cpp:51:6:void StringBuffer::FinishedUsing(const char*)	16	static

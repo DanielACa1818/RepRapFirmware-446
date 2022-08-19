@@ -1,0 +1,2 @@
+RRFLibraries/src/Math/Deviation.cpp:11:1:Deviation::Deviation()	0	static
+RRFLibraries/src/Math/Deviation.cpp:15:6:void Deviation::Set(float, float, size_t)	0	static

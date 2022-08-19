@@ -1,0 +1,16 @@
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:270:6:0(LIS3DH::LisRegister, size_t)	24	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:23:1:LIS3DH::LIS3DH(SharedSpiDevice&, uint32_t, Pin, Pin)	24	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:49:13:const char* LIS3DH::GetTypeName() const	0	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:253:6:bool LIS3DH::ReadRegisters(LIS3DH::LisRegister, size_t)	24	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:270:6:bool LIS3DH::WriteRegisters(LIS3DH::LisRegister, size_t)	0	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:287:6:bool LIS3DH::ReadRegister(LIS3DH::LisRegister, uint8_t&)	16	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:29:6:bool LIS3DH::CheckPresent()	16	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:54:9:uint8_t LIS3DH::ReadStatus()	16	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:199:14:unsigned int LIS3DH::CollectData(const uint16_t**, uint16_t&, bool&)	32	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:297:6:bool LIS3DH::WriteRegister(LIS3DH::LisRegister, uint8_t)	0	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:62:6:bool LIS3DH::Configure(uint16_t&, uint8_t&)	16	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:171:6:bool LIS3DH::StartCollecting(uint8_t)	24	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:247:6:void LIS3DH::StopCollecting()	0	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:303:6:void LIS3DH::Int1Isr()	8	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:315:6:void Int1Interrupt(CallbackParameter)	0	static
+RepRapFirmware/src/Accelerometers/LIS3DH.cpp:318:1:cpp)	0	static

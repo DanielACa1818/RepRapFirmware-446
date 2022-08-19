@@ -1,0 +1,2 @@
+RepRapFirmware/src/Movement/StepperDrivers/DriverMode.cpp:23:13:const char* TranslateDriverMode(unsigned int)	0	static
+RepRapFirmware/src/Movement/StepperDrivers/DriverMode.cpp:27:1:cpp)	0	static

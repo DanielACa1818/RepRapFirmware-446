@@ -1,0 +1,32 @@
+RepRapFirmware/src/Hardware/IoPorts.cpp:118:24:static const char* IoPort::TranslatePinAccess(PinAccess)	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:138:17:static void IoPort::Init()	8	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:150:1:IoPort::IoPort()	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:154:6:void IoPort::Release()	16	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:183:6:bool IoPort::AttachInterrupt(StandardCallbackFunction, InterruptMode, CallbackParameter) const	8	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:188:6:void IoPort::DetachInterrupt() const	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:298:6:bool IoPort::SetMode(PinAccess)	24	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:383:6:bool IoPort::GetInvert() const	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:388:6:void IoPort::SetInvert(bool)	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:206:6:bool IoPort::Allocate(const char*, const StringRef&, PinUsedBy, PinAccess)	40	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:393:6:void IoPort::ToggleInvert(bool)	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:423:6:void IoPort::AppendPinName(const StringRef&) const	24	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:401:6:void IoPort::AppendBasicDetails(const StringRef&) const	16	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:492:17:static void IoPort::AppendPinNames(const StringRef&, size_t, const IoPort* const*)	24	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:515:6:void IoPort::WriteDigital(bool) const	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:523:5:Pin IoPort::GetPin() const	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:528:6:bool IoPort::ReadDigital() const	8	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:538:10:uint16_t IoPort::ReadAnalog() const	8	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:549:17:static bool IoPort::RemoveBoardAddress(const StringRef&)	24	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:55:19:static size_t IoPort::AssignPorts(const char*, const StringRef&, PinUsedBy, size_t, IoPort* const*, const PinAccess*)	120	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:38:19:static size_t IoPort::AssignPorts(GCodeBuffer&, const StringRef&, PinUsedBy, size_t, IoPort* const*, const PinAccess*)	144	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:48:6:bool IoPort::AssignPort(GCodeBuffer&, const StringRef&, PinUsedBy, PinAccess)	24	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:112:6:bool IoPort::AssignPort(const char*, const StringRef&, PinUsedBy, PinAccess)	24	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:587:17:static void IoPort::SetPinMode(Pin, PinMode)	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:604:17:static bool IoPort::ReadPin(Pin)	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:620:17:static void IoPort::WriteDigital(Pin, bool)	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:636:17:static void IoPort::WriteAnalog(Pin, float, uint16_t)	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:651:1:PwmPort::PwmPort()	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:657:6:void PwmPort::AppendFrequency(const StringRef&) const	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:665:6:void PwmPort::AppendFullDetails(const StringRef&) const	16	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:671:6:void PwmPort::WriteAnalog(float) const	0	static
+RepRapFirmware/src/Hardware/IoPorts.cpp:677:1:cpp)	0	static

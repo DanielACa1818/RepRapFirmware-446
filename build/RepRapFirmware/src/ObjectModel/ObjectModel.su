@@ -1,0 +1,44 @@
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = ObjectModel::ReportBitmap1632Long(OutputBuffer*, const ExpressionValue&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	16	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = ObjectModel::ReportBitmap64Long(OutputBuffer*, const ExpressionValue&)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	16	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:406:11:ReadLocker::ReadLocker(ReadWriteLock*)	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:27:1:ExpressionValue::ExpressionValue(const MacAddress&)	16	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:32:6:void ExpressionValue::AppendAsString(const StringRef&) const	80	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:146:1:ExpressionValue::ExpressionValue(const ExpressionValue&)	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:157:1:ExpressionValue::ExpressionValue(ExpressionValue&&)	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:187:6:void ExpressionValue::Release()	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:165:1:ExpressionValue::~ExpressionValue()	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:170:18:ExpressionValue& ExpressionValue::operator=(const ExpressionValue&)	16	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:251:6:void ObjectExplorationContext::AddIndex(int32_t)	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:261:6:void ObjectExplorationContext::AddIndex()	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:270:6:void ObjectExplorationContext::RemoveIndex()	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:279:6:void ObjectExplorationContext::ProvideIndex(int32_t)	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:290:1:ObjectModel::ObjectModel()	0	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:297:1:ObjectExplorationContext::ObjectExplorationContext(const GCodeBuffer*, bool, const char*, unsigned int, size_t)	24	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:356:1:ObjectExplorationContext::ObjectExplorationContext(const GCodeBuffer*, bool, bool, int, int)	24	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:366:9:int32_t ObjectExplorationContext::GetIndex(size_t) const	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:375:9:int32_t ObjectExplorationContext::GetLastIndex() const	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:384:6:bool ObjectExplorationContext::ShouldReport(ObjectModelEntryFlags) const	0	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:394:16:GCodeException ObjectExplorationContext::ConstructParseException(const char*) const	8	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:399:16:GCodeException ObjectExplorationContext::ConstructParseException(const char*, const char*) const	24	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:405:6:void ObjectExplorationContext::CheckStack(uint32_t) const	16	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:488:6:void ObjectModel::ReportAsJson(const GCodeBuffer*, OutputBuffer*, const char*, const char*, bool) const	112	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:533:6:void ObjectModel::ReportArrayLengthAsJson(OutputBuffer*, ObjectExplorationContext&, const ExpressionValue&) const	16	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:797:6:static void ObjectModel::ReportPinNameAsJson(OutputBuffer*, const ExpressionValue&)	80	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:882:24:static const char* ObjectModel::GetNextElement(const char*)	0	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:918:5:int ObjectModelTableEntry::IdCompare(const char*) const	0	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:842:30:const ObjectModelTableEntry* ObjectModel::FindObjectModelTableEntry(const ObjectModelClassDescriptor*, uint8_t, const char*) const	40	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:891:6:bool ObjectModelTableEntry::Matches(const char*, const ObjectExplorationContext&) const	16	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:1176:6:static void ObjectModel::ReportDateTime(OutputBuffer*, const ExpressionValue&)	72	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:1186:6:static void ObjectModel::ReportFloat(OutputBuffer*, const ExpressionValue&)	16	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:1202:6:static void ObjectModel::ReportBitmap1632Long(OutputBuffer*, const ExpressionValue&)	32	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:1219:6:static void ObjectModel::ReportBitmap64Long(OutputBuffer*, const ExpressionValue&)	40	static
+./RRFLibraries/src/General/Bitmap.h:237:30:int Bitmap<BaseType>::GetSetBitNumber(size_t) const [with BaseType = long long unsigned int]	24	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:974:17:ExpressionValue ObjectModel::GetObjectValue(ObjectExplorationContext&, const ObjectModelClassDescriptor*, const ExpressionValue&, const char*) const	56	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:937:17:ExpressionValue ObjectModel::GetObjectValueUsingTableNumber(ObjectExplorationContext&, const ObjectModelClassDescriptor*, const char*, uint8_t) const	56	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:566:6:void ObjectModel::ReportItemAsJsonFull(OutputBuffer*, ObjectExplorationContext&, const ObjectModelClassDescriptor*, const ExpressionValue&, const char*) const	80	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:503:13:void ObjectModel::ReportItemAsJson(OutputBuffer*, ObjectExplorationContext&, const ObjectModelClassDescriptor*, const ExpressionValue&, const char*) const	20	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:807:6:void ObjectModel::ReportArrayAsJson(OutputBuffer*, ObjectExplorationContext&, const ObjectModelClassDescriptor*, const ObjectModelArrayDescriptor*, const char*) const	80	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:897:6:bool ObjectModelTableEntry::ReportAsJson(OutputBuffer*, ObjectExplorationContext&, const ObjectModelClassDescriptor*, const ObjectModel*, const char*, bool) const	56	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:425:6:virtual void ObjectModel::ReportAsJson(OutputBuffer*, ObjectExplorationContext&, const ObjectModelClassDescriptor*, uint8_t, const char*) const	64	static
+RepRapFirmware/src/ObjectModel/ObjectModel.cpp:1234:1:cpp)	0	static

@@ -1,0 +1,25 @@
+c:\program files (x86)\gnu arm embedded toolchain\10 2021.10\arm-none-eabi\include\c++\10.3.1\bits\atomic_base.h:325:7:std::__atomic_base<_IntTp>::__int_type std::__atomic_base<_IntTp>::operator++() [with _ITp = unsigned int]	0	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:439:2:WriteLocker::~WriteLocker()	8	static
+RepRapFirmware/src/Platform/Heap.cpp:161:17:static void StringHandle::AdjustHandles(char*, char*, size_t, unsigned int)	20	static
+RepRapFirmware/src/Platform/Heap.cpp:84:17:static void StringHandle::GarbageCollectInternal()	40	static
+RepRapFirmware/src/Platform/Heap.cpp:78:17:static void StringHandle::GarbageCollect()	16	static
+RepRapFirmware/src/Platform/Heap.cpp:181:17:static bool StringHandle::CheckIntegrity(const StringRef&)	40	static
+RepRapFirmware/src/Platform/Heap.cpp:259:23:static IndexSlot* StringHandle::AllocateHandle()	16	static
+RepRapFirmware/src/Platform/Heap.cpp:300:26:static StorageSpace* StringHandle::AllocateSpace(size_t)	16	static
+RepRapFirmware/src/Platform/Heap.cpp:394:6:void StringHandle::InternalAssign(const char*, size_t)	24	static
+RepRapFirmware/src/Platform/Heap.cpp:347:1:StringHandle::StringHandle(const char*, size_t)	32	static
+RepRapFirmware/src/Platform/Heap.cpp:344:1:StringHandle::StringHandle(const char*)	16	static
+RepRapFirmware/src/Platform/Heap.cpp:413:21:const StringHandle& StringHandle::IncreaseRefCount() const	8	static
+RepRapFirmware/src/Platform/Heap.cpp:423:6:void StringHandle::InternalDelete()	8	static
+RepRapFirmware/src/Platform/Heap.cpp:404:6:void StringHandle::Delete()	16	static
+RepRapFirmware/src/Platform/Heap.cpp:383:6:void StringHandle::Assign(const char*)	24	static
+RepRapFirmware/src/Platform/Heap.cpp:437:31:ReadLockedPointer<const char> StringHandle::Get() const	16	static
+RepRapFirmware/src/Platform/Heap.cpp:465:8:size_t StringHandle::GetLength() const	24	static
+RepRapFirmware/src/Platform/Heap.cpp:508:1:AutoStringHandle::AutoStringHandle(const AutoStringHandle&)	8	static
+RepRapFirmware/src/Platform/Heap.cpp:513:1:AutoStringHandle::AutoStringHandle(AutoStringHandle&&)	0	static
+RepRapFirmware/src/Platform/Heap.cpp:518:19:AutoStringHandle& AutoStringHandle::operator=(const AutoStringHandle&)	16	static
+RepRapFirmware/src/Platform/Heap.cpp:529:1:AutoStringHandle::~AutoStringHandle()	8	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 256]	20	static
+RepRapFirmware/src/Platform/Heap.cpp:493:17:static void StringHandle::Diagnostics(MessageType, Platform&)	312	static
+RepRapFirmware/src/Platform/Heap.cpp:532:1:cpp)	0	static

@@ -1,0 +1,44 @@
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:383:11:virtual uint32_t Tmc22xxDriverState::GetAxisNumber() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:394:7:virtual void Tmc22xxDriverState::SetStallDetectFilter(bool)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:748:13:virtual void Tmc22xxDriverState::SetAxisNumber(size_t)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:759:7:virtual float Tmc22xxDriverState::GetStandstillCurrentPercent() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:784:14:virtual unsigned int Tmc22xxDriverState::GetMicrostepping(bool&) const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:825:10:virtual uint32_t Tmc22xxDriverState::GetRegister(SmartDriverRegister) const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:902:12:virtual DriverMode Tmc22xxDriverState::GetDriverMode() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:963:7:virtual float Tmc22xxDriverState::GetSenseResistor() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:968:6:virtual void Tmc22xxDriverState::SetSenseResistor(float)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:975:7:virtual float Tmc22xxDriverState::GetMaxCurrent() const	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:980:6:virtual void Tmc22xxDriverState::SetMaxCurrent(float)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:739:6:virtual void Tmc22xxDriverState::AppendStallConfig(const StringRef&) const	16	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:988:22:virtual StandardDriverStatus Tmc22xxDriverState::ReadStatus(bool, bool)	16	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:208:41:Task<200>::~Task()	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1036:6:virtual void Tmc22xxDriverState::AppendDriverStatus(const StringRef&)	24	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1191:14:DriversState Tmc22xxDriverState::SetupDriver(bool)	8	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = Tmc22xxDriver::GetStalledDrivers(DriversBitmap)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	16	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:304:14:bool RTOSIface::LeaveTaskCriticalSection()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:588:1:Tmc22xxDriverState::Tmc22xxDriverState()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:621:6:void Tmc22xxDriverState::UpdateMaxOpenLoadStepInterval()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:642:6:void Tmc22xxDriverState::UpdateRegister(size_t, uint32_t)	24	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:725:6:virtual void Tmc22xxDriverState::SetStallDetectThreshold(int)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:734:6:virtual void Tmc22xxDriverState::SetStallMinimumStepsPerSecond(unsigned int)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:884:6:virtual bool Tmc22xxDriverState::SetDriverMode(unsigned int)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:663:6:void Tmc22xxDriverState::UpdateChopConfRegister()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:771:6:virtual bool Tmc22xxDriverState::SetMicrostepping(uint32_t, bool)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:950:6:virtual void Tmc22xxDriverState::Enable(bool)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:669:6:void Tmc22xxDriverState::Init(uint32_t, Pin, Pin)	16	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:864:6:bool Tmc22xxDriverState::SetChopConf(uint32_t)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:790:6:virtual bool Tmc22xxDriverState::SetRegister(SmartDriverRegister, uint32_t)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:914:6:void Tmc22xxDriverState::UpdateCurrent()	40	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:764:6:virtual void Tmc22xxDriverState::SetStandstillCurrentPercent(float)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:908:6:virtual void Tmc22xxDriverState::SetCurrent(float)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1075:13:void Tmc22xxDriverState::TransferDone()	24	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1191:14:DriversState Tmc22xxDriverState::SetupDriver(bool)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1248:30:void Tmc22Loop(void*)	32	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1316:6:void Tmc22xxDriver::Init(size_t, size_t)	56	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1377:6:bool Tmc22xxDriver::IsReady()	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1383:6:void Tmc22xxDriver::TurnDriversOff()	24	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1345:6:void Tmc22xxDriver::Exit()	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1358:6:void Tmc22xxDriver::Spin(bool)	8	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1392:17:TmcDriverState* Tmc22xxDriver::GetDrive(size_t)	0	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1399:15:DriversBitmap Tmc22xxDriver::GetStalledDrivers(DriversBitmap)	32	static
+RepRapFirmware/src/targets/common/Movement/StepperDrivers/TMC22xx.cpp:1411:1:cpp)	0	static

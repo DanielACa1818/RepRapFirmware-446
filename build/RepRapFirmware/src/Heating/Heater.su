@@ -1,0 +1,43 @@
+RepRapFirmware/src/Heating/Heater.cpp:31:2:static constexpr size_t Heater::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heater.cpp:32:2:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Heating/Heater.cpp:40:15:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heater.cpp:45:14:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heater.cpp:46:16:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heater.cpp:47:15:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heater.cpp:48:15:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heater.cpp:61:1:virtual const ObjectModelClassDescriptor* Heater::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Heating/Heater.cpp:55:14:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Heating/Heater.cpp:54:17:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Heating/Heater.cpp:52:15:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Heating/Heater.cpp:42:15:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Heating/Heater.cpp:41:15:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+./RRFLibraries/src/Math/DeviationAccumulator.h:20:8:float DeviationAccumulator::GetMean() const	0	static
+RepRapFirmware/src/Heating/Heater.cpp:96:17:static void Heater::ClearCounters()	8	static
+RepRapFirmware/src/Heating/Heater.cpp:106:1:Heater::Heater(unsigned int)	16	static
+RepRapFirmware/src/Heating/Heater.cpp:114:1:Heater::~Heater()	0	static
+RepRapFirmware/src/Heating/Heater.cpp:114:1:virtual Heater::~Heater()	8	static
+RepRapFirmware/src/Heating/Heater.cpp:122:6:void Heater::SetSensorNumber(int)	0	static
+RepRapFirmware/src/Heating/Heater.cpp:336:6:void Heater::ReportTuningUpdate()	16	static
+RepRapFirmware/src/Heating/Heater.cpp:344:6:void Heater::CalculateModel(Heater::HeaterParameters&)	192	static
+RepRapFirmware/src/Heating/Heater.cpp:455:13:GCodeResult Heater::SetFaultDetectionParameters(float, float, const StringRef&)	8	static
+RepRapFirmware/src/Heating/Heater.cpp:465:13:GCodeResult Heater::ConfigureMonitor(GCodeBuffer&, const StringRef&)	64	static
+RepRapFirmware/src/Heating/Heater.cpp:521:7:float Heater::GetHighestTemperatureLimit() const	0	static
+RepRapFirmware/src/Heating/Heater.cpp:43:12:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Heating/Heater.cpp:217:13:GCodeResult Heater::SetModel(float, float, float, float, float, float, float, bool, bool, const StringRef&)	32	static
+RepRapFirmware/src/Heating/Heater.cpp:130:13:GCodeResult Heater::SetOrReportModel(unsigned int, GCodeBuffer&, const StringRef&)	80	static
+RepRapFirmware/src/Heating/Heater.cpp:254:13:GCodeResult Heater::StartAutoTune(GCodeBuffer&, const StringRef&, FansBitmap)	64	static
+RepRapFirmware/src/Heating/Heater.cpp:538:7:float Heater::GetLowestTemperatureLimit() const	0	static
+RepRapFirmware/src/Heating/Heater.cpp:44:12:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Heating/Heater.cpp:555:14:HeaterStatus Heater::GetStatus() const	16	static
+RepRapFirmware/src/Heating/Heater.cpp:317:6:void Heater::GetAutoTuneStatus(const StringRef&) const	32	static
+RepRapFirmware/src/Heating/Heater.cpp:49:14:static ExpressionValue Heater::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Heating/Heater.cpp:566:13:const char* Heater::GetSensorName() const	16	static
+RepRapFirmware/src/Heating/Heater.cpp:572:13:GCodeResult Heater::SetActiveOrStandby(bool, const StringRef&)	16	static
+RepRapFirmware/src/Heating/Heater.cpp:584:6:void Heater::SetTemperature(float, bool)	128	static
+RepRapFirmware/src/Heating/Heater.cpp:611:6:void Heater::ClearModelAndMonitors()	8	static
+RepRapFirmware/src/Heating/Heater.cpp:622:6:void Heater::SetAsToolHeater()	32	static
+RepRapFirmware/src/Heating/Heater.cpp:637:6:void Heater::SetAsBedOrChamberHeater()	32	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 256]	20	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 256]	20	static
+RepRapFirmware/src/Heating/Heater.cpp:381:6:void Heater::SetAndReportModelAfterTuning(bool)	368	static
+RepRapFirmware/src/Heating/Heater.cpp:649:1:cpp)	8	static

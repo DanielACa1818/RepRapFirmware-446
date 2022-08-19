@@ -1,0 +1,33 @@
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:41:20:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:42:17:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:48:15:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:51:18:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:54:22:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:57:18:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:58:18:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:61:23:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:76:1:virtual const ObjectModelClassDescriptor* RotatingMagnetFilamentMonitor::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:47:17:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.h:13:7:RotatingMagnetFilamentMonitor::~RotatingMagnetFilamentMonitor()	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.h:13:7:virtual RotatingMagnetFilamentMonitor::~RotatingMagnetFilamentMonitor()	8	static
+RepRapFirmware/src/FilamentMonitors/FilamentMonitor.h:128:17:static int32_t FilamentMonitor::ConvertToPercent(float)	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:60:20:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:59:20:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:53:20:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:52:20:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:106:6:void RotatingMagnetFilamentMonitor::Reset()	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:90:6:void RotatingMagnetFilamentMonitor::Init()	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:80:1:RotatingMagnetFilamentMonitor::RotatingMagnetFilamentMonitor(unsigned int, unsigned int, DriverId)	16	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:114:6:bool RotatingMagnetFilamentMonitor::HaveCalibrationData() const	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:125:13:virtual GCodeResult RotatingMagnetFilamentMonitor::Configure(GCodeBuffer&, const StringRef&, bool&)	104	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:40:20:static ExpressionValue RotatingMagnetFilamentMonitor::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:119:7:float RotatingMagnetFilamentMonitor::MeasuredSensitivity() const	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:237:7:float RotatingMagnetFilamentMonitor::GetCurrentPosition() const	0	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:243:6:void RotatingMagnetFilamentMonitor::HandleIncomingData()	40	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:520:22:virtual FilamentSensorStatus RotatingMagnetFilamentMonitor::Clear()	16	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:431:22:FilamentSensorStatus RotatingMagnetFilamentMonitor::CheckFilament(float, float, bool)	56	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:385:22:virtual FilamentSensorStatus RotatingMagnetFilamentMonitor::Check(bool, bool, uint32_t, float)	24	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 256]	20	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 256]	20	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:533:6:virtual void RotatingMagnetFilamentMonitor::Diagnostics(MessageType, unsigned int)	312	static
+RepRapFirmware/src/FilamentMonitors/RotatingMagnetFilamentMonitor.cpp:547:1:cpp)	0	static

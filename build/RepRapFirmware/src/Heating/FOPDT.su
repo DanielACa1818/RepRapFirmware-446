@@ -1,0 +1,39 @@
+RepRapFirmware/src/Heating/FOPDT.cpp:32:20:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:33:20:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:34:18:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:35:17:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:36:23:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:37:20:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:38:18:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:39:17:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:40:14:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	8	static
+RepRapFirmware/src/Heating/FOPDT.cpp:41:23:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:44:13:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:45:13:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:46:20:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:47:13:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:48:15:static ExpressionValue FopDt::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:53:1:virtual const ObjectModelClassDescriptor* FopDt::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Heating/FOPDT.h:40:7:FopDt::~FopDt()	0	static
+RepRapFirmware/src/Heating/FOPDT.h:40:7:virtual FopDt::~FopDt()	8	static
+RepRapFirmware/src/Heating/FOPDT.cpp:179:19:M301PidParameters FopDt::GetM301PidParameters(bool) const	32	static
+RepRapFirmware/src/Heating/FOPDT.cpp:191:6:void FopDt::SetM301PidParameters(const M301PidParameters&)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:196:6:void FopDt::SetRawPidParameters(float, float, float)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:205:6:void FopDt::AppendM307Command(unsigned int, const StringRef&, bool) const	80	static
+RepRapFirmware/src/Heating/FOPDT.cpp:228:6:void FopDt::AppendM301Command(unsigned int, const StringRef&) const	64	static
+RepRapFirmware/src/Heating/FOPDT.cpp:315:7:float FopDt::CorrectPwmForVoltage(float, float) const	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:324:7:float FopDt::GetPwmCorrectionForFan(float, float) const	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:330:7:float FopDt::GetCoolingRate(float, float) const	16	static
+RepRapFirmware/src/Heating/FOPDT.cpp:297:6:0(float)	24	static
+RepRapFirmware/src/Heating/FOPDT.cpp:297:6:void FopDt::CalcPidConstants(float)	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:163:6:void FopDt::SetDefaultBedOrChamberParameters()	8	static
+RepRapFirmware/src/Heating/FOPDT.cpp:147:6:void FopDt::SetDefaultToolParameters()	16	static
+RepRapFirmware/src/Heating/FOPDT.cpp:140:6:void FopDt::Reset()	8	static
+RepRapFirmware/src/Heating/FOPDT.cpp:58:1:FopDt::FopDt()	8	static
+RepRapFirmware/src/Heating/FOPDT.cpp:339:7:float FopDt::GetNetHeatingRate(float, float, float) const	16	static
+RepRapFirmware/src/Heating/FOPDT.cpp:345:7:float FopDt::EstimateRequiredPwm(float, float) const	8	static
+RepRapFirmware/src/Heating/FOPDT.cpp:355:18:static float FopDt::EstimateMaxTemperatureRise(float, float, float)	8	static
+RepRapFirmware/src/Heating/FOPDT.cpp:64:6:bool FopDt::SetParameters(float, float, float, float, float, float, float, float, bool, bool)	48	static
+RepRapFirmware/src/Heating/FOPDT.cpp:350:7:float FopDt::EstimateMaxTemperatureRise() const	0	static
+RepRapFirmware/src/Heating/FOPDT.cpp:238:6:void FopDt::AppendModelParameters(unsigned int, const StringRef&, bool) const	64	static
+RepRapFirmware/src/Heating/FOPDT.cpp:358:1:cpp)	0	static

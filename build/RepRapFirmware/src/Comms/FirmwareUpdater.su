@@ -1,0 +1,4 @@
+RepRapFirmware/src/Comms/FirmwareUpdater.cpp:29:14:GCodeResult FirmwareUpdater::CheckFirmwareUpdatePrerequisites(Bitmap<unsigned char>, GCodeBuffer&, const StringRef&, size_t, const StringRef&)	136	static
+RepRapFirmware/src/Comms/FirmwareUpdater.cpp:81:7:bool FirmwareUpdater::IsReady()	8	static
+RepRapFirmware/src/Comms/FirmwareUpdater.cpp:100:7:void FirmwareUpdater::UpdateModule(unsigned int, size_t, const StringRef&)	8	static
+RepRapFirmware/src/Comms/FirmwareUpdater.cpp:143:1:cpp)	0	static

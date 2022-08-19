@@ -1,0 +1,54 @@
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:135:16:virtual float Kinematics::GetTiltCorrection(size_t) const	0	static
+RepRapFirmware/src/Movement/Kinematics/Kinematics.h:156:21:virtual MotionType Kinematics::GetMotionType(size_t) const	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = DDA::Magnitude(const float*, AxesBitmap)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	0	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = DDA::NormaliseLinearMotion(AxesBitmap)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	0	static
+./RRFLibraries/src/General/Bitmap.h:254:31:void Bitmap<BaseType>::Iterate(function_ref<void(unsigned int, unsigned int)>) const [with BaseType = short unsigned int]	32	static
+RepRapFirmware/src/Movement/DriveMovement.h:161:13:bool DriveMovement::CalcNextStepTime(const DDA&)	4	static
+RepRapFirmware/src/Movement/DriveMovement.h:199:16:int32_t DriveMovement::GetNetStepsLeft() const	0	static
+RepRapFirmware/src/Movement/DriveMovement.h:220:16:int32_t DriveMovement::GetNetStepsTaken() const	0	static
+RepRapFirmware/src/Movement/DDA.h:370:23:DriveMovement* DDA::FindDM(size_t) const	0	static
+RepRapFirmware/src/Movement/DDA.cpp:85:17:static void DDA::PrintMoves()	0	static
+RepRapFirmware/src/Movement/DDA.cpp:119:6:void PrepParams::SetFromDDA(const DDA&)	0	static
+RepRapFirmware/src/Movement/DDA.cpp:137:6:void PrepParams::PrepParamSet::Finalise(float)	0	static
+RepRapFirmware/src/Movement/DDA.cpp:143:1:DDA::DDA(DDA*)	16	static
+RepRapFirmware/src/Movement/DDA.cpp:165:6:void DDA::ReleaseDMs()	8	static
+RepRapFirmware/src/Movement/DDA.cpp:199:9:int32_t DDA::GetTimeLeft() const	0	static
+RepRapFirmware/src/Movement/DDA.cpp:210:13:void DDA::InsertDM(DriveMovement*)	4	static
+RepRapFirmware/src/Movement/DDA.cpp:223:6:void DDA::DeactivateDM(size_t)	12	static
+RepRapFirmware/src/Movement/DDA.cpp:241:6:void DDA::DebugPrintVector(const char*, const float*, size_t) const	24	static
+RepRapFirmware/src/Movement/DDA.cpp:252:6:void DDA::DebugPrint(const char*) const	120	static
+RepRapFirmware/src/Movement/DDA.cpp:282:6:void DDA::DebugPrintAll(const char*) const	16	static
+RepRapFirmware/src/Movement/DDA.cpp:883:6:bool DDA::IsDecelerationMove() const	0	static
+RepRapFirmware/src/Movement/DDA.cpp:893:6:bool DDA::IsAccelerationMove() const	0	static
+RepRapFirmware/src/Movement/DDA.cpp:1116:6:void DDA::RecalculateMove(DDARing&)	16	static
+RepRapFirmware/src/Movement/DDA.cpp:1207:6:void DDA::MatchSpeeds()	12	static
+RepRapFirmware/src/Movement/DDA.cpp:914:17:static void DDA::DoLookahead(DDARing&, DDA*)	32	static
+RepRapFirmware/src/Movement/DDA.cpp:1225:6:bool DDA::FetchEndPosition(volatile int32_t*, volatile float*)	20	static
+RepRapFirmware/src/Movement/DDA.cpp:1251:6:void DDA::SetPositions(const float*)	16	static
+RepRapFirmware/src/Movement/DDA.cpp:1263:7:float DDA::GetEndCoordinate(size_t, bool)	24	static
+RepRapFirmware/src/Movement/DDA.cpp:1283:6:void DDA::EnsureUnshapedSegments(const PrepParams&)	8	static
+RepRapFirmware/src/Movement/DDA.cpp:1669:18:static float DDA::VectorBoxIntersection(const float*, const float*)	0	static
+RepRapFirmware/src/Movement/DDA.cpp:1690:18:static float DDA::Magnitude(const float*)	0	static
+RepRapFirmware/src/Movement/DDA.cpp:1772:18:static float DDA::Magnitude(const float*, AxesBitmap)	32	static
+RepRapFirmware/src/Movement/DDA.cpp:1780:17:static void DDA::Scale(float*, float)	0	static
+RepRapFirmware/src/Movement/DDA.cpp:1713:18:static float DDA::Normalise(float*)	8	static
+RepRapFirmware/src/Movement/DDA.cpp:562:6:bool DDA::InitLeadscrewMove(DDARing&, float, const float*)	48	static
+RepRapFirmware/src/Movement/DDA.cpp:1725:7:float DDA::NormaliseLinearMotion(AxesBitmap)	72	static
+RepRapFirmware/src/Movement/DDA.cpp:1056:7:float DDA::AdvanceBabyStepping(DDARing&, size_t, float)	48	static
+RepRapFirmware/src/Movement/DDA.cpp:1701:18:static float DDA::Normalise(float*, AxesBitmap)	8	static
+RepRapFirmware/src/Movement/DDA.cpp:297:6:bool DDA::InitStandardMove(DDARing&, const RawMove&, bool)	224	static
+RepRapFirmware/src/Movement/DDA.cpp:1789:17:static void DDA::Absolute(float*, size_t)	0	static
+RepRapFirmware/src/Movement/DDA.cpp:1874:6:void DDA::Start(Platform&, uint32_t)	48	static
+RepRapFirmware/src/Movement/DDA.cpp:2131:6:void DDA::SimulateSteppingDrivers(Platform&)	40	static
+RepRapFirmware/src/Movement/DDA.cpp:2188:6:void DDA::StopDrive(size_t)	16	static
+RepRapFirmware/src/Movement/DDA.cpp:2220:6:void DDA::MoveAborted()	16	static
+RepRapFirmware/src/Movement/DDA.cpp:1799:6:void DDA::CheckEndstops(Platform&)	56	static
+RepRapFirmware/src/Movement/DDA.cpp:1989:6:void DDA::StepDrivers(Platform&, uint32_t)	40	static
+RepRapFirmware/src/Movement/DDA.cpp:1293:6:void DDA::Prepare(SimulationMode)	136	static
+RepRapFirmware/src/Movement/DDA.cpp:2234:7:float DDA::GetProportionDone(bool) const	40	static
+RepRapFirmware/src/Movement/DDA.cpp:2265:6:bool DDA::HasStepError() const	16	static
+RepRapFirmware/src/Movement/DDA.cpp:2286:6:bool DDA::Free()	8	static
+RepRapFirmware/src/Movement/DDA.cpp:2293:6:void DDA::LimitSpeedAndAcceleration(float, float)	0	static
+RepRapFirmware/src/Movement/DDA.cpp:2312:6:void DDA::UpdateMovementAccumulators(volatile int32_t*) const	24	static
+RepRapFirmware/src/Movement/DDA.cpp:2360:10:uint32_t DDA::ManageLaserPower() const	16	static
+RepRapFirmware/src/Movement/DDA.cpp:2405:1:cpp)	0	static

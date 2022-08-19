@@ -1,0 +1,16 @@
+CoreN2G/src/STM32/usb2/usbotg.c:121:1:enable_rx_endpoint	0	static
+CoreN2G/src/STM32/usb2/usbotg.c:96:1:fifo_read_packet	32	static
+CoreN2G/src/STM32/usb2/usbotg.c:133:1:peek_rx_queue	16	static
+CoreN2G/src/STM32/usb2/usbotg.c:71:1:fifo_write_packet	24	static
+CoreN2G/src/STM32/usb2/usbotg.c:167:1:usb_read_bulk_out	16	static
+CoreN2G/src/STM32/usb2/usbotg.c:179:1:usb_enable_bulk_out	0	static
+CoreN2G/src/STM32/usb2/usbotg.c:185:1:usb_send_bulk_in	0	static
+CoreN2G/src/STM32/usb2/usbotg.c:202:1:usb_enable_bulk_in	8	static
+CoreN2G/src/STM32/usb2/usbotg.c:212:1:usb_read_ep0	16	static
+CoreN2G/src/STM32/usb2/usbotg.c:231:1:usb_read_ep0_setup	24	static
+CoreN2G/src/STM32/usb2/usbotg.c:270:1:usb_send_ep0	16	static
+CoreN2G/src/STM32/usb2/usbotg.c:287:1:usb_stall_ep0	0	static
+CoreN2G/src/STM32/usb2/usbotg.c:294:1:usb_set_address	0	static
+CoreN2G/src/STM32/usb2/usbotg.c:304:1:usb_set_configure	0	static
+CoreN2G/src/STM32/usb2/usbotg.c:350:1:OTG_FS_IRQHandler	8	static
+CoreN2G/src/STM32/usb2/usbotg.c:374:1:usb_init	16	static

@@ -1,0 +1,72 @@
+RepRapFirmware/src/Heating/Heat.cpp:79:2:static constexpr size_t Heat::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heat.cpp:104:21:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heat.cpp:105:24:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heat.cpp:106:30:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heat.cpp:107:30:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heat.cpp:108:18:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heat.cpp:113:1:virtual const ObjectModelClassDescriptor* Heat::GetObjectModelClassDescriptor() const	0	static
+RepRapFirmware/src/Heating/Heat.h:40:7:Heat::~Heat()	0	static
+RepRapFirmware/src/Heating/Heat.cpp:80:2:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Heating/Heat.cpp:87:2:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Heating/Heat.h:40:7:virtual Heat::~Heat()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:208:41:Task<420>::~Task()	8	static
+RepRapFirmware/src/Heating/Heat.cpp:94:2:static ExpressionValue Heat::<lambda(const ObjectModel*, ObjectExplorationContext&)>::_FUN(const ObjectModel*, ObjectExplorationContext&)	16	static
+RepRapFirmware/src/Heating/Heat.cpp:86:2:static constexpr size_t Heat::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:439:2:WriteLocker::~WriteLocker()	8	static
+RepRapFirmware/src/Heating/Heat.cpp:120:1:Heat::Heat()	16	static
+RepRapFirmware/src/Heating/Heat.cpp:148:27:ReadLockedPointer<Heater> Heat::FindHeater(int) const	16	static
+RepRapFirmware/src/Heating/Heat.cpp:155:13:GCodeResult Heat::SetOrReportHeaterModel(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/Heating/Heat.cpp:169:13:GCodeResult Heat::SetPidParameters(unsigned int, GCodeBuffer&, const StringRef&)	72	static
+RepRapFirmware/src/Heating/Heat.cpp:211:6:bool Heat::IsHeaterEnabled(size_t) const	16	static
+RepRapFirmware/src/Heating/Heat.cpp:218:38:ReadLockedPointer<TemperatureSensor> Heat::FindSensor(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:237:38:ReadLockedPointer<TemperatureSensor> Heat::FindSensorAtOrAbove(unsigned int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:253:6:void Heat::ResetHeaterModels()	24	static
+RepRapFirmware/src/Heating/Heat.cpp:266:6:void Heat::Init()	24	static
+RepRapFirmware/src/Heating/Heat.cpp:275:6:void Heat::Exit()	24	static
+RepRapFirmware/src/Heating/Heat.cpp:326:19:void Heat::HeaterTask()	24	static
+RepRapFirmware/src/Heating/Heat.cpp:66:30:void HeaterTaskStart(void*)	8	static
+RepRapFirmware/src/Heating/Heat.cpp:630:6:bool Heat::HeaterAtSetTemperature(int, bool, float) const	40	static
+RepRapFirmware/src/Heating/Heat.cpp:653:14:HeaterStatus Heat::GetStatus(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:659:6:void Heat::SetBedHeater(size_t, int)	24	static
+RepRapFirmware/src/Heating/Heat.cpp:680:6:bool Heat::IsBedHeater(int) const	0	static
+RepRapFirmware/src/Heating/Heat.cpp:617:6:bool Heat::AllHeatersAtSetTemperatures(bool, float) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:692:6:void Heat::SetChamberHeater(size_t, int)	24	static
+RepRapFirmware/src/Heating/Heat.cpp:711:6:bool Heat::IsChamberHeater(int) const	0	static
+RepRapFirmware/src/Heating/Heat.cpp:724:6:void Heat::SetAsToolHeater(int8_t) const	16	static
+RepRapFirmware/src/Heating/Heat.cpp:735:6:void Heat::SetTemperature(int, float, bool)	24	static
+RepRapFirmware/src/Heating/Heat.cpp:744:7:float Heat::GetActiveTemperature(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:750:7:float Heat::GetStandbyTemperature(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:756:7:float Heat::GetHighestTemperatureLimit(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:762:7:float Heat::GetLowestTemperatureLimit(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:770:7:float Heat::GetHeaterTemperature(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:777:7:float Heat::GetTargetTemperature(int) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:785:13:GCodeResult Heat::SetActiveOrStandby(int, const Tool*, bool, const StringRef&)	32	static
+RepRapFirmware/src/Heating/Heat.cpp:801:6:void Heat::SwitchOff(int)	24	static
+RepRapFirmware/src/Heating/Heat.cpp:826:6:void Heat::SwitchOffAllLocalFromISR()	16	static
+RepRapFirmware/src/Heating/Heat.cpp:841:6:void Heat::FeedForwardAdjustment(unsigned int, float, float) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:851:6:void Heat::SetExtrusionFeedForward(unsigned int, float) const	0	static
+RepRapFirmware/src/Heating/Heat.cpp:863:13:GCodeResult Heat::ResetFault(int, const StringRef&)	16	static
+RepRapFirmware/src/Heating/Heat.cpp:870:7:float Heat::GetAveragePWM(size_t) const	24	static
+RepRapFirmware/src/Heating/Heat.cpp:876:6:bool Heat::IsBedOrChamberHeater(int) const	8	static
+RepRapFirmware/src/Heating/Heat.cpp:811:6:void Heat::SwitchOffAll(bool)	32	static
+RepRapFirmware/src/Heating/Heat.cpp:882:7:float Heat::GetHighestTemperatureLimit() const	32	static
+RepRapFirmware/src/Heating/Heat.cpp:903:6:bool Heat::WriteModelParameters(FileStore*) const	312	static
+RepRapFirmware/src/Heating/Heat.cpp:926:13:GCodeResult Heat::ConfigureHeaterMonitoring(size_t, GCodeBuffer&, const StringRef&)	64	static
+RepRapFirmware/src/Heating/Heat.cpp:950:13:GCodeResult Heat::TuneHeater(GCodeBuffer&, const StringRef&)	48	static
+RepRapFirmware/src/Heating/Heat.cpp:1142:13:const char* Heat::GetHeaterSensorName(size_t) const	16	static
+RepRapFirmware/src/Heating/Heat.cpp:1149:13:GCodeResult Heat::HandleM143(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/Heating/Heat.cpp:1163:7:float Heat::GetSensorTemperature(int, TemperatureError&) const	32	static
+RepRapFirmware/src/Heating/Heat.cpp:1178:8:size_t Heat::GetNumHeatersToReport() const	0	static
+RepRapFirmware/src/Heating/Heat.cpp:93:2:static size_t Heat::<lambda(const ObjectModel*, const ObjectExplorationContext&)>::_FUN(const ObjectModel*, const ObjectExplorationContext&)	0	static
+RepRapFirmware/src/Heating/Heat.cpp:1189:8:size_t Heat::GetNumSensorsToReport() const	16	static
+RepRapFirmware/src/Heating/Heat.cpp:1208:6:void Heat::SuspendHeaters(bool)	16	static
+RepRapFirmware/src/Heating/Heat.cpp:1220:6:void Heat::DeleteSensor(unsigned int)	16	static
+RepRapFirmware/src/Heating/Heat.cpp:1251:6:void Heat::InsertSensor(TemperatureSensor*)	12	static
+RepRapFirmware/src/Heating/Heat.cpp:1030:13:GCodeResult Heat::ConfigureSensor(GCodeBuffer&, const StringRef&)	88	static
+RepRapFirmware/src/Heating/Heat.cpp:1281:6:bool Heat::WriteBedAndChamberTempSettings(FileStore*) const	312	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 100]	20	static
+RepRapFirmware/src/Heating/Heat.cpp:516:6:void Heat::Diagnostics(MessageType)	160	static
+./RepRapFirmware/src/RepRapFirmware.h:441:28:void DeleteObject(T*&) [with T = Heater]	0	static
+RepRapFirmware/src/Heating/Heat.cpp:1302:1:cpp)	8	static
+RepRapFirmware/src/Heating/Heat.cpp:547:13:GCodeResult Heat::ConfigureHeater(GCodeBuffer&, const StringRef&)	112	static

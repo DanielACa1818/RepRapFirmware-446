@@ -1,0 +1,22 @@
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:439:2:WriteLocker::~WriteLocker()	8	static
+RepRapFirmware/src/Fans/FansManager.cpp:28:1:FansManager::FansManager()	8	static
+RepRapFirmware/src/Fans/FansManager.cpp:38:24:ReadLockedPointer<Fan> FansManager::FindFan(size_t) const	16	static
+RepRapFirmware/src/Fans/FansManager.cpp:45:11:LocalFan* FansManager::CreateLocalFan(uint32_t, const char*, PwmFrequency, const StringRef&)	32	static
+RepRapFirmware/src/Fans/FansManager.cpp:58:6:bool FansManager::CheckFans(bool)	32	static
+RepRapFirmware/src/Fans/FansManager.cpp:73:8:size_t FansManager::GetNumFansToReport() const	0	static
+RepRapFirmware/src/Fans/FansManager.cpp:85:6:bool FansManager::WriteFanSettings(FileStore*) const	32	static
+RepRapFirmware/src/Fans/FansManager.cpp:157:6:bool FansManager::ConfigureFan(unsigned int, size_t, GCodeBuffer&, const StringRef&, bool&)	48	static
+RepRapFirmware/src/Fans/FansManager.cpp:170:7:float FansManager::GetFanValue(size_t) const	24	static
+RepRapFirmware/src/Fans/FansManager.cpp:176:13:GCodeResult FansManager::SetFanValue(size_t, float, const StringRef&)	32	static
+RepRapFirmware/src/Fans/FansManager.cpp:188:7:float FansManager::SetFanValue(size_t, float)	40	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = FansManager::SetFansValue(FansBitmap, float)::<lambda(unsigned int, unsigned int)>; Ret = void; Params = {unsigned int, unsigned int}]	8	static
+RepRapFirmware/src/Fans/FansManager.cpp:202:7:float FansManager::SetFansValue(FansBitmap, float)	40	static
+RepRapFirmware/src/Fans/FansManager.cpp:215:6:bool FansManager::IsFanControllable(size_t) const	16	static
+RepRapFirmware/src/Fans/FansManager.cpp:222:24:const char* FansManager::GetFanName(size_t) const	16	static
+RepRapFirmware/src/Fans/FansManager.cpp:229:9:int32_t FansManager::GetFanRPM(size_t) const	16	static
+RepRapFirmware/src/Fans/FansManager.cpp:236:6:void FansManager::Init()	0	static
+./RepRapFirmware/src/RepRapFirmware.h:441:28:void DeleteObject(T*&) [with T = Fan]	0	static
+RepRapFirmware/src/Fans/FansManager.cpp:99:13:GCodeResult FansManager::ConfigureFanPort(GCodeBuffer&, const StringRef&)	96	static
+RepRapFirmware/src/Fans/FansManager.cpp:262:6:void FansManager::Exit()	24	static
+RepRapFirmware/src/Fans/FansManager.cpp:269:1:cpp)	0	static

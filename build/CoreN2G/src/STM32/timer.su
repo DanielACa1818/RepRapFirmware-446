@@ -1,0 +1,11 @@
+CoreN2G/src/STM32/timer.c:113:6:enableTimerClock	56	static
+CoreN2G/src/STM32/timer.c:92:6:HAL_TIM_IC_MspInit	0	static
+CoreN2G/src/STM32/timer.c:233:6:disableTimerClock	0	static
+CoreN2G/src/STM32/timer.c:102:6:HAL_TIM_IC_MspDeInit	0	static
+CoreN2G/src/STM32/timer.c:353:11:getTimerUpIrq	8	static
+CoreN2G/src/STM32/timer.c:484:11:getTimerCCIrq	8	static
+CoreN2G/src/STM32/timer.c:28:6:HAL_TIM_Base_MspInit	16	static
+CoreN2G/src/STM32/timer.c:48:6:HAL_TIM_Base_MspDeInit	8	static
+CoreN2G/src/STM32/timer.c:80:6:HAL_TIM_OC_MspDeInit	0	static
+CoreN2G/src/STM32/timer.c:60:6:HAL_TIM_OC_MspInit	16	static
+CoreN2G/src/STM32/timer.c:615:9:getTimerClkSrc	8	static

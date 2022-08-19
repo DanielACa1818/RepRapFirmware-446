@@ -1,0 +1,42 @@
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = GCodes::WaitForPin(GCodeBuffer&, const StringRef&)::<lambda(unsigned int, unsigned int)>; Ret = bool; Params = {unsigned int, unsigned int}]	8	static
+./RRFLibraries/src/General/function_ref.h:31:41:) [with Callable = GCodes::WaitForPin(GCodeBuffer&, const StringRef&)::<lambda(unsigned int, unsigned int)>; Ret = bool; Params = {unsigned int, unsigned int}]	8	static
+./RRFLibraries/src/RTOSIface/RTOSIface.h:408:2:ReadLocker::~ReadLocker()	8	static
+RepRapFirmware/src/GCodes/GCodeBuffer/GCodeBuffer.h:257:35:static constexpr uint32_t GCodeBuffer::ParametersToBitmap(const char*)	8	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:53:13:GCodeResult GCodes::SavePosition(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:64:13:GCodeResult GCodes::SetPositions(GCodeBuffer&, const StringRef&)	64	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:140:13:GCodeResult GCodes::OffsetAxes(GCodeBuffer&, const StringRef&)	56	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:171:13:GCodeResult GCodes::GetSetWorkplaceCoordinates(GCodeBuffer&, const StringRef&, bool)	184	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:250:13:GCodeResult GCodes::DefineGrid(GCodeBuffer&, const StringRef&)	120	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:419:13:GCodeResult GCodes::SimulateFile(GCodeBuffer&, const StringRef&, const StringRef&, bool)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:460:13:GCodeResult GCodes::ChangeSimulationMode(GCodeBuffer&, const StringRef&, SimulationMode)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:493:13:GCodeResult GCodes::WaitForPin(GCodeBuffer&, const StringRef&)	168	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:530:13:GCodeResult GCodes::ConfigureTrigger(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:544:13:GCodeResult GCodes::CheckTrigger(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:562:13:GCodeResult GCodes::DoDriveMapping(GCodeBuffer&, const StringRef&)	120	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:793:13:GCodeResult GCodes::StraightProbe(GCodeBuffer&, const StringRef&)	104	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:896:8:size_t GCodes::FindAxisLetter(GCodeBuffer&)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:969:6:bool GCodes::SetupM585ProbingMove(GCodeBuffer&)	32	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1035:6:bool GCodes::SetupM675ProbingMove(GCodeBuffer&, bool)	32	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1060:6:void GCodes::SetupM675BackoffMove(GCodeBuffer&, float)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1071:13:GCodeResult GCodes::SetDateTime(GCodeBuffer&, const StringRef&)	104	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1130:13:GCodeResult GCodes::UpdateFirmware(GCodeBuffer&, const StringRef&)	152	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1242:13:GCodeResult GCodes::SendI2c(GCodeBuffer&, const StringRef&)	8	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1310:13:GCodeResult GCodes::ReceiveI2c(GCodeBuffer&, const StringRef&)	8	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1453:13:GCodeResult GCodes::ConfigureLocalDriverBasicParameters(GCodeBuffer&, const StringRef&, uint8_t)	96	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1392:13:GCodeResult GCodes::ConfigureLocalDriver(GCodeBuffer&, const StringRef&, uint8_t)	56	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1352:13:GCodeResult GCodes::ConfigureDriver(GCodeBuffer&, const StringRef&)	40	dynamic
+RepRapFirmware/src/GCodes/GCodes3.cpp:1671:13:GCodeResult GCodes::HandleG68(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1705:6:void GCodes::RotateCoordinates(float, float*) const	40	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1717:6:void GCodes::ChangeExtrusionFactor(unsigned int, float)	0	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1760:6:bool GCodes::ProcessWholeLineComment(GCodeBuffer&, const StringRef&)	136	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1893:13:GCodeResult GCodes::RaiseEvent(GCodeBuffer&, const StringRef&)	112	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1926:6:void GCodes::ProcessEvent(GCodeBuffer&)	320	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 100]	20	static
+./RRFLibraries/src/General/String.h:107:26:) [with unsigned int Len = 100]	20	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:221:6:bool GCodes::WriteWorkplaceCoordinates(FileStore*) const	176	static
+./RRFLibraries/src/General/String.h:98:26:) [with unsigned int Len = 20]	20	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1729:6:void GCodes::DeployZProbe(GCodeBuffer&)	64	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:914:13:GCodeResult GCodes::ProbeTool(GCodeBuffer&, const StringRef&)	32	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1005:13:GCodeResult GCodes::FindCenterOfCavity(GCodeBuffer&, const StringRef&)	24	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1745:6:void GCodes::RetractZProbe(GCodeBuffer&)	64	static
+RepRapFirmware/src/GCodes/GCodes3.cpp:1976:1:cpp)	0	static
