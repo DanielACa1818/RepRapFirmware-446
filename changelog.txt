@@ -45,4 +45,4 @@
             - Commented out CoreAllocCCMRamUsage
 
         /NVMEmulations.cpp:
-            - Had to remove functions (replaced with bool entirely)
+            - Had to remove functions (replaced with bool entirely) -> May attempt to remove cnc related functions to fit               this in
