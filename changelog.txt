@@ -21,7 +21,7 @@
                 /makefile
                     - linker script changed to that of STM32F446
                     - stm32f40 flags changed to stm32f446
-                    - remove all HWSERIAL flags except 1, 2 and 3
+                    - removed hwserial 4 flag (boot loop when on)
                 /Core
                     -Moved/replaced stm32f407 flag directory to stm32f446
                 /RepRapFirmware
