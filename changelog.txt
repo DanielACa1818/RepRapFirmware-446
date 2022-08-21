@@ -22,7 +22,7 @@
                     - linker script changed to that of STM32F446
                     - stm32f40 flags changed to stm32f446
                     - removed hwserial 4 flag (boot loop when on)
-                    - removed hwserial 5 and 6 flag (reboot on m997 s1 when on) 
+                    - removed hwserial 2, 5 and 6 flag (reboot on m997 s1 when on) 
                 /Core
                     -Moved/replaced stm32f407 flag directory to stm32f446
                 /RepRapFirmware
