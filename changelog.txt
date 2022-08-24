@@ -13,6 +13,7 @@
                     - linker script from BTT release
                 /variant.h:
                     - replaced stm32f407 with stm32f466 pins
+                    - change hse to 12000000 (clock speed of btt f446)
                 /variant.cpp (Copied from stm32f407 and BTT clock speeds used... I struggle with cubemx):
                     - PeriphClkInitStruct
                     - PLLM and PLLN values changed to 6 and 180 respectively 
